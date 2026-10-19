@@ -1,0 +1,17 @@
+{
+  "slug": "01-venus-day-longer-than-year",
+  "category": "SPACE FACT",
+  "theme": "#ff7a3d",
+  "voice": "am_michael",
+  "scenes": [
+    {"text": "On Venus, a single day lasts longer than an entire year.", "emoji": "🪐"},
+    {"text": "Venus spins so slowly that one full turn takes about two hundred and forty three Earth days.", "emoji": "🐢"},
+    {"text": "But it only needs about two hundred and twenty five days to go all the way around the Sun.", "emoji": "☀️"},
+    {"text": "And it gets even weirder.", "emoji": "🤯"},
+    {"text": "Venus spins backwards, so there the Sun rises in the west and sets in the east.", "emoji": "🌅"},
+    {"text": "Would you survive a day that long?", "emoji": "🤔"}
+  ],
+  "title": "A day on Venus is longer than its year 🤯",
+  "caption": "Venus takes about 243 Earth days to spin once, but only about 225 days to orbit the Sun. And the Sun rises in the west there! Would you survive a day that long? 🪐",
+  "hashtags": ["#space", "#venus", "#didyouknow", "#sciencefacts", "#astronomy", "#shorts"]
+}

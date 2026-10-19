@@ -1,0 +1,17 @@
+{
+  "slug": "03-zeigarnik-effect",
+  "category": "PSYCHOLOGY FACT",
+  "theme": "#2f80ff",
+  "voice": "af_heart",
+  "scenes": [
+    {"text": "Your brain remembers unfinished tasks better than finished ones.", "emoji": "🧠"},
+    {"text": "It's called the Zeigarnik effect, after psychologist Bluma Zeigarnik.", "emoji": "👩‍🔬"},
+    {"text": "In the nineteen twenties, she noticed waiters remembered unpaid orders perfectly, then forgot them once the bill was paid.", "emoji": "🍽️"},
+    {"text": "Her experiments suggested that interrupted tasks stick in our minds.", "emoji": "⏸️"},
+    {"text": "That's why cliffhangers make you hit next episode.", "emoji": "📺"},
+    {"text": "Want to beat procrastination? Just start for two minutes, and your brain will want to finish.", "emoji": "⏱️"}
+  ],
+  "title": "Why your brain can't let go of unfinished tasks 🧠",
+  "caption": "The Zeigarnik effect: we tend to remember interrupted or unfinished tasks better than completed ones. Use it to beat procrastination: just start for 2 minutes! 🧠",
+  "hashtags": ["#psychology", "#psychologyfacts", "#didyouknow", "#brain", "#productivity", "#shorts"]
+}
