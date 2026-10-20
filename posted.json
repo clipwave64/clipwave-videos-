@@ -2,6 +2,9 @@
   "posts": [
     {"post_date": "2026-10-20T10:00", "slug": "01-venus-day-longer-than-year", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400318982, "status": "scheduled"},
     {"post_date": "2026-10-20T12:00", "slug": "02-cleopatra-closer-to-moon-landing", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400319217, "status": "scheduled"},
-    {"post_date": "2026-10-20T18:00", "slug": "03-zeigarnik-effect", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400319278, "status": "scheduled"}
+    {"post_date": "2026-10-20T18:00", "slug": "03-zeigarnik-effect", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400319278, "status": "scheduled"},
+    {"post_date": "2026-10-21T10:00", "slug": "01-orionids-halley-dust", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728194, "status": "scheduled"},
+    {"post_date": "2026-10-21T12:00", "slug": "02-octopus-three-hearts", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728221, "status": "scheduled"},
+    {"post_date": "2026-10-21T18:00", "slug": "03-astronauts-grow-taller", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728241, "status": "scheduled"}
   ]
 }
