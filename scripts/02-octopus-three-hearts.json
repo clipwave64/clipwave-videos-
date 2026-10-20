@@ -1,0 +1,18 @@
+{
+  "slug": "02-octopus-three-hearts",
+  "category": "ANIMAL FACT",
+  "theme": "#00a6a6",
+  "voice": "af_bella",
+  "scenes": [
+    {"text": "An octopus has three hearts, and its blood is blue.", "emoji": "🐙"},
+    {"text": "Two of the hearts pump blood through the gills to pick up oxygen.", "emoji": "🫁"},
+    {"text": "The third heart sends that blood to the rest of the body.", "emoji": "❤️"},
+    {"text": "But when an octopus swims, that third heart stops beating.", "emoji": "⏸️"},
+    {"text": "That's why octopuses would rather crawl, because swimming tires them out.", "emoji": "😮‍💨"},
+    {"text": "Their blood is blue because it uses copper instead of iron to carry oxygen.", "emoji": "💙"},
+    {"text": "Which sea creature should we cover next?", "emoji": "🤔"}
+  ],
+  "title": "Octopuses have 3 hearts and blue blood 🐙",
+  "caption": "Two hearts pump blood through the gills, and the third pumps it to the body, but it stops when the octopus swims! Their blood is blue because it uses copper-based hemocyanin instead of iron.",
+  "hashtags": ["#animals", "#octopus", "#didyouknow", "#animalfacts", "#ocean", "#shorts"]
+}

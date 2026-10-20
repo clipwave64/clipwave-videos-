@@ -1,0 +1,18 @@
+{
+  "slug": "01-orionids-halley-dust",
+  "category": "SPACE FACT",
+  "theme": "#7b5cff",
+  "voice": "bm_george",
+  "scenes": [
+    {"text": "This week you can watch pieces of Halley's Comet burn up in the sky.", "emoji": "☄️"},
+    {"text": "It's called the Orionid meteor shower, and it peaks around October twenty first and twenty second.", "emoji": "🌠"},
+    {"text": "Every year, Earth flies through the dusty trail Halley's Comet leaves behind.", "emoji": "🌍"},
+    {"text": "That dust hits our air at about sixty six kilometers per second, and glows as it burns up.", "emoji": "🔥"},
+    {"text": "Look up before dawn, and you might see fifteen to twenty per hour.", "emoji": "🔭"},
+    {"text": "The comet itself won't come back until twenty sixty one.", "emoji": "⏳"},
+    {"text": "Will you go outside and look tonight?", "emoji": "🤔"}
+  ],
+  "title": "You can see Halley's Comet this week (sort of) ☄️",
+  "caption": "The Orionid meteor shower peaks around Oct 21-22. Those shooting stars are dust from Halley's Comet hitting our atmosphere at about 66 km per second. The comet itself returns in 2061!",
+  "hashtags": ["#space", "#orionids", "#meteorshower", "#halleyscomet", "#astronomy", "#shorts"]
+}

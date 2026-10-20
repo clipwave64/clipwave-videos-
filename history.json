@@ -1,7 +1,34 @@
 {
   "topics": [
-    {"date": "2026-10-19", "niche": "space", "topic": "A day on Venus is longer than its year; Venus spins backwards"},
-    {"date": "2026-10-19", "niche": "history", "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"},
-    {"date": "2026-10-19", "niche": "psychology", "topic": "The Zeigarnik effect: unfinished tasks are remembered better"}
+    {
+      "date": "2026-10-19",
+      "niche": "space",
+      "topic": "A day on Venus is longer than its year; Venus spins backwards"
+    },
+    {
+      "date": "2026-10-19",
+      "niche": "history",
+      "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"
+    },
+    {
+      "date": "2026-10-19",
+      "niche": "psychology",
+      "topic": "The Zeigarnik effect: unfinished tasks are remembered better"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "space",
+      "topic": "Orionid meteor shower is dust from Halley's Comet (peaks Oct 21-22, ~66 km/s)"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "animals",
+      "topic": "Octopuses have three hearts and blue copper-based blood; systemic heart stops when swimming"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "human body",
+      "topic": "Astronauts grow up to 3% taller in space"
+    }
   ]
 }
