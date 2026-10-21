@@ -5,6 +5,9 @@
     {"post_date": "2026-10-20T18:00", "slug": "03-zeigarnik-effect", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400319278, "status": "scheduled"},
     {"post_date": "2026-10-21T10:00", "slug": "01-orionids-halley-dust", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728194, "status": "scheduled"},
     {"post_date": "2026-10-21T12:00", "slug": "02-octopus-three-hearts", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728221, "status": "scheduled"},
-    {"post_date": "2026-10-21T18:00", "slug": "03-astronauts-grow-taller", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728241, "status": "scheduled"}
+    {"post_date": "2026-10-21T18:00", "slug": "03-astronauts-grow-taller", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 400728241, "status": "scheduled"},
+    {"post_date": "2026-10-22T10:00", "slug": "01-first-parachute-jump", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 401781151, "status": "scheduled"},
+    {"post_date": "2026-10-22T12:00", "slug": "03-bananas-radioactive", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 401781192, "status": "scheduled"},
+    {"post_date": "2026-10-22T18:00", "slug": "02-vampire-bats-share-blood", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 401781232, "status": "scheduled"}
   ]
 }
