@@ -1,0 +1,18 @@
+{
+  "slug": "03-bananas-radioactive",
+  "category": "SCIENCE FACT",
+  "theme": "#e8c21c",
+  "voice": "bm_george",
+  "scenes": [
+    {"text": "Bananas are slightly radioactive.", "emoji": "🍌"},
+    {"text": "They're full of potassium, and a tiny part of all potassium is radioactive potassium forty.", "emoji": "⚛️"},
+    {"text": "Scientists even joke about a unit called the banana equivalent dose.", "emoji": "📏"},
+    {"text": "But one banana gives you about one hundredth of the radiation you get every single day.", "emoji": "🌍"},
+    {"text": "And your body keeps its potassium level steady, so it doesn't build up.", "emoji": "⚖️"},
+    {"text": "You're actually a little radioactive yourself!", "emoji": "🧍"},
+    {"text": "Will this change how you look at your breakfast?", "emoji": "🤔"}
+  ],
+  "title": "Bananas are radioactive (and so are you) 🍌",
+  "caption": "Bananas contain potassium, and a tiny fraction of potassium is radioactive potassium-40. One banana is about 0.1 microsieverts, roughly 1% of a normal day's natural background radiation. Totally safe!",
+  "hashtags": ["#science", "#sciencefacts", "#banana", "#radiation", "#didyouknow", "#shorts"]
+}
