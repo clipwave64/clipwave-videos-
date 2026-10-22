@@ -44,6 +44,21 @@
       "date": "2026-10-21",
       "niche": "science",
       "topic": "Bananas are slightly radioactive (potassium-40, banana equivalent dose)"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "science",
+      "topic": "Mole Day (Oct 23, 6:02-6:02) and Avogadro's number 6.02x10^23; a mole of water is ~18 g"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "history",
+      "topic": "First jack-o'-lanterns were carved from turnips (Ireland/Scotland) and beets (England); pumpkins in America"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "space",
+      "topic": "Sugar-cube of neutron star weighs ~1 billion tons; ~20 km wide; spin hundreds of times/sec"
     }
   ]
 }
