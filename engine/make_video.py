@@ -12,8 +12,14 @@ The script JSON looks like:
     {"text": "A day on Venus is longer than its year.", "emoji": "🪐"},
     ...
   ],
-  "title": "...", "caption": "...", "hashtags": ["#space", ...]
+  "title": "...", "caption": "...", "hashtags": ["#space", ...],
+  "layout": "split",                         # optional: "split" (default) or "classic"
+  "bottom": "runner",                        # optional: runner | marbles | parkour (default: picked from slug)
+  "caption_font": "montserrat"               # optional: montserrat (default) or poppins
 }
+
+Split layout = fact on the top half, original code-generated "satisfying gameplay" on the
+bottom half (see gameplay.py), with big word-by-word captions sitting on the seam.
 """
 import json
 import math
@@ -28,11 +34,17 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import tts  # noqa: E402
+import gameplay  # noqa: E402
 
 W, H, FPS = 1080, 1920, 30
 FONT_BOLD = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
 FONT_MED = "/usr/share/fonts/truetype/google-fonts/Poppins-Medium.ttf"
 FONT_EMOJI = "/usr/share/fonts/truetype/noto/NotoColorEmoji.ttf"
+FONT_DIR = Path(__file__).resolve().parent / "fonts"
+CAPTION_FONTS = {
+    "montserrat": str(FONT_DIR / "Montserrat-Black.ttf"),
+    "poppins": FONT_BOLD,
+}
 HIGHLIGHT = (255, 214, 10)
 END_CARD = 2.2  # seconds of "follow" card at the end
 HANDLE = "@clip.wave64"  # your username, shown on the end card
@@ -148,6 +160,15 @@ def render(script_path, out_dir):
     theme = hex_rgb(spec.get("theme", "#6c3bff"))
     scenes = spec["scenes"]
     rng = random.Random(slug)
+    split = spec.get("layout", "split") == "split"
+    cap_font = CAPTION_FONTS.get(spec.get("caption_font", "montserrat"), FONT_BOLD)
+    if not Path(cap_font).exists():
+        cap_font = FONT_BOLD
+    TOP = H // 2 if split else H          # height of the "fact" area
+    game = None
+    if split:
+        style = spec.get("bottom") or gameplay.STYLES[sum(map(ord, slug)) % len(gameplay.STYLES)]
+        game = gameplay.make_game(style, slug, theme, cap_font)
 
     # 1) voice
     voice, times = tts.speak([s["text"] for s in scenes], voice=spec.get("voice", "am_michael"))
@@ -164,7 +185,7 @@ def render(script_path, out_dir):
     dark = mix(theme, (8, 6, 20), 0.72)
     darker = mix(theme, (2, 2, 8), 0.92)
     bg = Image.new("RGB", (W, H))
-    grad = np.linspace(0, 1, H)[:, None]
+    grad = np.linspace(0, 1, TOP)[:, None]
     arr = (np.array(dark)[None, None, :] * (1 - grad[..., None]) + np.array(darker)[None, None, :] * grad[..., None])
     bg = Image.fromarray(np.repeat(arr, W, axis=1).astype(np.uint8))
     blobs = [
@@ -172,8 +193,13 @@ def render(script_path, out_dir):
         (blob(340, mix(theme, (255, 80, 160), 0.45), 95), rng.random() * 6, 0.08),
         (blob(300, mix(theme, (40, 200, 255), 0.45), 85), rng.random() * 6, 0.13),
     ]
-    stars = [(rng.random() * W, rng.random() * H, rng.random() * 2.5 + 1, rng.random() * 6) for _ in range(70)]
-    emojis = [emoji_image(s.get("emoji", "✨"), 380) for s in scenes]
+    stars = [(rng.random() * W, rng.random() * TOP, rng.random() * 2.5 + 1, rng.random() * 6) for _ in range(70)]
+    emojis = [emoji_image(s.get("emoji", "✨"), 300 if split else 380) for s in scenes]
+    # layout positions
+    if split:
+        Y_BRAND, Y_LABEL, Y_EMOJI, Y_CAP, CAP_SIZE, Y_BAR = 90, 150, 520, H // 2, 100, H - 70
+    else:
+        Y_BRAND, Y_LABEL, Y_EMOJI, Y_CAP, CAP_SIZE, Y_BAR = 130, 190, 720, 1290, 96, H - 120
     f_cap = ImageFont.truetype(FONT_BOLD, 96)
     f_label = ImageFont.truetype(FONT_BOLD, 40)
     f_brand = ImageFont.truetype(FONT_MED, 36)
@@ -194,27 +220,31 @@ def render(script_path, out_dir):
     n_frames = int(duration * FPS)
     for fi in range(n_frames):
         t = fi / FPS
-        frame = bg.copy().convert("RGBA")
+        frame = Image.new("RGBA", (W, H))
+        frame.paste(bg, (0, 0))
 
         # drifting glow blobs
         for k, (img, ph, sp) in enumerate(blobs):
             x = W / 2 + math.sin(t * sp * 2 + ph) * 380 - img.width / 2
-            y = H * (0.3 + 0.2 * k) + math.cos(t * sp * 1.6 + ph) * 260 - img.height / 2
+            y = TOP * (0.3 + 0.2 * k) + math.cos(t * sp * 1.6 + ph) * 260 - img.height / 2
             frame.alpha_composite(img, (int(x), int(y)))
 
         d = ImageDraw.Draw(frame)
         # twinkling particles
         for (sx, sy, r, ph) in stars:
-            yy = (sy - t * 18 * r) % H
+            yy = (sy - t * 18 * r) % TOP
             a = int(90 + 80 * math.sin(t * 2 + ph))
             d.ellipse((sx - r, yy - r, sx + r, yy + r), fill=(255, 255, 255, a))
 
         # brand + category label
-        d.text((W / 2, 130), "ClipWave", font=f_brand, fill=(255, 255, 255, 170), anchor="mm")
+        if game is not None:
+            frame.paste(game.frame(t), (0, TOP))
+            d = ImageDraw.Draw(frame)
+        d.text((W / 2, Y_BRAND), "ClipWave", font=f_brand, fill=(255, 255, 255, 170), anchor="mm")
         label = spec.get("category", "DID YOU KNOW?")
         lw = d.textlength(label, font=f_label)
-        d.rounded_rectangle((W / 2 - lw / 2 - 34, 190, W / 2 + lw / 2 + 34, 262), radius=36, fill=(*HIGHLIGHT, 255))
-        d.text((W / 2, 226), label, font=f_label, fill=(20, 16, 40), anchor="mm")
+        d.rounded_rectangle((W / 2 - lw / 2 - 34, Y_LABEL, W / 2 + lw / 2 + 34, Y_LABEL + 72), radius=36, fill=(*HIGHLIGHT, 255))
+        d.text((W / 2, Y_LABEL + 36), label, font=f_label, fill=(20, 16, 40), anchor="mm")
 
         if t < end_start:
             # current scene emoji with pop-in + bob
@@ -228,7 +258,7 @@ def render(script_path, out_dir):
             ew, eh = max(1, int(em.width * sc)), max(1, int(em.height * sc))
             emr = em.resize((ew, eh), Image.BILINEAR)
             bob = math.sin(t * 2.2) * 18
-            frame.alpha_composite(emr, (int(W / 2 - ew / 2), int(720 - eh / 2 + bob)))
+            frame.alpha_composite(emr, (int(W / 2 - ew / 2), int(Y_EMOJI - eh / 2 + bob)))
 
             # caption chunk with active-word highlight
             cur = None
@@ -238,7 +268,7 @@ def render(script_path, out_dir):
             if cur and t <= cur[-1]["e"] + 0.6:
                 txt_words = [w["w"].upper() for w in cur]
                 pop = 0.85 + 0.15 * ease_out_back((t - cur[0]["s"]) / 0.18)
-                f = ImageFont.truetype(FONT_BOLD, int(96 * pop))
+                f = ImageFont.truetype(cap_font, int(CAP_SIZE * pop))
                 space = d.textlength(" ", font=f)
                 widths = [d.textlength(w, font=f) for w in txt_words]
                 # wrap into lines if too wide
@@ -250,7 +280,7 @@ def render(script_path, out_dir):
                     lw_ += (space if line else 0) + wdt
                     line.append(i)
                 lines.append(line)
-                y0 = 1290 - (len(lines) - 1) * 60
+                y0 = Y_CAP - (len(lines) - 1) * 60
                 for li, line in enumerate(lines):
                     total = sum(widths[i] for i in line) + space * (len(line) - 1)
                     x = W / 2 - total / 2
@@ -259,11 +289,17 @@ def render(script_path, out_dir):
                         w = cur[i]
                         active = w["s"] <= t < w["e"] + 0.02
                         col = HIGHLIGHT if active else (255, 255, 255)
+                        d.text((x + 6, y + 8), txt_words[i], font=f, fill=(0, 0, 0, 150), anchor="lm",
+                               stroke_width=10, stroke_fill=(0, 0, 0, 150))
                         d.text((x, y), txt_words[i], font=f, fill=col, anchor="lm",
-                               stroke_width=8, stroke_fill=(10, 8, 25))
+                               stroke_width=10, stroke_fill=(10, 8, 25))
                         x += widths[i] + space
         else:
             # end card
+            if split:
+                shade = Image.new("RGBA", (W, H), (8, 6, 20, int(170 * min(1, (t - end_start) / 0.3))))
+                frame.alpha_composite(shade)
+                d = ImageDraw.Draw(frame)
             k = ease_out_back((t - end_start) / 0.5)
             fa = ImageFont.truetype(FONT_BOLD, max(10, int(92 * k)))
             d.text((W / 2, 820), "Follow for more", font=fa, fill=(255, 255, 255), anchor="mm",
@@ -273,8 +309,8 @@ def render(script_path, out_dir):
 
         # progress bar
         p = min(1, t / duration)
-        d.rounded_rectangle((80, H - 120, W - 80, H - 108), radius=6, fill=(255, 255, 255, 50))
-        d.rounded_rectangle((80, H - 120, 80 + (W - 160) * p, H - 108), radius=6, fill=(*HIGHLIGHT, 255))
+        d.rounded_rectangle((80, Y_BAR, W - 80, Y_BAR + 12), radius=6, fill=(255, 255, 255, 90))
+        d.rounded_rectangle((80, Y_BAR, 80 + (W - 160) * p, Y_BAR + 12), radius=6, fill=(*HIGHLIGHT, 255))
 
         ff.stdin.write(frame.convert("RGB").tobytes())
 
