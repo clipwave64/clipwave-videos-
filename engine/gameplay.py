@@ -7,11 +7,14 @@ no copyright claims and no 'unoriginal / reused content' penalties.
     img = game.frame(t)          # PIL RGB image, GW x GH, for time t in seconds
 
 Styles: runner (endless-runner, 3 lanes), marbles (balls escaping a spinning ring),
-parkour (blocky side-scroller jumping across gaps).
+parkour (blocky side-scroller jumping across gaps), and "clip" = a screen recording the
+owner made THEMSELVES and uploaded to gameplay/ (never downloaded footage).
 """
 import colorsys
 import math
 import random
+import subprocess
+from pathlib import Path
 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
@@ -435,7 +438,63 @@ class Parkour:
         return img
 
 
+# ===================================================================== your own clips
+CLIP_DIR = Path(__file__).resolve().parent.parent / "gameplay"
+CLIP_EXT = (".mp4", ".mov", ".m4v", ".webm")
+
+
+def own_clips():
+    """Gameplay recordings the OWNER made themselves and uploaded to gameplay/."""
+    if not CLIP_DIR.is_dir():
+        return []
+    return sorted(p for p in CLIP_DIR.iterdir() if p.suffix.lower() in CLIP_EXT)
+
+
+class Clip:
+    """Plays a random, muted, looping part of one of the owner's own screen recordings,
+    cropped to fill the bottom half."""
+
+    def __init__(self, seed, theme, font, path=None):
+        rng = random.Random(seed)
+        clips = own_clips()
+        if path is None:
+            if not clips:
+                raise FileNotFoundError("no recordings in gameplay/")
+            path = clips[rng.randrange(len(clips))]
+        dur = float(subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
+            capture_output=True, text=True).stdout.strip() or 0)
+        start = rng.uniform(0, max(0.0, dur - 60)) if dur > 70 else 0.0
+        self.proc = subprocess.Popen([
+            "ffmpeg", "-v", "quiet", "-stream_loop", "-1", "-ss", f"{start:.2f}", "-i", str(path), "-an",
+            "-vf", f"fps=30,scale={GW}:{GH}:force_original_aspect_ratio=increase,crop={GW}:{GH}",
+            "-f", "rawvideo", "-pix_fmt", "rgb24", "-"], stdout=subprocess.PIPE)
+        self.n = 0
+        self.last = Image.new("RGB", (GW, GH))
+
+    def frame(self, t):
+        want = int(round(t * 30))
+        while self.n <= want:
+            buf = self.proc.stdout.read(GW * GH * 3)
+            if len(buf) < GW * GH * 3:
+                break
+            self.last = Image.frombuffer("RGB", (GW, GH), buf)
+            self.n += 1
+        return self.last
+
+    def __del__(self):
+        try:
+            self.proc.stdout.close()
+            self.proc.kill()
+            self.proc.wait()
+        except Exception:
+            pass
+
+
 def make_game(style, seed, theme, font_path):
     font = ImageFont.truetype(font_path, 44)
+    if style == "clip" or style.startswith("clip:"):
+        path = CLIP_DIR / style[5:] if style.startswith("clip:") else None
+        return Clip(seed, theme, font, path)
     cls = {"runner": Runner, "marbles": Marbles, "parkour": Parkour}[style]
     return cls(seed, theme, font)

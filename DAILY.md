@@ -35,7 +35,7 @@ Every morning: research what's getting views, make **3 new videos**, upload them
    - `voice`: one of `am_michael`, `af_heart`, `am_adam`, `af_bella`, `bm_george` (vary them)
    - `scenes`: 5-7 sentences, each with one fitting emoji. Sentence 1 = the hook (the most surprising part, said directly). End with a question to get comments. Write numbers as words so the voice reads them right. Sentences under ~20 words. Target 25-40 seconds.
    - `title` (under 70 characters, 1 emoji), `caption` (2-3 sentences, digits OK), `hashtags` (5-6, end with #shorts)
-   - Style fields (from today's format research): `layout` ("split" = fact on top + gameplay on bottom, default; or "classic" full-screen), `bottom` ("runner", "marbles" or "parkour"; give each of the 3 videos a DIFFERENT one), `caption_font` ("montserrat" default, or "poppins")
+   - Style fields (from today's format research): `layout` ("split" = fact on top + gameplay on bottom, default; or "classic" full-screen), `bottom` ("runner", "marbles" or "parkour"; give each of the 3 videos a DIFFERENT one. If the owner has uploaded their OWN screen recordings to `gameplay/`, use "clip" (random recording) or "clip:<filename>" for those videos instead), `caption_font` ("montserrat" default, or "poppins")
 
 6. **Render**: `python3 engine/make_video.py scripts/<slug>.json videos/<TOMORROW>` for each (can run in parallel). Extract 2-3 frames per video with ffmpeg and LOOK at them (check: captions readable, nothing overlapping, the bottom-half gameplay moving and not glitching); fix and re-render anything broken. Split-screen renders take about 5 minutes for 3 videos in parallel.
 
