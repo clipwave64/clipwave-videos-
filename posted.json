@@ -11,6 +11,9 @@
     {"post_date": "2026-10-22T18:00", "slug": "02-vampire-bats-share-blood", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 401781232, "status": "scheduled"},
     {"post_date": "2026-10-23T10:00", "slug": "01-mole-day-avogadro", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 402792419, "status": "scheduled"},
     {"post_date": "2026-10-23T12:00", "slug": "02-turnip-jack-o-lanterns", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 402792440, "status": "scheduled"},
-    {"post_date": "2026-10-23T18:00", "slug": "03-neutron-star-sugar-cube", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 402792469, "status": "scheduled"}
+    {"post_date": "2026-10-23T18:00", "slug": "03-neutron-star-sugar-cube", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 402792469, "status": "scheduled"},
+    {"post_date": "2026-10-24T10:00", "slug": "01-niagara-barrel-annie-taylor", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 403807763, "status": "scheduled"},
+    {"post_date": "2026-10-24T12:00", "slug": "02-owls-head-turn", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 403807772, "status": "scheduled"},
+    {"post_date": "2026-10-24T18:00", "slug": "03-clocks-go-back-dst", "networks": ["tiktok", "instagram", "youtube"], "metricool_id": 403807781, "status": "scheduled"}
   ]
 }
