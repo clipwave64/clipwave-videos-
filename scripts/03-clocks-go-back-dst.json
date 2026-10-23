@@ -1,0 +1,20 @@
+{
+  "slug": "03-clocks-go-back-dst",
+  "category": "SCIENCE FACT",
+  "theme": "#1f9e5a",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "This Sunday, Europe gets one extra hour of sleep, and it all started with a war.", "emoji": "⏰"},
+    {"text": "On October twenty fifth, clocks across Europe go back one hour. America does it a week later.", "emoji": "🌍"},
+    {"text": "In nineteen sixteen, Germany became the first country to use daylight saving time nationwide.", "emoji": "🇩🇪"},
+    {"text": "The goal was to save fuel during World War One.", "emoji": "🔥"},
+    {"text": "Benjamin Franklin once joked about it too, telling Parisians to wake up earlier to save candles.", "emoji": "🕯️"},
+    {"text": "Should we keep changing the clocks, or stop for good?", "emoji": "🤔"}
+  ],
+  "title": "Why the clocks go back this weekend ⏰",
+  "caption": "Clocks in Europe go back 1 hour on Sunday, October 25 (US: November 1). Germany was the first country to adopt daylight saving time nationwide in 1916, to save fuel in WWI. ⏰",
+  "hashtags": ["#science", "#didyouknow", "#daylightsavingtime", "#history", "#facts", "#shorts"]
+}

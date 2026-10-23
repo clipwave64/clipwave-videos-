@@ -1,0 +1,20 @@
+{
+  "slug": "02-owls-head-turn",
+  "category": "ANIMAL FACT",
+  "theme": "#7a4fd1",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Owls can't move their eyes, so they turn their heads instead, up to two hundred seventy degrees.", "emoji": "🦉"},
+    {"text": "Their eyes aren't round balls like ours, they're shaped like tubes.", "emoji": "🔭"},
+    {"text": "The tubes are locked in place by bone, so the eyes can't roll around.", "emoji": "🔒"},
+    {"text": "To make up for it, owls have fourteen neck bones, twice as many as humans.", "emoji": "🦴"},
+    {"text": "Scientists at Johns Hopkins found special blood vessels that keep blood flowing while they twist.", "emoji": "🩸"},
+    {"text": "If you could spin your head like an owl, what would you look at first?", "emoji": "👀"}
+  ],
+  "title": "Why owls turn their heads almost all the way around 🦉",
+  "caption": "Owls' eyes are tube-shaped and fixed in place, so they swivel their heads about 270 degrees instead. They have 14 neck vertebrae, humans have only 7! 🦉",
+  "hashtags": ["#animals", "#animalfacts", "#owls", "#nature", "#didyouknow", "#shorts"]
+}
