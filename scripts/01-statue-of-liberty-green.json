@@ -1,0 +1,21 @@
+{
+  "slug": "01-statue-of-liberty-green",
+  "category": "HISTORY FACT",
+  "theme": "#2e9e83",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "The Statue of Liberty wasn't always green. She used to be shiny copper, like a brand new penny.", "emoji": "🗽"},
+    {"text": "She was unveiled in New York on October twenty-eighth, eighteen eighty-six, as a gift from France.", "emoji": "🇫🇷"},
+    {"text": "Her skin is made of copper sheets only about as thick as two pennies stacked together.", "emoji": "🪙"},
+    {"text": "Sea air and rain slowly reacted with the copper, and green started showing up around nineteen oh three.", "emoji": "🌧️"},
+    {"text": "In nineteen oh six, Congress set aside money to paint her, but people protested and the plan was dropped.", "emoji": "🎨"},
+    {"text": "That green layer actually protects the metal underneath from wearing away.", "emoji": "🛡️"},
+    {"text": "Which color do you think looks better, copper or green?", "emoji": "🤔"}
+  ],
+  "title": "The Statue of Liberty used to be copper-colored 🗽",
+  "caption": "Lady Liberty was unveiled on October 28, 1886, shiny copper like a new penny. Sea air turned her green over about 20 years, and that green patina now protects her skin! 🗽",
+  "hashtags": ["#history", "#historyfacts", "#statueofliberty", "#newyork", "#didyouknow", "#shorts"]
+}

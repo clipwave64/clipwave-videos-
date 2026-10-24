@@ -1,0 +1,21 @@
+{
+  "slug": "02-felicette-cat-in-space",
+  "category": "SPACE FACT",
+  "theme": "#3d5bd9",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "The first cat to ever reach space was a black and white Parisian cat named Félicette.", "emoji": "🐱"},
+    {"text": "On October eighteenth, nineteen sixty-three, France launched her on a Véronique rocket from the Sahara in Algeria.", "emoji": "🚀"},
+    {"text": "She flew higher than one hundred fifty kilometers, well past the edge of space.", "emoji": "🌌"},
+    {"text": "Electrodes on her body let scientists record her brain and heart the whole time.", "emoji": "🧠"},
+    {"text": "She floated weightless for about five minutes, and the whole flight lasted just thirteen minutes.", "emoji": "⏱️"},
+    {"text": "Her capsule came down by parachute, and she was recovered safely.", "emoji": "🪂"},
+    {"text": "In twenty nineteen she finally got a statue. Would you trust a cat as an astronaut?", "emoji": "🏆"}
+  ],
+  "title": "The first cat in space was from Paris 🐱",
+  "caption": "On October 18, 1963, France sent a cat named Félicette more than 150 km up on a Véronique rocket. She was weightless for about 5 minutes and came back safely! 🚀",
+  "hashtags": ["#space", "#spacefacts", "#cats", "#spacehistory", "#didyouknow", "#shorts"]
+}

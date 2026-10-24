@@ -1,0 +1,21 @@
+{
+  "slug": "03-pumpkins-are-berries",
+  "category": "SCIENCE FACT",
+  "theme": "#e8741c",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Your Halloween pumpkin is actually a giant berry, at least to a botanist.", "emoji": "🎃"},
+    {"text": "In botany, a berry is a simple fleshy fruit that usually has many seeds.", "emoji": "🔬"},
+    {"text": "Pumpkins are a special kind of berry called a pepo, with a hard rind and lots of seeds.", "emoji": "🌱"},
+    {"text": "Watermelons and cucumbers are pepos too, and bananas and tomatoes also count as berries.", "emoji": "🍌"},
+    {"text": "But strawberries and raspberries are not true berries at all.", "emoji": "🍓"},
+    {"text": "They grow from flowers with many tiny ovaries, which makes them aggregate fruits instead.", "emoji": "🌸"},
+    {"text": "Which fruit fact surprised you the most?", "emoji": "🤯"}
+  ],
+  "title": "Your pumpkin is technically a giant berry 🎃",
+  "caption": "Botanically, a pumpkin is a berry called a pepo, just like watermelons and cucumbers. Bananas and tomatoes are berries too, but strawberries are not! 🎃",
+  "hashtags": ["#science", "#sciencefacts", "#pumpkin", "#halloween", "#didyouknow", "#shorts"]
+}
