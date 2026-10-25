@@ -1,0 +1,21 @@
+{
+  "slug": "02-crows-remember-faces",
+  "category": "ANIMAL FACT",
+  "theme": "#5b3fa0",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Crows can remember your face for years, and teach other crows to hate you.", "emoji": "🐦‍⬛"},
+    {"text": "Scientists in Seattle wore a scary caveman mask while trapping and tagging wild crows.", "emoji": "🎭"},
+    {"text": "Afterwards, whenever someone walked by in that mask, crows dived and scolded them.", "emoji": "😡"},
+    {"text": "Even crows that were never caught joined in, learning from the others.", "emoji": "📢"},
+    {"text": "Young crows picked up the grudge from their parents.", "emoji": "🪺"},
+    {"text": "At one site, five years later, three times as many crows were scolding the mask.", "emoji": "📈"},
+    {"text": "Would you dare wear that mask this Halloween?", "emoji": "🎃"}
+  ],
+  "title": "Crows never forget a face (and they tell their friends) 🐦‍⬛",
+  "caption": "University of Washington researchers wore a caveman mask while trapping crows. For years after, crows scolded anyone in that mask, even crows that were never trapped. 🐦‍⬛",
+  "hashtags": ["#animals", "#animalfacts", "#crows", "#halloween", "#didyouknow", "#shorts"]
+}

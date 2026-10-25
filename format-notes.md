@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-25: hook must be paid off by the very next line
+**Found**
+- Hooks should promise exactly what the next scene delivers; a shocking line the video can't back up hurts. Retention graphs take 1-2 days to process and a dip alone doesn't say why viewers left, so judge on several videos, not one. ([ShortsFast: faceless Shorts hooks & retention 2026](https://shortsfast.com/blog/faceless-shorts-hooks-retention-2026/))
+- Caption guidance unchanged: bold sans-serif, short timed blocks, middle third of the frame. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+
+**Applied**
+- No engine change. Each sentence 2 now directly backs up the hook (who/where/proof). Timely tie-ins: smallpox last-case anniversary (Oct 26), Halloween masks for the crow study.
+- Bottoms: runner / parkour / marbles; voices bm_george / af_heart / af_bella.
+
 ## 2026-10-24: keep captions in the middle third, short timed blocks
 **Found**
 - Caption best practice for Shorts: bold sans-serif (Montserrat/Helvetica), high contrast, short blocks of a few words shown ~1.5-3 s each, max two lines, centered in the middle third; keep out of the top 20% (title/channel) and bottom 25% (like/comment/share buttons). ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))

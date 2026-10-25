@@ -1,0 +1,21 @@
+{
+  "slug": "03-mars-blue-sunsets",
+  "category": "SPACE FACT",
+  "theme": "#c1440e",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "On Mars, sunsets are blue.", "emoji": "🌅"},
+    {"text": "NASA rovers like Curiosity and Opportunity have photographed them.", "emoji": "🤖"},
+    {"text": "It's the opposite of Earth, where sunsets glow orange and red.", "emoji": "🌍"},
+    {"text": "Fine dust in the Martian air scatters blue light forward, close to the Sun.", "emoji": "💨"},
+    {"text": "So as the Sun sets, a cool blue glow surrounds it.", "emoji": "🔵"},
+    {"text": "Meanwhile, the daytime sky on Mars looks a dusty butterscotch color.", "emoji": "🟠"},
+    {"text": "Would you rather watch a sunset on Earth or on Mars?", "emoji": "🚀"}
+  ],
+  "title": "Sunsets on Mars are blue 🌅",
+  "caption": "NASA rovers have photographed blue sunsets on Mars. Fine dust scatters blue light forward around the setting Sun, the opposite of Earth's red sunsets. 🌅",
+  "hashtags": ["#space", "#spacefacts", "#mars", "#nasa", "#didyouknow", "#shorts"]
+}

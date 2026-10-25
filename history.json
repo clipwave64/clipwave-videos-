@@ -1,94 +1,109 @@
 {
-  "topics": [
-    {
-      "date": "2026-10-19",
-      "niche": "space",
-      "topic": "A day on Venus is longer than its year; Venus spins backwards"
-    },
-    {
-      "date": "2026-10-19",
-      "niche": "history",
-      "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"
-    },
-    {
-      "date": "2026-10-19",
-      "niche": "psychology",
-      "topic": "The Zeigarnik effect: unfinished tasks are remembered better"
-    },
-    {
-      "date": "2026-10-20",
-      "niche": "space",
-      "topic": "Orionid meteor shower is dust from Halley's Comet (peaks Oct 21-22, ~66 km/s)"
-    },
-    {
-      "date": "2026-10-20",
-      "niche": "animals",
-      "topic": "Octopuses have three hearts and blue copper-based blood; systemic heart stops when swimming"
-    },
-    {
-      "date": "2026-10-20",
-      "niche": "human body",
-      "topic": "Astronauts grow up to 3% taller in space"
-    },
-    {
-      "date": "2026-10-21",
-      "niche": "history",
-      "topic": "First parachute jump: Garnerin, Paris, Oct 22 1797 (silk parachute from balloon)"
-    },
-    {
-      "date": "2026-10-21",
-      "niche": "animals",
-      "topic": "Vampire bats regurgitate/share blood meals with hungry roostmates, incl. non-kin"
-    },
-    {
-      "date": "2026-10-21",
-      "niche": "science",
-      "topic": "Bananas are slightly radioactive (potassium-40, banana equivalent dose)"
-    },
-    {
-      "date": "2026-10-22",
-      "niche": "science",
-      "topic": "Mole Day (Oct 23, 6:02-6:02) and Avogadro's number 6.02x10^23; a mole of water is ~18 g"
-    },
-    {
-      "date": "2026-10-22",
-      "niche": "history",
-      "topic": "First jack-o'-lanterns were carved from turnips (Ireland/Scotland) and beets (England); pumpkins in America"
-    },
-    {
-      "date": "2026-10-22",
-      "niche": "space",
-      "topic": "Sugar-cube of neutron star weighs ~1 billion tons; ~20 km wide; spin hundreds of times/sec"
-    },
-    {
-      "date": "2026-10-23",
-      "niche": "history",
-      "topic": "First person over Niagara Falls in a barrel: Annie Edson Taylor, Oct 24 1901, her 63rd birthday (cat tested barrel first)"
-    },
-    {
-      "date": "2026-10-23",
-      "niche": "animals",
-      "topic": "Owls can't move their tubular eyes; rotate heads ~270 degrees; 14 neck vertebrae vs 7 in humans"
-    },
-    {
-      "date": "2026-10-23",
-      "niche": "science",
-      "topic": "Clocks go back Oct 25 2026 in Europe (US Nov 1); Germany first nationwide DST in 1916 to save fuel in WWI; Franklin's 1784 joke essay"
-    },
-    {
-      "date": "2026-10-24",
-      "niche": "history",
-      "topic": "Statue of Liberty was originally shiny copper; unveiled Oct 28 1886; copper ~2 pennies thick; green patina from ~1903, fully green ~1920; 1906 paint plan dropped; patina protects"
-    },
-    {
-      "date": "2026-10-24",
-      "niche": "space",
-      "topic": "Félicette, first cat in space: Oct 18 1963, French Véronique rocket from Algeria, >150 km, ~5 min weightless, 13 min flight, recovered; statue 2019"
-    },
-    {
-      "date": "2026-10-24",
-      "niche": "science",
-      "topic": "Pumpkins are botanical berries (pepo) like watermelons/cucumbers; bananas, tomatoes are berries; strawberries/raspberries are not"
-    }
-  ]
+ "topics": [
+  {
+   "date": "2026-10-19",
+   "niche": "space",
+   "topic": "A day on Venus is longer than its year; Venus spins backwards"
+  },
+  {
+   "date": "2026-10-19",
+   "niche": "history",
+   "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"
+  },
+  {
+   "date": "2026-10-19",
+   "niche": "psychology",
+   "topic": "The Zeigarnik effect: unfinished tasks are remembered better"
+  },
+  {
+   "date": "2026-10-20",
+   "niche": "space",
+   "topic": "Orionid meteor shower is dust from Halley's Comet (peaks Oct 21-22, ~66 km/s)"
+  },
+  {
+   "date": "2026-10-20",
+   "niche": "animals",
+   "topic": "Octopuses have three hearts and blue copper-based blood; systemic heart stops when swimming"
+  },
+  {
+   "date": "2026-10-20",
+   "niche": "human body",
+   "topic": "Astronauts grow up to 3% taller in space"
+  },
+  {
+   "date": "2026-10-21",
+   "niche": "history",
+   "topic": "First parachute jump: Garnerin, Paris, Oct 22 1797 (silk parachute from balloon)"
+  },
+  {
+   "date": "2026-10-21",
+   "niche": "animals",
+   "topic": "Vampire bats regurgitate/share blood meals with hungry roostmates, incl. non-kin"
+  },
+  {
+   "date": "2026-10-21",
+   "niche": "science",
+   "topic": "Bananas are slightly radioactive (potassium-40, banana equivalent dose)"
+  },
+  {
+   "date": "2026-10-22",
+   "niche": "science",
+   "topic": "Mole Day (Oct 23, 6:02-6:02) and Avogadro's number 6.02x10^23; a mole of water is ~18 g"
+  },
+  {
+   "date": "2026-10-22",
+   "niche": "history",
+   "topic": "First jack-o'-lanterns were carved from turnips (Ireland/Scotland) and beets (England); pumpkins in America"
+  },
+  {
+   "date": "2026-10-22",
+   "niche": "space",
+   "topic": "Sugar-cube of neutron star weighs ~1 billion tons; ~20 km wide; spin hundreds of times/sec"
+  },
+  {
+   "date": "2026-10-23",
+   "niche": "history",
+   "topic": "First person over Niagara Falls in a barrel: Annie Edson Taylor, Oct 24 1901, her 63rd birthday (cat tested barrel first)"
+  },
+  {
+   "date": "2026-10-23",
+   "niche": "animals",
+   "topic": "Owls can't move their tubular eyes; rotate heads ~270 degrees; 14 neck vertebrae vs 7 in humans"
+  },
+  {
+   "date": "2026-10-23",
+   "niche": "science",
+   "topic": "Clocks go back Oct 25 2026 in Europe (US Nov 1); Germany first nationwide DST in 1916 to save fuel in WWI; Franklin's 1784 joke essay"
+  },
+  {
+   "date": "2026-10-24",
+   "niche": "history",
+   "topic": "Statue of Liberty was originally shiny copper; unveiled Oct 28 1886; copper ~2 pennies thick; green patina from ~1903, fully green ~1920; 1906 paint plan dropped; patina protects"
+  },
+  {
+   "date": "2026-10-24",
+   "niche": "space",
+   "topic": "Félicette, first cat in space: Oct 18 1963, French Véronique rocket from Algeria, >150 km, ~5 min weightless, 13 min flight, recovered; statue 2019"
+  },
+  {
+   "date": "2026-10-24",
+   "niche": "science",
+   "topic": "Pumpkins are botanical berries (pepo) like watermelons/cucumbers; bananas, tomatoes are berries; strawberries/raspberries are not"
+  },
+  {
+   "date": "2026-10-25",
+   "niche": "history",
+   "topic": "Smallpox: only human disease eradicated; last natural case Ali Maow Maalin, Merca Somalia, rash Oct 26 1977; WHO certified eradication Oct 26 1979; he later volunteered for polio"
+  },
+  {
+   "date": "2026-10-25",
+   "niche": "animals",
+   "topic": "Crows remember human faces (UW Seattle caveman-mask study, Marzluff); untrapped and young crows learned to scold; 20%->60% at one site after 5 years"
+  },
+  {
+   "date": "2026-10-25",
+   "niche": "space",
+   "topic": "Mars sunsets are blue (dust forward-scatters blue light); photographed by Curiosity/Opportunity; daytime sky butterscotch"
+  }
+ ]
 }
