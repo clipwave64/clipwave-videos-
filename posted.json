@@ -197,6 +197,39 @@
    ],
    "metricool_id": 404772084,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-26T10:00",
+   "slug": "01-smallpox-last-case",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 405466841,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-26T12:00",
+   "slug": "02-crows-remember-faces",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 405466857,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-26T18:00",
+   "slug": "03-mars-blue-sunsets",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 405466876,
+   "status": "scheduled"
   }
  ]
 }
