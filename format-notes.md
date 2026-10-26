@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-26: sound-off viewing means on-screen text carries the story
+**Found**
+- Most mobile Shorts viewers watch with sound off, so on-screen text has to tell the whole story; hook in the first 2-3 seconds, open on the most striking moment. Some guides now push 50-60 s for faceless explainers, but single-fact videos still do well shorter. ([Anijam: YouTube Shorts trends 2026](https://www.anijam.ai/blog/youtube-shorts-trends/))
+- Caption guidance unchanged: bold sans-serif, short timed blocks, middle third. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+
+**Applied**
+- No engine change (captions already carry every word). Kept 7 short sentences (~30-40 s); each script makes sense muted.
+- Timely tie-ins: NYC subway opening anniversary (Oct 27), Halloween angle for goosebumps, winter coming for the freezing frog.
+- Bottoms: runner / marbles / parkour; voices am_michael / am_adam / af_heart.
+
 ## 2026-10-25: hook must be paid off by the very next line
 **Found**
 - Hooks should promise exactly what the next scene delivers; a shocking line the video can't back up hurts. Retention graphs take 1-2 days to process and a dip alone doesn't say why viewers left, so judge on several videos, not one. ([ShortsFast: faceless Shorts hooks & retention 2026](https://shortsfast.com/blog/faceless-shorts-hooks-retention-2026/))

@@ -1,0 +1,21 @@
+{
+  "slug": "02-wood-frogs-freeze",
+  "category": "ANIMAL FACT",
+  "theme": "#3fa7c9",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "This frog freezes solid every winter, and comes back to life in spring.", "emoji": "🐸"},
+    {"text": "It's the wood frog, and up to sixty percent of its body turns to ice.", "emoji": "🧊"},
+    {"text": "Its heart stops beating, and it stops breathing completely.", "emoji": "💔"},
+    {"text": "In Alaska, wood frogs can stay frozen like this for up to seven months.", "emoji": "❄️"},
+    {"text": "The trick is sugar: its body floods its cells with glucose, which works like antifreeze.", "emoji": "🍬"},
+    {"text": "When spring comes, it thaws out and hops away like nothing happened.", "emoji": "🌱"},
+    {"text": "Would you want to hibernate like a frog popsicle?", "emoji": "🤔"}
+  ],
+  "title": "This frog freezes solid and comes back to life 🐸",
+  "caption": "Wood frogs let up to 60% of their bodies freeze in winter. Their heart and breathing stop, and glucose acts as antifreeze so they can thaw out in spring. 🐸",
+  "hashtags": ["#animals", "#animalfacts", "#frogs", "#nature", "#didyouknow", "#shorts"]
+}
