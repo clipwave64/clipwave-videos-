@@ -230,6 +230,39 @@
    ],
    "metricool_id": 405466876,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-27T10:00",
+   "slug": "01-nyc-subway-opens",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 406254548,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-27T12:00",
+   "slug": "02-wood-frogs-freeze",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 406254569,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-27T18:00",
+   "slug": "03-goosebumps-leftover-fur",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 406254583,
+   "status": "scheduled"
   }
  ]
 }
