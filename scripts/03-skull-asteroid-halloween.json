@@ -1,0 +1,49 @@
+{
+  "slug": "03-skull-asteroid-halloween",
+  "category": "SPACE FACT",
+  "theme": "#d35400",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {
+      "text": "On Halloween twenty fifteen, an asteroid shaped like a giant skull flew past Earth.",
+      "emoji": "💀"
+    },
+    {
+      "text": "Its name is twenty fifteen T B one forty five, and it's about six hundred meters wide.",
+      "emoji": "☄️"
+    },
+    {
+      "text": "It passed a little farther away than the Moon.",
+      "emoji": "🌕"
+    },
+    {
+      "text": "Radar images showed dark patches that looked just like eye sockets and a nose.",
+      "emoji": "👀"
+    },
+    {
+      "text": "Scientists think it's actually a dead comet that has lost most of its ice.",
+      "emoji": "🧊"
+    },
+    {
+      "text": "Space didn't plan it, but the timing was perfect.",
+      "emoji": "🎃"
+    },
+    {
+      "text": "What's the spookiest thing you've seen in space?",
+      "emoji": "🔭"
+    }
+  ],
+  "title": "A skull-shaped asteroid flew past Earth on Halloween 💀",
+  "caption": "On Oct 31, 2015, asteroid 2015 TB145 passed just beyond the Moon's distance. Radar images made it look like a skull, and scientists think it's probably a dead comet. 💀",
+  "hashtags": [
+    "#space",
+    "#asteroid",
+    "#halloween",
+    "#astronomy",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "01-first-internet-message-lo",
+  "category": "TECH FACT",
+  "theme": "#2f80ed",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {
+      "text": "The very first message ever sent over the internet's ancestor was just two letters: L O.",
+      "emoji": "💻"
+    },
+    {
+      "text": "On October twenty ninth, nineteen sixty nine, a UCLA student tried to log in to a computer hundreds of miles away.",
+      "emoji": "📅"
+    },
+    {
+      "text": "The network was called ARPANET, and the other computer sat at the Stanford Research Institute.",
+      "emoji": "🛰️"
+    },
+    {
+      "text": "He typed L, then O, and then the whole system crashed.",
+      "emoji": "💥"
+    },
+    {
+      "text": "About an hour later they got it working and the full login went through.",
+      "emoji": "🔧"
+    },
+    {
+      "text": "That tiny crash was the first step toward the internet you're using right now.",
+      "emoji": "🌐"
+    },
+    {
+      "text": "What would you have typed as the first message?",
+      "emoji": "🤔"
+    }
+  ],
+  "title": "The first internet message crashed after 2 letters 💻",
+  "caption": "On Oct 29, 1969, UCLA tried to send \"LOGIN\" over ARPANET to the Stanford Research Institute. The system crashed after \"LO\", so the first message ever was just two letters. 💻",
+  "hashtags": [
+    "#tech",
+    "#internet",
+    "#history",
+    "#computers",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

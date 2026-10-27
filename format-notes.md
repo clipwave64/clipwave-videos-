@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-27: Halloween-week timeliness, same proven caption style
+**Found**
+- Guides still agree: payoff in the first second, bold high-contrast sans-serif captions in short timed blocks in the middle third, 15-40 s for single facts. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [EasyViral: 500 viral faceless Shorts](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
+- Seasonal/anniversary hooks keep working; this week is Halloween, plus the ARPANET (Oct 29) and War of the Worlds (Oct 30) anniversaries.
+
+**Applied**
+- No engine change. Myth-busting angle for War of the Worlds; Halloween tie-in for the skull asteroid; anniversary hook for the first internet message.
+- Bottoms: marbles / runner / parkour; voices am_adam / bm_george / af_bella.
+
 ## 2026-10-26: sound-off viewing means on-screen text carries the story
 **Found**
 - Most mobile Shorts viewers watch with sound off, so on-screen text has to tell the whole story; hook in the first 2-3 seconds, open on the most striking moment. Some guides now push 50-60 s for faceless explainers, but single-fact videos still do well shorter. ([Anijam: YouTube Shorts trends 2026](https://www.anijam.ai/blog/youtube-shorts-trends/))
