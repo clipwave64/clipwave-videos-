@@ -1,0 +1,21 @@
+{
+  "slug": "02-mantis-shrimp-punch",
+  "category": "ANIMAL FACT",
+  "theme": "#16a085",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "This tiny shrimp punches so fast that the water around its fist starts to boil.", "emoji": "🦐"},
+    {"text": "The mantis shrimp swings its club at about fifty miles per hour, in less than three thousandths of a second.", "emoji": "⚡"},
+    {"text": "That's an acceleration of up to ten thousand times the force of gravity.", "emoji": "🚀"},
+    {"text": "The strike is so fast it creates bubbles that collapse with a second hit, and even tiny flashes of light.", "emoji": "💥"},
+    {"text": "It uses this punch to smash open crabs and snail shells.", "emoji": "🦀"},
+    {"text": "One mantis shrimp at an aquarium even broke through a glass wall.", "emoji": "🪟"},
+    {"text": "Would you keep one as a pet?", "emoji": "🤔"}
+  ],
+  "title": "This shrimp punches so fast the water boils 🦐",
+  "caption": "The mantis shrimp's club hits at about 50 mph with up to 10,000 g of acceleration. The strike makes collapsing cavitation bubbles that hit a second time and even flash with light. 🦐",
+  "hashtags": ["#animals", "#animalfacts", "#mantisshrimp", "#ocean", "#didyouknow", "#shorts"]
+}

@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-28: Houdini 100th-anniversary hook, longer-length advice noted
+**Found**
+- A newly updated guide argues 45-55 s faceless Shorts outperform clips under 30 s, with the hook in the first 1-2 s, auto-captions throughout (reported 30-40% longer holds) and the call to action in the last ~5 s. ([FluxNote: faceless Shorts strategy 2026](https://fluxnote.io/guides/faceless-youtube-shorts-strategy-2026))
+- Other guides still back 15-40 s for single facts with a payoff in second one. ([EasyViral: 500 viral faceless Shorts](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
+- Timely: Halloween 2026 is the 100th anniversary of Houdini's death (Oct 31 1926).
+
+**Applied**
+- No engine change. Kept 7 sentences but made the middle ones slightly fuller (aiming ~35-40 s) and kept the comment question as the last line (CTA at the end).
+- Bottoms: runner / parkour / marbles; voices am_michael / af_heart / bm_george.
+
 ## 2026-10-27: Halloween-week timeliness, same proven caption style
 **Found**
 - Guides still agree: payoff in the first second, bold high-contrast sans-serif captions in short timed blocks in the middle third, 15-40 s for single facts. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [EasyViral: 500 viral faceless Shorts](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))

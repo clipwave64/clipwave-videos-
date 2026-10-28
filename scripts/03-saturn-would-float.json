@@ -1,0 +1,21 @@
+{
+  "slug": "03-saturn-would-float",
+  "category": "SPACE FACT",
+  "theme": "#e1a95f",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Saturn is the only planet in our solar system that's less dense than water.", "emoji": "🪐"},
+    {"text": "It's about nine times wider than Earth, but it's made mostly of light hydrogen and helium gas.", "emoji": "🎈"},
+    {"text": "On average, it's only about seven tenths as dense as water.", "emoji": "💧"},
+    {"text": "That's why NASA jokes that Saturn could float in a bathtub, if one were big enough.", "emoji": "🛁"},
+    {"text": "In reality, it wouldn't bob like a rubber duck, because it has no solid surface to hold it together.", "emoji": "🦆"},
+    {"text": "But no other planet even comes close to being that light for its size.", "emoji": "⚖️"},
+    {"text": "Which planet is your favorite?", "emoji": "🔭"}
+  ],
+  "title": "Saturn is lighter than water 🪐",
+  "caption": "Saturn's average density is about 0.69 g/cm³, lower than water's 1 g/cm³, the only planet like that. NASA says it could float in a big enough bathtub, though it would really fall apart. 🪐",
+  "hashtags": ["#space", "#saturn", "#astronomy", "#planets", "#didyouknow", "#shorts"]
+}
