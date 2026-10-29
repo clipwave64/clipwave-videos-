@@ -329,6 +329,39 @@
    ],
    "metricool_id": 408594031,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-30T10:00",
+   "slug": "01-halloween-cross-quarter",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 409715761,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-30T12:00",
+   "slug": "02-bats-are-not-blind",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 409715795,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-30T18:00",
+   "slug": "03-fear-sweet-spot",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 409715813,
+   "status": "scheduled"
   }
  ]
 }
