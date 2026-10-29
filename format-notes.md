@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-29: fewer words, ~30 s, word-by-word captions confirmed
+**Found**
+- A 2026 analysis of viral Shorts recommends ~30 s when the story fits, animated word-by-word captions for voiceover videos (static blocks make viewers read ahead), and cutting narration wherever the visual can carry a beat; 16-30 s videos had the highest median views in its TikTok index. ([Revid: anatomy of a viral Short 2026](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026))
+- Timely: Halloween (Oct 31) is two days out; spooky-science angles fit.
+
+**Applied**
+- No engine change (captions are already word-by-word with an active-word highlight). Trimmed sentences a little, aiming ~30 s.
+- All three topics have a Halloween angle (cross-quarter day, bat myth, fear science). Second video uses the poppins caption font for variety.
+- Bottoms: parkour / runner / marbles; voices am_adam / af_bella / bm_george.
+
 ## 2026-10-28: Houdini 100th-anniversary hook, longer-length advice noted
 **Found**
 - A newly updated guide argues 45-55 s faceless Shorts outperform clips under 30 s, with the hook in the first 1-2 s, auto-captions throughout (reported 30-40% longer holds) and the call to action in the last ~5 s. ([FluxNote: faceless Shorts strategy 2026](https://fluxnote.io/guides/faceless-youtube-shorts-strategy-2026))

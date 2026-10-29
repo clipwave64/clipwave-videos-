@@ -1,0 +1,21 @@
+{
+  "slug": "03-fear-sweet-spot",
+  "category": "PSYCHOLOGY FACT",
+  "theme": "#d6324b",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Scientists found there's a sweet spot of fear that's the most fun.", "emoji": "😱"},
+    {"text": "Researchers from Aarhus University sent one hundred and ten people through a haunted house in Denmark.", "emoji": "🏚️"},
+    {"text": "Everyone wore heart rate monitors and rated each scare.", "emoji": "❤️"},
+    {"text": "Too little fear was boring, and too much fear stopped being fun.", "emoji": "📉"},
+    {"text": "Enjoyment peaked right in the middle, at a just-right level of scared.", "emoji": "🎢"},
+    {"text": "Their heart rates showed the same up-then-down pattern.", "emoji": "📈"},
+    {"text": "Are you a horror fan, or a scaredy cat?", "emoji": "👻"}
+  ],
+  "title": "Science found the perfect amount of fear 😱",
+  "caption": "In a study of 110 haunted-house visitors in Denmark, enjoyment peaked at a medium level of fear, not too little, not too much. Heart rates showed the same inverted-U pattern. 😱",
+  "hashtags": ["#psychology", "#psychologyfacts", "#halloween", "#fear", "#didyouknow", "#shorts"]
+}

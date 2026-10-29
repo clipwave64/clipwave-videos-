@@ -1,0 +1,21 @@
+{
+  "slug": "02-bats-are-not-blind",
+  "category": "ANIMAL FACT",
+  "theme": "#7b4dff",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "Blind as a bat? Bats aren't blind at all.", "emoji": "🦇"},
+    {"text": "Every one of the more than one thousand bat species has working eyes.", "emoji": "👀"},
+    {"text": "Big fruit bats, called flying foxes, have huge eyes and mostly find their way by sight.", "emoji": "🍌"},
+    {"text": "Many of them can't even echolocate.", "emoji": "🔇"},
+    {"text": "Smaller bats use echolocation to catch tiny insects, but they still use their eyes for landmarks far away.", "emoji": "🦟"},
+    {"text": "Studies even suggest some bats can see ultraviolet light.", "emoji": "🌈"},
+    {"text": "What other animal myth did you believe?", "emoji": "🤔"}
+  ],
+  "title": "Bats aren't blind 🦇",
+  "caption": "\"Blind as a bat\" is a myth: all bats can see. Flying foxes rely mostly on their big eyes, and echolocating bats still use vision for long-range landmarks. 🦇",
+  "hashtags": ["#bats", "#animals", "#animalfacts", "#halloween", "#didyouknow", "#shorts"]
+}

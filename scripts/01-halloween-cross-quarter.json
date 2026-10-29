@@ -1,0 +1,21 @@
+{
+  "slug": "01-halloween-cross-quarter",
+  "category": "SPACE FACT",
+  "theme": "#ff7a1a",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Halloween is secretly an astronomy holiday.", "emoji": "🎃"},
+    {"text": "It's a cross-quarter day, roughly halfway between the autumn equinox and the winter solstice.", "emoji": "🌍"},
+    {"text": "The ancient Celts celebrated it as Samhain, which means summer's end.", "emoji": "🔥"},
+    {"text": "For them, it was also New Year's Eve, the start of the dark half of the year.", "emoji": "🌑"},
+    {"text": "The true astronomical midpoint actually lands in early November, but the date stuck at October thirty-first.", "emoji": "📅"},
+    {"text": "Groundhog Day, May Day and Lammas are the other three cross-quarter days.", "emoji": "🦫"},
+    {"text": "Did you know Halloween had roots in the sky?", "emoji": "🔭"}
+  ],
+  "title": "Halloween is secretly an astronomy holiday 🎃",
+  "caption": "Halloween is a cross-quarter day, roughly midway between the autumn equinox and winter solstice. The Celts marked it as Samhain, \"summer's end\" and their new year. 🎃",
+  "hashtags": ["#halloween", "#space", "#astronomy", "#samhain", "#didyouknow", "#shorts"]
+}
