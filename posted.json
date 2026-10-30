@@ -362,6 +362,39 @@
    ],
    "metricool_id": 409715813,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-31T10:00",
+   "slug": "01-candy-corn-chicken-feed",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 410852307,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-31T12:00",
+   "slug": "02-moon-footprints-last",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 410852324,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-10-31T18:00",
+   "slug": "03-pareidolia-faces",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 410852353,
+   "status": "scheduled"
   }
  ]
 }
