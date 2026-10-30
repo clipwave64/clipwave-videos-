@@ -1,0 +1,20 @@
+{
+  "slug": "02-moon-footprints-last",
+  "category": "SPACE FACT",
+  "theme": "#4a6cff",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "The astronauts' footprints on the Moon could last millions of years.", "emoji": "👣"},
+    {"text": "Twelve people walked on the Moon between nineteen sixty nine and nineteen seventy two.", "emoji": "👨‍🚀"},
+    {"text": "On Earth, wind and rain would erase a footprint in days.", "emoji": "🌧️"},
+    {"text": "But the Moon has almost no atmosphere, so there is no wind and no rain.", "emoji": "🌕"},
+    {"text": "Only the slow wear from the Sun's particles, or a direct meteorite hit, can wipe them away.", "emoji": "☄️"},
+    {"text": "If you could leave one thing on the Moon forever, what would it be?", "emoji": "🤔"}
+  ],
+  "title": "Footprints on the Moon could last millions of years 👣",
+  "caption": "With no wind or rain on the Moon, the Apollo astronauts' bootprints will likely stay for millions of years. Only a meteorite hit or very slow wear from solar particles can erase them. 🌕",
+  "hashtags": ["#space", "#moon", "#apollo", "#spacefacts", "#didyouknow", "#shorts"]
+}

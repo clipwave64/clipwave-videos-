@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-30: caption-overlay guide matches our engine; Halloween-day posts
+**Found**
+- A 2026 text-overlay guide recommends bold sans-serif captions (Montserrat Bold / Poppins SemiBold named), white text with the spoken word highlighted in yellow or a brand color, a 2-3 px dark outline, max 6-8 words per overlay (readable in under 1.5 s), kept in the center 60% of the frame, and word-by-word reveal as the default style. (Vendor guide; its retention numbers are unsourced.) ([FluxNote: faceless Shorts text overlay tips 2026](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026))
+- Timely: tomorrow (Oct 31) is Halloween itself, so light Halloween angles still fit, mixed with an evergreen space fact.
+
+**Applied**
+- No engine change: captions are already 3-word chunks, outlined, with an active-word highlight, in Montserrat/Poppins.
+- Topics: candy corn history (Halloween), Moon footprints (evergreen space), face pareidolia (pumpkin-face hook). Video 2 uses poppins.
+- Bottoms: marbles / parkour / runner; voices bm_george / am_michael / af_heart.
+
 ## 2026-10-29: fewer words, ~30 s, word-by-word captions confirmed
 **Found**
 - A 2026 analysis of viral Shorts recommends ~30 s when the story fits, animated word-by-word captions for voiceover videos (static blocks make viewers read ahead), and cutting narration wherever the visual can carry a beat; 16-30 s videos had the highest median views in its TikTok index. ([Revid: anatomy of a viral Short 2026](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026))

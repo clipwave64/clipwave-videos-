@@ -1,0 +1,21 @@
+{
+  "slug": "03-pareidolia-faces",
+  "category": "PSYCHOLOGY FACT",
+  "theme": "#18b37e",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Your brain reacts to a face in a pumpkin almost as fast as to a real face.", "emoji": "🎃"},
+    {"text": "Seeing faces in objects is called face pareidolia.", "emoji": "🔌"},
+    {"text": "In a two thousand nine study, scientists scanned people looking at face-like objects.", "emoji": "🧠"},
+    {"text": "The brain's face area lit up in about one sixth of a second.", "emoji": "⚡"},
+    {"text": "Ordinary objects didn't trigger it at all.", "emoji": "🪑"},
+    {"text": "So it isn't your imagination playing tricks later. Your brain spots the face right away.", "emoji": "👀"},
+    {"text": "What's the funniest face you've ever seen in an object?", "emoji": "😂"}
+  ],
+  "title": "Why you see faces in everyday objects 🎃",
+  "caption": "Face pareidolia: in a 2009 MEG study, face-like objects activated the brain's face-processing area in about 165 ms, almost as fast as real faces. Ordinary objects didn't. 👀",
+  "hashtags": ["#psychology", "#psychologyfacts", "#brain", "#halloween", "#didyouknow", "#shorts"]
+}
