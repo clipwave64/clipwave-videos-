@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-10-31: 7-words-per-screen rule confirmed; All Saints' Day anniversary
+**Found**
+- A 2026 on-screen-text guide recommends bold sans-serif fonts (Montserrat named), a maximum of 7 words per screen, high-contrast white-on-dark text, 2-3 s per text frame, 0.3-0.5 s entrance animations, and 5-7 sentence scripts. ([FluxNote: Shorts text-on-screen format 2026](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))
+- Caption guidance elsewhere is unchanged: bold, outlined, short timed blocks. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- Timely: Nov 1 is the anniversary of the Sistine Chapel ceiling's first public showing (1512). Halloween is over, so back to evergreen topics.
+
+**Applied**
+- No engine change: captions are already 3-word chunks (well under 7), outlined, Montserrat/Poppins. Kept 7 sentences, ~30-35 s.
+- Topics: Sistine Chapel myth-bust (anniversary), koala fingerprints (evergreen animal), glass-rain planet HD 189733b (evergreen space). Video 2 uses poppins.
+- Bottoms: parkour / marbles / runner; voices am_adam / af_bella / am_michael.
+
 ## 2026-10-30: caption-overlay guide matches our engine; Halloween-day posts
 **Found**
 - A 2026 text-overlay guide recommends bold sans-serif captions (Montserrat Bold / Poppins SemiBold named), white text with the spoken word highlighted in yellow or a brand color, a 2-3 px dark outline, max 6-8 words per overlay (readable in under 1.5 s), kept in the center 60% of the frame, and word-by-word reveal as the default style. (Vendor guide; its retention numbers are unsourced.) ([FluxNote: faceless Shorts text overlay tips 2026](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026))

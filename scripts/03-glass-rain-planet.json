@@ -1,0 +1,21 @@
+{
+  "slug": "03-glass-rain-planet",
+  "category": "SPACE FACT",
+  "theme": "#2a6fdb",
+  "voice": "am_michael",
+  "scenes": [
+    {"text": "There's a blue planet where scientists think it rains glass, sideways.", "emoji": "🌧️"},
+    {"text": "It's called HD one eight nine seven three three b, about sixty-three light years away.", "emoji": "🔭"},
+    {"text": "From far away it looks deep blue, a bit like Earth.", "emoji": "🔵"},
+    {"text": "But it's a giant ball of gas hugging its star, hotter than a thousand degrees Celsius.", "emoji": "🔥"},
+    {"text": "Scientists think its blue color comes from tiny drops of melted glass in the air.", "emoji": "💎"},
+    {"text": "And winds of around seven thousand kilometers per hour blow that glass rain sideways.", "emoji": "🌪️"},
+    {"text": "Would you visit, even for one second?", "emoji": "🚀"}
+  ],
+  "title": "This blue planet rains glass sideways 🌧️",
+  "caption": "HD 189733b looks blue like Earth, but scientists think the color comes from molten glass in its atmosphere, blown sideways by winds around 7,000 km/h. 🔵",
+  "hashtags": ["#space", "#spacefacts", "#exoplanet", "#nasa", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat"
+}

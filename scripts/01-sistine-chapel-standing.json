@@ -1,0 +1,21 @@
+{
+  "slug": "01-sistine-chapel-standing",
+  "category": "HISTORY FACT",
+  "theme": "#c9a227",
+  "voice": "am_adam",
+  "scenes": [
+    {"text": "Michelangelo did not paint the Sistine Chapel ceiling lying on his back.", "emoji": "🎨"},
+    {"text": "He and his helpers stood upright on wooden scaffolding and painted above their heads.", "emoji": "🪜"},
+    {"text": "The lying-down image mostly comes from a nineteen sixty-five Hollywood movie.", "emoji": "🎬"},
+    {"text": "The work took about four years, from fifteen oh eight to fifteen twelve.", "emoji": "⏳"},
+    {"text": "And the finished ceiling was first shown to the public on November first, fifteen twelve.", "emoji": "⛪"},
+    {"text": "That's five hundred and fourteen years ago tomorrow.", "emoji": "🎂"},
+    {"text": "Did you believe the lying-down version too?", "emoji": "🤔"}
+  ],
+  "title": "Michelangelo didn't paint lying down 🎨",
+  "caption": "Michelangelo painted the Sistine Chapel ceiling standing on scaffolding, not on his back. The ceiling was first shown to the public on November 1, 1512. 🎨",
+  "hashtags": ["#history", "#historyfacts", "#michelangelo", "#art", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat"
+}

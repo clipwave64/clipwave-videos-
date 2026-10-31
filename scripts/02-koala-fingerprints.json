@@ -1,0 +1,21 @@
+{
+  "slug": "02-koala-fingerprints",
+  "category": "ANIMAL FACT",
+  "theme": "#7a8ca0",
+  "voice": "af_bella",
+  "scenes": [
+    {"text": "Koalas have fingerprints almost identical to yours.", "emoji": "🐨"},
+    {"text": "In the nineteen nineties, a scientist in Australia looked at them under a microscope.", "emoji": "🔬"},
+    {"text": "He found koala prints were practically impossible to tell apart from human ones.", "emoji": "🖐️"},
+    {"text": "Koalas are the only animals outside the primates known to have them.", "emoji": "🐒"},
+    {"text": "Our last shared ancestor lived over a hundred million years ago, so we evolved them separately.", "emoji": "🧬"},
+    {"text": "Scientists think the ridges help koalas grip branches and eucalyptus leaves.", "emoji": "🌿"},
+    {"text": "Could a koala fool a detective?", "emoji": "🕵️"}
+  ],
+  "title": "Koalas have fingerprints like humans 🐨",
+  "caption": "Under a microscope, koala fingerprints are nearly indistinguishable from ours. They evolved them separately from primates, probably to grip branches and leaves. 🐨",
+  "hashtags": ["#koala", "#animals", "#animalfacts", "#nature", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "poppins"
+}
