@@ -1,0 +1,21 @@
+{
+  "slug": "01-iss-26-years",
+  "category": "SPACE FACT",
+  "theme": "#1e6fd9",
+  "voice": "af_heart",
+  "scenes": [
+    {"text": "For twenty-six years straight, there hasn't been a single day without humans in space.", "emoji": "🧑‍🚀"},
+    {"text": "On November second, two thousand, three astronauts moved into the International Space Station.", "emoji": "🛰️"},
+    {"text": "Bill Shepherd, Yuri Gidzenko and Sergei Krikalev lived there for about four and a half months.", "emoji": "👨‍🚀"},
+    {"text": "Since then, there has always been a crew on board, handing over to the next one.", "emoji": "🔁"},
+    {"text": "Nearly three hundred people from twenty-six countries have visited.", "emoji": "🌍"},
+    {"text": "The station circles Earth about sixteen times a day, so crews see around sixteen sunrises.", "emoji": "🌅"},
+    {"text": "Would you live in space for six months?", "emoji": "🤔"}
+  ],
+  "title": "Humans have lived in space nonstop for 26 years 🛰️",
+  "caption": "On Nov 2, 2000, the first crew moved into the International Space Station, and someone has lived up there ever since. Nearly 300 people from 26 countries have visited. 🛰️",
+  "hashtags": ["#space", "#iss", "#spacefacts", "#nasa", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat"
+}

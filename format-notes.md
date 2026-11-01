@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-01: originality and "surprising insight" emphasis; ISS/Tut anniversaries
+**Found**
+- A rest-of-2026 YouTube trends piece says repurposed "throwaway" clips no longer work and Shorts should deliver a surprising insight worth sharing; it notes 60-90 s is emerging in some niches but 15-30 s still suits quick facts, and longer Shorts need high completion. ([Miraflow: YouTube trends for the rest of 2026](https://miraflow.ai/blog/youtube-trends-rest-of-2026))
+- Caption guidance unchanged (bold, outlined, short blocks, max ~7 words per screen). ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote: Shorts text-on-screen format 2026](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))
+- Timely: Nov 2 = 26 years of continuous ISS occupation (Expedition 1, 2000); Nov 4 = Tutankhamun tomb's first step found (1922).
+
+**Applied**
+- No engine change: our gameplay is original code-generated animation and captions already match. Kept single-fact videos at ~30-35 s (7 sentences) with a surprising hook up front.
+- Topics: ISS 26 years (anniversary day), Tut's tomb found as funding ran out (anniversary this week), frequency illusion (evergreen psychology). Video 2 uses poppins.
+- Bottoms: runner / parkour / marbles; voices af_heart / bm_george / af_bella.
+
 ## 2026-10-31: 7-words-per-screen rule confirmed; All Saints' Day anniversary
 **Found**
 - A 2026 on-screen-text guide recommends bold sans-serif fonts (Montserrat named), a maximum of 7 words per screen, high-contrast white-on-dark text, 2-3 s per text frame, 0.3-0.5 s entrance animations, and 5-7 sentence scripts. ([FluxNote: Shorts text-on-screen format 2026](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))

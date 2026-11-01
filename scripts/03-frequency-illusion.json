@@ -1,0 +1,21 @@
+{
+  "slug": "03-frequency-illusion",
+  "category": "PSYCHOLOGY FACT",
+  "theme": "#8e44ad",
+  "voice": "af_bella",
+  "scenes": [
+    {"text": "Learn a new word, and suddenly you see it everywhere.", "emoji": "👀"},
+    {"text": "It's called the frequency illusion, or the Baader-Meinhof phenomenon.", "emoji": "🧠"},
+    {"text": "The odd name comes from a reader's letter to a Minnesota newspaper in nineteen ninety-four.", "emoji": "📰"},
+    {"text": "The reader had just heard of a German group called Baader-Meinhof, then kept spotting the name.", "emoji": "🔁"},
+    {"text": "Linguist Arnold Zwicky gave it the name frequency illusion in two thousand five.", "emoji": "📚"},
+    {"text": "Your brain starts filtering for the new thing, so you notice what was always there.", "emoji": "🔍"},
+    {"text": "What have you suddenly started seeing everywhere?", "emoji": "💬"}
+  ],
+  "title": "Why new things suddenly appear everywhere 👀",
+  "caption": "The frequency illusion: once you notice something new, your brain's selective attention makes it seem to pop up everywhere. Linguist Arnold Zwicky named it in 2005. 👀",
+  "hashtags": ["#psychology", "#psychologyfacts", "#brain", "#mindblown", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat"
+}

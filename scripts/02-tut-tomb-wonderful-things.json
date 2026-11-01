@@ -1,0 +1,21 @@
+{
+  "slug": "02-tut-tomb-wonderful-things",
+  "category": "HISTORY FACT",
+  "theme": "#c9932b",
+  "voice": "bm_george",
+  "scenes": [
+    {"text": "King Tut's tomb was found just as the money was about to run out.", "emoji": "💰"},
+    {"text": "Howard Carter had searched Egypt's Valley of the Kings for years, paid for by Lord Carnarvon.", "emoji": "🏜️"},
+    {"text": "Carnarvon was ready to stop funding him when, on November fourth, nineteen twenty-two, a stone step turned up.", "emoji": "🪜"},
+    {"text": "Weeks later, Carter peered into the tomb by candlelight.", "emoji": "🕯️"},
+    {"text": "Asked if he could see anything, he replied: yes, wonderful things!", "emoji": "✨"},
+    {"text": "The tomb held more than five thousand objects, and clearing it took about ten years.", "emoji": "🏺"},
+    {"text": "What would you want to find in an ancient tomb?", "emoji": "❓"}
+  ],
+  "title": "King Tut's tomb was found at the last minute 🏺",
+  "caption": "On Nov 4, 1922, Howard Carter's team found the first step of Tutankhamun's tomb, just as his funding was about to end. Inside were more than 5,000 objects. 🏺",
+  "hashtags": ["#history", "#historyfacts", "#egypt", "#tutankhamun", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins"
+}
