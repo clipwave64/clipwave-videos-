@@ -1,0 +1,21 @@
+{
+  "slug": "01-sea-otter-densest-fur",
+  "category": "ANIMAL FACT",
+  "theme": "#1e9e8f",
+  "voice": "am_adam",
+  "scenes": [
+    {"text": "Sea otters have the densest fur of any animal on Earth.", "emoji": "🦦"},
+    {"text": "Up to one million hairs grow on a single square inch of their skin.", "emoji": "🔬"},
+    {"text": "That's up to ten times more hair than on an entire human head.", "emoji": "💇"},
+    {"text": "Unlike seals and whales, sea otters have no blubber to keep them warm.", "emoji": "🧊"},
+    {"text": "Their thick fur and a fast metabolism keep them warm in cold ocean water.", "emoji": "🌊"},
+    {"text": "To fuel that, they eat about a quarter of their body weight every day.", "emoji": "🦀"},
+    {"text": "How much would you have to eat to keep up?", "emoji": "💬"}
+  ],
+  "title": "This animal has a million hairs per square inch 🦦",
+  "caption": "Sea otters have 500,000 to 1,000,000 hairs per square inch, the densest fur of any animal. With no blubber, that fur (and eating ~25% of their body weight a day) keeps them warm. 🦦",
+  "hashtags": ["#animals", "#animalfacts", "#seaotter", "#nature", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "02-earl-of-sandwich",
+  "category": "HISTORY FACT",
+  "theme": "#d98c1f",
+  "voice": "bm_george",
+  "scenes": [
+    {"text": "The sandwich is named after a real British earl who reportedly wouldn't leave a card game.", "emoji": "🥪"},
+    {"text": "He was John Montagu, the fourth Earl of Sandwich, in the seventeen hundreds.", "emoji": "🎩"},
+    {"text": "A French travel book claimed he once spent twenty-four hours at a gambling table.", "emoji": "🃏"},
+    {"text": "To keep playing, he asked for beef between two slices of toasted bread.", "emoji": "🍞"},
+    {"text": "Historians think it may be a legend, and he might have just eaten them at his desk.", "emoji": "🧐"},
+    {"text": "Captain Cook even named Hawaii the Sandwich Islands after him.", "emoji": "🌺"},
+    {"text": "What's your all-time favorite sandwich?", "emoji": "💬"}
+  ],
+  "title": "The sandwich is named after a real person 🥪",
+  "caption": "John Montagu, the 4th Earl of Sandwich, supposedly ate beef between bread so he didn't have to leave a card game, though historians think the story may be a legend. Happy National Sandwich Day (Nov 3)! 🥪",
+  "hashtags": ["#history", "#historyfacts", "#sandwich", "#food", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins"
+}

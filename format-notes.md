@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-02: 20-45 s sweet spot, 3-layer hook; Sandwich Day tie-in
+**Found**
+- An analysis of 500 viral faceless Shorts says most perform at 20-45 s, single facts can be shorter, the hook should land visually, in text and in audio within the first second (no greetings), and the structure is hook (1-3 s) / build / payoff near the end to encourage replays. Captions: bold, high-contrast sans-serif, centered, clear of UI buttons. (Vendor blog; numbers not independently verified.) ([EasyViral: 500 viral faceless Shorts](https://easyviral.ai/api/blog-md/we-analyzed-500-viral-faceless-shorts))
+- Caption guidance otherwise unchanged. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- Timely: Nov 3 is National Sandwich Day (US).
+
+**Applied**
+- No engine change: our videos already open with emoji + caption + voice on the hook sentence and run ~30 s. Kept 7 sentences ending in a comment question.
+- Topics: sea otter fur (evergreen animal), Earl of Sandwich (Sandwich Day, framed as "may be a legend"), humans glow (2009 Kyoto/Tohoku study). Video 2 uses poppins.
+- Bottoms: marbles / runner / parkour; voices am_adam / bm_george / am_michael.
+
 ## 2026-11-01: originality and "surprising insight" emphasis; ISS/Tut anniversaries
 **Found**
 - A rest-of-2026 YouTube trends piece says repurposed "throwaway" clips no longer work and Shorts should deliver a surprising insight worth sharing; it notes 60-90 s is emerging in some niches but 15-30 s still suits quick facts, and longer Shorts need high completion. ([Miraflow: YouTube trends for the rest of 2026](https://miraflow.ai/blog/youtube-trends-rest-of-2026))

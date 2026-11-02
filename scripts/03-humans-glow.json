@@ -1,0 +1,21 @@
+{
+  "slug": "03-humans-glow",
+  "category": "SCIENCE FACT",
+  "theme": "#7c4dff",
+  "voice": "am_michael",
+  "scenes": [
+    {"text": "Your body actually glows in the dark, just too faintly to see.", "emoji": "✨"},
+    {"text": "In two thousand nine, Japanese scientists filmed people in total darkness with ultra-sensitive cameras.", "emoji": "📷"},
+    {"text": "The light was about one thousand times weaker than our eyes can detect.", "emoji": "👁️"},
+    {"text": "The glow was brightest around four in the afternoon and dimmest around ten in the morning.", "emoji": "🕓"},
+    {"text": "Faces glowed the most, possibly helped by skin pigment.", "emoji": "😊"},
+    {"text": "Scientists think the light comes from chemical reactions in your metabolism.", "emoji": "⚗️"},
+    {"text": "Would you want to see people glowing?", "emoji": "💬"}
+  ],
+  "title": "Your body glows in the dark (you just can't see it) ✨",
+  "caption": "In a 2009 study, Japanese researchers filmed people's faint natural glow with ultra-sensitive cameras. It's about 1,000 times too weak for our eyes and peaks around 4 p.m. ✨",
+  "hashtags": ["#science", "#sciencefacts", "#humanbody", "#mindblown", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat"
+}
