@@ -1,0 +1,205 @@
+{
+  "slug": "venus-backwards-planet",
+  "title": "Venus: The Planet Where a Day Is Longer Than a Year",
+  "voice": "bm_george",
+  "speed": 0.94,
+  "chapters": [
+    {
+      "name": "Intro",
+      "scenes": [
+        {"visual": "venus_closeup", "lines": [
+          "On Venus, a single day lasts longer than an entire year.",
+          "If you could stand on its surface, you would celebrate a birthday before the Sun ever finished one trip across the sky.",
+          "And when the Sun did finally rise, it would come up in the west.",
+          "Venus is the closest planet to Earth, almost exactly our size, and the brightest thing in the night sky after the Moon.",
+          "But underneath its creamy yellow clouds hides one of the most hostile places in the entire solar system.",
+          "So today, let's take a proper look at Earth's strange, backwards twin."
+        ]}
+      ]
+    },
+    {
+      "name": "The Backwards Day",
+      "scenes": [
+        {"visual": "orbits", "callout": "1 year = 225 Earth days", "lines": [
+          "Let's start with that strange calendar.",
+          "Venus orbits the Sun at about seventy two percent of Earth's distance, so its year is short.",
+          "It goes all the way around the Sun in about two hundred twenty five Earth days."
+        ]},
+        {"visual": "venus_spin", "callout": "1 rotation = 243 Earth days", "lines": [
+          "But Venus spins incredibly slowly.",
+          "One full turn on its axis takes about two hundred forty three Earth days.",
+          "That is the slowest rotation of any planet we know of in our solar system.",
+          "So by that measure, one Venus day is around eighteen Earth days longer than one Venus year."
+        ]},
+        {"visual": "orbits", "callout": "Sunrise to sunrise = 117 Earth days", "lines": [
+          "There is a twist, though.",
+          "Because Venus is moving around the Sun while it slowly turns, the time from one sunrise to the next is shorter.",
+          "NASA puts it at about one hundred seventeen Earth days.",
+          "That means each daytime on Venus lasts roughly two Earth months, followed by a night that lasts just as long."
+        ]},
+        {"visual": "sunrise_west", "callout": "The Sun rises in the west", "lines": [
+          "And here's the strangest part.",
+          "Venus spins backwards compared to Earth and most of the other planets.",
+          "Astronomers call this retrograde rotation.",
+          "So on Venus, the Sun rises in the west and sets in the east.",
+          "Not that you could see it, because the sky there is permanently covered by thick clouds."
+        ]}
+      ]
+    },
+    {
+      "name": "Why Does It Spin Backwards?",
+      "scenes": [
+        {"visual": "impact", "lines": [
+          "So why is Venus spinning the wrong way?",
+          "The honest answer is that scientists still aren't sure.",
+          "One popular idea is that early in its history, Venus was hit by one or more huge objects.",
+          "A big enough collision could have slowed its spin, or even flipped it over."
+        ]},
+        {"visual": "venus_closeup", "lines": [
+          "Another idea points to its incredibly thick atmosphere.",
+          "The Sun heats that atmosphere unevenly, creating huge tides of air.",
+          "Over billions of years, those atmospheric tides, together with the Sun's gravity, could have dragged the planet's spin into the slow, backwards turn we see today.",
+          "It may have been a mix of both, and future missions might finally settle the question."
+        ]}
+      ]
+    },
+    {
+      "name": "Earth's Twin",
+      "scenes": [
+        {"visual": "twins", "callout": "Venus: 12,104 km  |  Earth: 12,756 km", "lines": [
+          "On paper, Venus looks like Earth's twin.",
+          "It's about twelve thousand one hundred kilometers wide, roughly ninety five percent of Earth's diameter.",
+          "It has a similar mass, a similar makeup of rock and metal, and it's the planet that comes closest to us.",
+          "At its nearest, Venus is only about thirty eight million kilometers away."
+        ]},
+        {"visual": "evening_star", "lines": [
+          "Because it's close and covered in bright reflective clouds, Venus shines brilliantly in our sky.",
+          "After the Sun and the Moon, it's the brightest natural object we can see.",
+          "That's why, for thousands of years, people called it the morning star or the evening star.",
+          "It's often seen glowing low in the sky just after sunset or just before sunrise.",
+          "But if Venus is Earth's twin, it's definitely the evil one."
+        ]}
+      ]
+    },
+    {
+      "name": "Hell Under the Clouds",
+      "scenes": [
+        {"visual": "atmosphere", "callout": "96% carbon dioxide", "lines": [
+          "The atmosphere of Venus is made mostly of carbon dioxide.",
+          "Floating high above the surface are thick clouds made of droplets of sulfuric acid.",
+          "Together they trap the Sun's heat in a runaway greenhouse effect."
+        ]},
+        {"visual": "thermo", "callout": "467°C", "lines": [
+          "The result is a surface temperature of about four hundred sixty seven degrees Celsius.",
+          "That's hot enough to melt lead.",
+          "Mercury is much closer to the Sun, but Venus is still the hottest planet in the solar system.",
+          "And it barely cools down at night, at the poles, or anywhere else."
+        ]},
+        {"visual": "deep_sea", "callout": "93× Earth's air pressure", "lines": [
+          "Then there's the pressure.",
+          "The air at the surface of Venus pushes down about ninety three times harder than the air on Earth.",
+          "Standing there would feel like being more than nine hundred meters deep in the ocean.",
+          "That's deep enough to crush many submarines.",
+          "Hot enough to melt lead, heavy enough to crush a submarine, and wrapped in acid clouds: Venus is about as close to hell as a planet gets."
+        ]}
+      ]
+    },
+    {
+      "name": "Winds Faster Than the Planet",
+      "scenes": [
+        {"visual": "superrotation", "callout": "Cloud tops: ~360 km/h", "lines": [
+          "While the planet itself barely turns, its atmosphere is racing.",
+          "At the cloud tops, winds can reach about three hundred sixty kilometers per hour.",
+          "The clouds whip all the way around Venus in only about four Earth days.",
+          "That's up to sixty times faster than the planet spins beneath them."
+        ]},
+        {"visual": "venus_closeup", "lines": [
+          "Scientists call this super rotation.",
+          "Saturn's moon Titan is the only other world known to have it.",
+          "Using Japan's Akatsuki spacecraft, researchers found that heat from the Sun creates giant atmospheric waves called thermal tides, which help keep these winds going."
+        ]}
+      ]
+    },
+    {
+      "name": "Landing on Venus",
+      "scenes": [
+        {"visual": "flyby", "callout": "Mariner 2, 1962", "lines": [
+          "Despite all this, humans have actually been there.",
+          "In nineteen sixty two, NASA's Mariner two flew past Venus.",
+          "It became the first spacecraft to successfully fly by another planet, and it confirmed that Venus was scorching hot."
+        ]},
+        {"visual": "descent", "callout": "Venera 7, 1970", "lines": [
+          "Then the Soviet Union went further.",
+          "Its Venera program sent probe after probe into the crushing atmosphere.",
+          "In December nineteen seventy, Venera seven became the first spacecraft ever to make a soft landing on Venus.",
+          "It sent back signals for twenty three minutes before the heat and pressure overwhelmed it."
+        ]},
+        {"visual": "surface", "callout": "Venera 13 · 127 minutes", "timer": 127, "lines": [
+          "In March nineteen eighty two, Venera thirteen landed and did something incredible.",
+          "It was designed to survive for about thirty minutes.",
+          "Instead, it kept working for one hundred twenty seven minutes.",
+          "It sent back the first color pictures ever taken from the surface of Venus, showing flat, broken rock under an orange sky.",
+          "It even drilled into the ground and analyzed a sample of the soil.",
+          "To this day, no spacecraft has survived on the surface of Venus for very much longer than about two hours."
+        ]}
+      ]
+    },
+    {
+      "name": "A Planet Still Alive",
+      "scenes": [
+        {"visual": "radar_map", "callout": "Magellan radar, 1990 to 1994", "lines": [
+          "Because nobody can see through the clouds, scientists mapped Venus with radar.",
+          "NASA's Magellan spacecraft orbited Venus in the early nineteen nineties and mapped almost the entire surface.",
+          "It revealed a world covered in volcanoes.",
+          "There are thousands of them, from enormous shield volcanoes to strange flat-topped pancake domes up to sixty two kilometers wide."
+        ]},
+        {"visual": "volcano", "callout": "Maat Mons", "lines": [
+          "For decades, nobody knew if any of those volcanoes were still active.",
+          "Then in twenty twenty three, two scientists went back through old Magellan images of a volcano called Maat Mons.",
+          "They found a volcanic vent that appeared to change shape and grow larger over about eight months.",
+          "They think the best explanation is a fresh eruption, possibly with new lava flowing out nearby.",
+          "If they're right, Venus is a planet that is geologically alive today.",
+          "And because its surface has relatively few craters, scientists think much of it is surprisingly young, in planetary terms."
+        ]}
+      ]
+    },
+    {
+      "name": "Did Venus Have Oceans?",
+      "scenes": [
+        {"visual": "ocean_venus", "lines": [
+          "Here's where the story gets a little sad.",
+          "Venus may not always have been a hellscape.",
+          "In twenty sixteen, NASA scientists ran climate models of young Venus.",
+          "Their simulations suggested that it may have had a shallow liquid water ocean and mild temperatures, possibly for up to two billion years."
+        ]},
+        {"visual": "greenhouse", "lines": [
+          "If that's true, what went wrong?",
+          "Being closer to the Sun, Venus was heated more strongly.",
+          "Its water evaporated, sunlight split the water vapor apart, and the hydrogen escaped into space.",
+          "Without oceans to absorb it, carbon dioxide built up in the air, and the greenhouse effect ran out of control.",
+          "That's one reason scientists study Venus so closely: it shows what can happen to an Earth-sized planet when its climate tips over the edge."
+        ]}
+      ]
+    },
+    {
+      "name": "Could We Live There?",
+      "scenes": [
+        {"visual": "cloud_city", "callout": "50 km up: 30–70°C, Earth-like pressure", "lines": [
+          "Strangely, there is one place on Venus that is almost pleasant.",
+          "About fifty kilometers above the surface, the temperature is somewhere between thirty and seventy degrees Celsius.",
+          "And the air pressure there is similar to Earth's at sea level.",
+          "Some scientists have even imagined floating research stations drifting in the Venusian sky, high above the heat.",
+          "You'd still need protection from the acid clouds, but it's one of the most Earth-like environments anywhere beyond our planet."
+        ]},
+        {"visual": "venus_space", "lines": [
+          "Space agencies are planning new missions to Venus to finally answer its biggest questions.",
+          "Did it once have oceans, are its volcanoes erupting right now, and why does it spin the wrong way?",
+          "Until then, Venus remains the planet where a day is longer than a year, the Sun rises in the west, and the weather never, ever gets better.",
+          "Which fact about Venus surprised you the most? Let me know in the comments, and subscribe for more space."
+        ]}
+      ]
+    }
+  ],
+  "description": "On Venus, a day lasts longer than a year, and the Sun rises in the west. In this video we explore Earth's backwards twin: why it spins the wrong way, its 467°C surface and crushing pressure, winds faster than the planet itself, the Soviet Venera landers, evidence of active volcanoes, and whether Venus once had oceans.\n\nAll visuals are original 3D renders (not real photographs). Narration is AI-generated.\n\nSources: NASA Venus facts (science.nasa.gov/venus/venus-facts); NASA Goddard 2016 climate modeling of early Venus; Herrick & Hensley, Science (2023); Horinouchi et al., Science (2020), Akatsuki super-rotation; Space.com on Venera 13.",
+  "tags": ["venus", "space", "planets", "solar system", "astronomy", "space facts", "venus documentary", "venera", "nasa", "science"]
+}
