@@ -1,0 +1,21 @@
+{
+  "slug": "01-gunpowder-plot-cellars",
+  "category": "HISTORY FACT",
+  "theme": "#e8572a",
+  "voice": "bm_george",
+  "scenes": [
+    {"text": "Britain's royal guards still search Parliament's cellars for gunpowder, because of a plot from sixteen oh five.", "emoji": "💣"},
+    {"text": "Plotters hid about thirty six barrels of gunpowder in a cellar right under the House of Lords.", "emoji": "🛢️"},
+    {"text": "They planned to blow up King James the First at the opening of Parliament on November fifth.", "emoji": "👑"},
+    {"text": "But an anonymous warning letter reached the king's men.", "emoji": "✉️"},
+    {"text": "Around midnight, guards found Guy Fawkes in the cellar, with fuses and a watch.", "emoji": "🕛"},
+    {"text": "Today, bonfires and fireworks every November fifth celebrate the failed plot.", "emoji": "🎆"},
+    {"text": "Would you have guarded those barrels, or run?", "emoji": "💬"}
+  ],
+  "title": "Why Britain still searches Parliament for gunpowder 💣",
+  "caption": "In 1605, plotters hid about 36 barrels of gunpowder under the House of Lords. Guy Fawkes was caught on the night of 4-5 November, and the Yeomen of the Guard still ceremonially search the cellars before every State Opening. Happy Bonfire Night tomorrow! 🎆",
+  "hashtags": ["#history", "#historyfacts", "#guyfawkes", "#bonfirenight", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat"
+}

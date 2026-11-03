@@ -1,0 +1,21 @@
+{
+  "slug": "02-neptune-one-orbit",
+  "category": "SPACE FACT",
+  "theme": "#2b6fd6",
+  "voice": "af_bella",
+  "scenes": [
+    {"text": "Neptune has only finished one lap around the Sun since humans discovered it.", "emoji": "🔵"},
+    {"text": "Astronomer Johann Galle first spotted it in eighteen forty six.", "emoji": "🔭"},
+    {"text": "But Neptune is about thirty times farther from the Sun than Earth.", "emoji": "☀️"},
+    {"text": "So one Neptune year lasts about one hundred sixty five Earth years.", "emoji": "⏳"},
+    {"text": "It finally got back to where we first saw it in July twenty eleven.", "emoji": "🎂"},
+    {"text": "On Neptune, you would never live to see your first birthday.", "emoji": "🎈"},
+    {"text": "How old would you be in Neptune years?", "emoji": "💬"}
+  ],
+  "title": "Neptune has orbited the Sun only once since we found it 🔵",
+  "caption": "Neptune was discovered in 1846, and one orbit takes about 165 Earth years, so it only completed its first lap since discovery in July 2011 (NASA). Nobody would live to be 1 in Neptune years! 🔵",
+  "hashtags": ["#space", "#spacefacts", "#neptune", "#astronomy", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "poppins"
+}

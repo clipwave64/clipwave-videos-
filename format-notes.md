@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-03: ~30 s / ~85 words, payoff held to the end; Bonfire Night eve
+**Found**
+- A 2026 retention guide recommends a ~2 s visual hook, ~30 s / ~85 words of script, a visual change every 2-3 s, holding the payoff for the final line, and loop-friendly endings (last frame echoing the first). (Vendor guide; numbers unsourced.) ([FluxNote: faceless Shorts retention tips 2026](https://fluxnote.io/guides/faceless-shorts-retention-tips-2026))
+- Caption guidance unchanged. ([OpusClip: Shorts caption best practices 2026](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- Timely: Nov 5 is Bonfire Night / Guy Fawkes Night (Gunpowder Plot, 1605); videos post Nov 4, the eve of the anniversary of Fawkes's arrest.
+
+**Applied**
+- No engine change: captions already change every few words and scripts already run ~30 s. Kept 7 sentences with the hook first and a comment question last.
+- Topics: Gunpowder Plot cellar search (Bonfire Night), Neptune's single orbit since discovery (evergreen space), why you can't tickle yourself (evergreen human body). Video 2 uses poppins.
+- Bottoms: runner / marbles / parkour; voices bm_george / af_bella / am_adam.
+
 ## 2026-11-02: 20-45 s sweet spot, 3-layer hook; Sandwich Day tie-in
 **Found**
 - An analysis of 500 viral faceless Shorts says most perform at 20-45 s, single facts can be shorter, the hook should land visually, in text and in audio within the first second (no greetings), and the structure is hook (1-3 s) / build / payoff near the end to encourage replays. Captions: bold, high-contrast sans-serif, centered, clear of UI buttons. (Vendor blog; numbers not independently verified.) ([EasyViral: 500 viral faceless Shorts](https://easyviral.ai/api/blog-md/we-analyzed-500-viral-faceless-shorts))

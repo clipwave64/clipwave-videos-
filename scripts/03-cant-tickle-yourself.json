@@ -1,0 +1,21 @@
+{
+  "slug": "03-cant-tickle-yourself",
+  "category": "HUMAN BODY FACT",
+  "theme": "#ff4fa3",
+  "voice": "am_adam",
+  "scenes": [
+    {"text": "You can't tickle yourself, because your brain sees it coming.", "emoji": "🤭"},
+    {"text": "A part at the back of your brain, the cerebellum, predicts what your own movements will feel like.", "emoji": "🧠"},
+    {"text": "Then it turns down the feeling before it even arrives.", "emoji": "🔇"},
+    {"text": "Scientists at University College London tested this with a tickling robot.", "emoji": "🤖"},
+    {"text": "When people moved the robot themselves, adding a tiny delay made the tickle feel stronger.", "emoji": "⏱️"},
+    {"text": "The less your brain can predict a touch, the more it tickles.", "emoji": "🪶"},
+    {"text": "Are you super ticklish, or not at all?", "emoji": "💬"}
+  ],
+  "title": "Why you can't tickle yourself 🤭",
+  "caption": "Your cerebellum predicts the touch from your own movements and dampens it, so self-tickling feels weak. UCL researchers found that adding a small delay with a robot made it feel more ticklish! 🤭",
+  "hashtags": ["#humanbody", "#brain", "#sciencefacts", "#tickle", "#didyouknow", "#shorts"],
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat"
+}
