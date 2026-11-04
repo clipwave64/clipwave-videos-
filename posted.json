@@ -527,6 +527,39 @@
       ],
       "metricool_id": 414874384,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-05T10:00",
+      "slug": "02-xray-discovery",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 416125809,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-05T12:00",
+      "slug": "03-wombat-cube-poop",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 416125826,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-05T18:00",
+      "slug": "01-taurid-fireballs",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 416125844,
+      "status": "scheduled"
     }
   ]
 }
