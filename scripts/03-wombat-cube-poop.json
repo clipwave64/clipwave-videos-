@@ -1,0 +1,21 @@
+{
+  "slug": "03-wombat-cube-poop",
+  "category": "ANIMAL FACT",
+  "theme": "#8a6a4a",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Wombats are the only animals known to poop cubes.", "emoji": "🧊"},
+    {"text": "For years, nobody knew how a round tube could make square corners.", "emoji": "🤔"},
+    {"text": "Scientists found the answer is in the wombat's intestine, which is about ten meters long.", "emoji": "🔬"},
+    {"text": "Near the end, the intestine wall has stiff and stretchy sections that slowly squeeze the poop into blocks.", "emoji": "📦"},
+    {"text": "The research even won an Ig Nobel Prize.", "emoji": "🏆"},
+    {"text": "Wombats leave these cubes on rocks and logs, like little messages for other wombats.", "emoji": "🪨"},
+    {"text": "What's the weirdest animal fact you know?", "emoji": "🐾"}
+  ],
+  "title": "The only animal that poops cubes 🧊",
+  "caption": "Wombats make cube-shaped droppings, and studies by Georgia Tech and the University of Tasmania found the shape forms in the intestine, thanks to stiff and flexible sections of its wall. They leave the cubes on rocks and logs to communicate. 🐾",
+  "hashtags": ["#animals", "#wombat", "#animalfacts", "#nature", "#didyouknow", "#shorts"]
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "01-taurid-fireballs",
+  "category": "SPACE FACT",
+  "theme": "#ff7a2f",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Tonight, Earth is plowing through the leftovers of a comet.", "emoji": "☄️"},
+    {"text": "It's the Taurid meteor shower, and the southern branch peaks around November fifth.", "emoji": "🌠"},
+    {"text": "The dust comes from Comet Encke, which has the shortest orbit of any major comet.", "emoji": "🪐"},
+    {"text": "Taurids are slow meteors, but some chunks are big enough to blaze as bright fireballs.", "emoji": "🔥"},
+    {"text": "That's why people call them the Halloween fireballs.", "emoji": "🎃"},
+    {"text": "Expect about five meteors an hour from a dark sky, best around midnight.", "emoji": "🌌"},
+    {"text": "Have you ever seen a fireball streak across the sky?", "emoji": "👀"}
+  ],
+  "title": "Earth is flying through comet dust tonight ☄️",
+  "caption": "The South Taurid meteor shower peaks around Nov 5, 2026, with the North Taurids peaking around Nov 12. The debris comes from Comet Encke, and its slow, chunky meteors can light up as fireballs. ☄️",
+  "hashtags": ["#space", "#meteorshower", "#taurids", "#astronomy", "#didyouknow", "#shorts"]
+}

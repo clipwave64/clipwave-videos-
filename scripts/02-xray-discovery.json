@@ -1,0 +1,21 @@
+{
+  "slug": "02-xray-discovery",
+  "category": "HISTORY FACT",
+  "theme": "#38c6d9",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "X-rays are called X-rays because their discoverer had no idea what they were.", "emoji": "❓"},
+    {"text": "On November eighth, eighteen ninety five, Wilhelm Röntgen was testing a glass tube in his lab in Germany.", "emoji": "🧪"},
+    {"text": "A glowing screen across the room lit up, even though the tube was covered.", "emoji": "✨"},
+    {"text": "These mystery rays passed through objects, so he named them X, like an unknown in math.", "emoji": "✖️"},
+    {"text": "Weeks later, he made one of the first X-ray pictures: the bones of his wife's hand, with her ring.", "emoji": "💍"},
+    {"text": "He won the very first Nobel Prize in Physics, and never patented his discovery.", "emoji": "🏅"},
+    {"text": "Have you ever had an X-ray?", "emoji": "🦴"}
+  ],
+  "title": "Why X-rays are called X-rays ❓",
+  "caption": "Wilhelm Röntgen discovered X-rays on Nov 8, 1895, and called them 'X' because he didn't know what they were. He won the first Nobel Prize in Physics in 1901 and refused to patent it. 🦴",
+  "hashtags": ["#history", "#science", "#xray", "#didyouknow", "#historyfacts", "#shorts"]
+}

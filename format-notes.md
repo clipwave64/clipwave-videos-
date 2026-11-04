@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-04: 16-30 s still the sweet spot, animated word-by-word captions; Taurid peak day
+**Found**
+- A 2026 analysis of viral Shorts/TikToks found the 16-30 s range had the highest median views, a hook of ~10-15 words works best, and ~97% of captioned voiceover videos use animated word-by-word or phrase reveals. Faceless AI-voiceover videos had a higher median than on-camera ones; AI labels reportedly don't reduce reach, but YouTube won't monetize mass-produced template content, so original value matters. ([Revid: anatomy of a viral short 2026](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026))
+- Timely: EarthSky predicts the South Taurid peak on Nov 5, 2026 (North Taurids Nov 12, new moon Nov 9). ([EarthSky](https://earthsky.org/astronomy-essentials/taurid-meteors-all-you-need-to-know/)); Röntgen discovered X-rays on Nov 8, 1895 ([Britannica](https://britannica.com/biography/Wilhelm-Rontgen)).
+
+**Applied**
+- No engine change: captions already reveal a few words at a time and scripts stay ~30 s. Hooks kept short (under ~15 words), comment question last.
+- Topics: Taurid fireballs (space, peak day), why X-rays are called X (history, anniversary this weekend), wombat cube poop (animals, evergreen). Video 2 uses poppins.
+- Bottoms: parkour / runner / marbles; voices am_michael / af_heart / bm_george.
+
 ## 2026-11-03: ~30 s / ~85 words, payoff held to the end; Bonfire Night eve
 **Found**
 - A 2026 retention guide recommends a ~2 s visual hook, ~30 s / ~85 words of script, a visual change every 2-3 s, holding the payoff for the final line, and loop-friendly endings (last frame echoing the first). (Vendor guide; numbers unsourced.) ([FluxNote: faceless Shorts retention tips 2026](https://fluxnote.io/guides/faceless-shorts-retention-tips-2026))
