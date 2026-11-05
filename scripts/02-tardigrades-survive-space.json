@@ -1,0 +1,21 @@
+{
+  "slug": "02-tardigrades-survive-space",
+  "category": "ANIMAL FACT",
+  "theme": "#b06bff",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "There's a tiny animal that survived the vacuum of open space.", "emoji": "🚀"},
+    {"text": "Tardigrades, or water bears, are usually less than a millimeter long.", "emoji": "🐻"},
+    {"text": "In two thousand seven, scientists sent dried-out tardigrades into orbit on an uncrewed satellite.", "emoji": "🛰️"},
+    {"text": "They were exposed to space for ten days.", "emoji": "🌌"},
+    {"text": "Back on Earth, many came back to life with water, and some even laid eggs that hatched.", "emoji": "🥚"},
+    {"text": "Their secret is drying into a tough little ball called a tun, where their metabolism almost stops.", "emoji": "💤"},
+    {"text": "What tiny animal should we cover next?", "emoji": "🔬"}
+  ],
+  "title": "This tiny animal survived the vacuum of space 🚀",
+  "caption": "In 2007, dried-out tardigrades rode the FOTON-M3 satellite and were exposed to open space for 10 days. Many revived after rehydration and some still reproduced (Jönsson et al., Current Biology 2008). 🐻",
+  "hashtags": ["#animals", "#tardigrade", "#animalfacts", "#space", "#didyouknow", "#shorts"]
+}

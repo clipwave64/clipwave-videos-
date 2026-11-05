@@ -1,0 +1,21 @@
+{
+  "slug": "01-curie-radioactive-notebooks",
+  "category": "HISTORY FACT",
+  "theme": "#3fd17a",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Marie Curie's notebooks are still radioactive, more than a hundred years later.", "emoji": "☢️"},
+    {"text": "She was born on November seventh, eighteen sixty-seven, in Warsaw, Poland.", "emoji": "🇵🇱"},
+    {"text": "She was the first woman to win a Nobel Prize, and the only person to win in two different sciences.", "emoji": "🏅"},
+    {"text": "But years of working with radium left her papers, clothes and furniture contaminated.", "emoji": "🧪"},
+    {"text": "Today her notebooks are stored in lead-lined boxes at France's national library in Paris.", "emoji": "📦"},
+    {"text": "Radium has a half-life of about sixteen hundred years, so they'll stay radioactive for a very long time.", "emoji": "⏳"},
+    {"text": "Would you dare to read them?", "emoji": "👀"}
+  ],
+  "title": "Marie Curie's notebooks are STILL radioactive ☢️",
+  "caption": "Marie Curie (born Nov 7, 1867) won Nobel Prizes in both physics and chemistry. Her radium-contaminated notebooks are kept in lead-lined boxes at the Bibliothèque nationale de France. ☢️",
+  "hashtags": ["#history", "#mariecurie", "#science", "#historyfacts", "#didyouknow", "#shorts"]
+}

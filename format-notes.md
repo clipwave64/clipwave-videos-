@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-05: 7 words max per caption screen, hook inside the first second
+**Found**
+- A review of ~500 viral faceless Shorts (self-described as informal) says visual, text and voice should all hit in the first second, no greetings; single-fact videos often run 13-18 s, most formats 20-45 s. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
+- A 2026 on-screen text guide recommends max ~7 words per caption screen, bold high-contrast sans-serif (Montserrat listed), placed mid-frame clear of the bottom title and right-side buttons, ~150-170 wpm narration. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))
+- Timely: Marie Curie born Nov 7, 1867 ([Britannica](https://www.britannica.com/biography/Marie-Curie)).
+
+**Applied**
+- No engine change: our captions already show a few words at a time in bold Montserrat/Poppins, mid-frame. Hooks state the fact in the first sentence, no intro; scripts ~30 s.
+- Topics: Marie Curie's radioactive notebooks (history, birthday Nov 7), tardigrades survived open space (animals), Alaska is the most eastern state (geography, new niche).
+- Bottoms: marbles / parkour / runner; voices af_bella / am_adam / bm_george; video 2 uses poppins.
+
 ## 2026-11-04: 16-30 s still the sweet spot, animated word-by-word captions; Taurid peak day
 **Found**
 - A 2026 analysis of viral Shorts/TikToks found the 16-30 s range had the highest median views, a hook of ~10-15 words works best, and ~97% of captioned voiceover videos use animated word-by-word or phrase reveals. Faceless AI-voiceover videos had a higher median than on-camera ones; AI labels reportedly don't reduce reach, but YouTube won't monetize mass-produced template content, so original value matters. ([Revid: anatomy of a viral short 2026](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026))

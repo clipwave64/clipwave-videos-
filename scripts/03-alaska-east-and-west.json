@@ -1,0 +1,21 @@
+{
+  "slug": "03-alaska-east-and-west",
+  "category": "GEOGRAPHY FACT",
+  "theme": "#2fb8ff",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Alaska is the most northern, most western, and most eastern US state.", "emoji": "🗺️"},
+    {"text": "Most northern is easy: Utqiagvik, Alaska, is the northernmost town in the country.", "emoji": "❄️"},
+    {"text": "Most western too, because the Aleutian Islands stretch far out toward Russia.", "emoji": "🏝️"},
+    {"text": "But that chain goes so far, it crosses the one hundred eightieth meridian.", "emoji": "📏"},
+    {"text": "So a few islands, like Semisopochnoi, sit in the Eastern Hemisphere.", "emoji": "🌏"},
+    {"text": "By longitude, the most eastern point of the United States is in Alaska, not Maine.", "emoji": "🧭"},
+    {"text": "Did you know this one?", "emoji": "🤔"}
+  ],
+  "title": "Alaska is the most EASTERN state too 🧭",
+  "caption": "Alaska's Aleutian Islands cross the 180th meridian, so islands like Semisopochnoi lie in the Eastern Hemisphere. That makes Alaska the northernmost, westernmost and (by longitude) easternmost US state. 🗺️",
+  "hashtags": ["#geography", "#alaska", "#maps", "#didyouknow", "#funfacts", "#shorts"]
+}
