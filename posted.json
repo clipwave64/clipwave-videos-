@@ -560,6 +560,39 @@
       ],
       "metricool_id": 416125844,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-06T10:00",
+      "slug": "01-curie-radioactive-notebooks",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 417359557,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-06T12:00",
+      "slug": "02-tardigrades-survive-space",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 417359600,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-06T18:00",
+      "slug": "03-alaska-east-and-west",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 417359618,
+      "status": "scheduled"
     }
   ]
 }
