@@ -603,6 +603,39 @@
       "type": "long-form video",
       "metricool_id": 417871649,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-07T10:00",
+      "slug": "01-pale-blue-dot",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 418561397,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-07T12:00",
+      "slug": "02-livingstone-i-presume",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 418561409,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-07T18:00",
+      "slug": "03-sharks-older-than-trees",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 418561416,
+      "status": "scheduled"
     }
   ]
 }
