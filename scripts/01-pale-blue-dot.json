@@ -1,0 +1,21 @@
+{
+  "slug": "01-pale-blue-dot",
+  "category": "SPACE FACT",
+  "theme": "#4aa8ff",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "In one famous photo, all of planet Earth is smaller than a single pixel.", "emoji": "🌍"},
+    {"text": "It's called the Pale Blue Dot, taken by Voyager one on February fourteenth, nineteen ninety.", "emoji": "🛰️"},
+    {"text": "Astronomer Carl Sagan, born on November ninth, pushed NASA to turn the camera back toward home.", "emoji": "🔭"},
+    {"text": "The probe was about six billion kilometers away.", "emoji": "📏"},
+    {"text": "From there, Earth filled just twelve percent of one pixel, a tiny speck in a sunbeam.", "emoji": "✨"},
+    {"text": "Everyone who has ever lived is inside that dot.", "emoji": "👥"},
+    {"text": "Does that make your problems feel smaller?", "emoji": "🤔"}
+  ],
+  "title": "All of Earth in less than ONE pixel 🌍",
+  "caption": "On Feb 14, 1990, Voyager 1 photographed Earth from about 6 billion km away: the Pale Blue Dot, just 0.12 of a pixel. Carl Sagan (born Nov 9, 1934) pushed for the shot. 🌍",
+  "hashtags": ["#space", "#spacefacts", "#carlsagan", "#nasa", "#didyouknow", "#shorts"]
+}

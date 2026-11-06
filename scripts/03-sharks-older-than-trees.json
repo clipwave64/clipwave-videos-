@@ -1,0 +1,20 @@
+{
+  "slug": "03-sharks-older-than-trees",
+  "category": "ANIMAL FACT",
+  "theme": "#1fb5a8",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "Sharks are older than trees.", "emoji": "🦈"},
+    {"text": "The oldest shark-like scales are around four hundred and fifty million years old.", "emoji": "🪨"},
+    {"text": "The first true trees only appeared about three hundred and eighty-five million years ago.", "emoji": "🌳"},
+    {"text": "So for tens of millions of years, sharks swam in oceans next to land with no forests at all.", "emoji": "🌊"},
+    {"text": "They also survived all five mass extinctions, including the one that wiped out the dinosaurs.", "emoji": "🦖"},
+    {"text": "What animal do you think is the most ancient?", "emoji": "👇"}
+  ],
+  "title": "Sharks are OLDER than trees 🦈",
+  "caption": "The earliest shark scales date back ~450 million years, while the first trees appeared ~385 million years ago. Sharks have survived all five mass extinctions. 🦈",
+  "hashtags": ["#sharks", "#animalfacts", "#nature", "#ocean", "#didyouknow", "#shorts"]
+}

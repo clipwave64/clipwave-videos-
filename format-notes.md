@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-06: answer-first hooks, keep the proven style
+**Found**
+- A 2026 hooks guide stresses the first line, first frame and the rest of the answer must agree: name the payoff immediately (answer-first / myth-bust hooks). It admits it has no retention data. ([ShortsFast](https://shortsfast.com/blog/faceless-shorts-hooks-retention-2026/))
+- A topic-planning guide suggests mixing ~50% evergreen, 30% seasonal and 20% reactive topics. ([FluxNote](https://fluxnote.io/guides/faceless-shorts-trending-topics-2026))
+- Timely: Carl Sagan born Nov 9, 1934; Stanley-Livingstone meeting traditionally dated Nov 10, 1871. Sky: Northern Taurids ~Nov 12, Leonids Nov 17/18. ([Sky at Night](https://www.skyatnightmagazine.com/advice/stargazing-november-2026))
+
+**Applied**
+- No engine change (no new evidence for a format switch). Hooks state the payoff in sentence one; one myth-bust (Livingstone) and one evergreen (sharks vs trees).
+- Topics: Pale Blue Dot (space), "Dr. Livingstone, I presume" probably invented (history), sharks older than trees (animals).
+- Bottoms: runner / marbles / parkour; voices am_michael / af_heart / am_adam; video 2 uses poppins.
+
 ## 2026-11-05: 7 words max per caption screen, hook inside the first second
 **Found**
 - A review of ~500 viral faceless Shorts (self-described as informal) says visual, text and voice should all hit in the first second, no greetings; single-fact videos often run 13-18 s, most formats 20-45 s. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
