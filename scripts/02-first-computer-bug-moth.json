@@ -1,0 +1,20 @@
+{
+  "slug": "02-first-computer-bug-moth",
+  "category": "TECH FACT",
+  "theme": "#2ecc71",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "The first computer bug was a real bug.", "emoji": "🦋"},
+    {"text": "In September nineteen forty seven, the Harvard Mark Two computer kept making errors.", "emoji": "💻"},
+    {"text": "Engineers opened it up and found a moth stuck inside a relay.", "emoji": "🔍"},
+    {"text": "They taped it into the logbook with a note: first actual case of bug being found.", "emoji": "📓"},
+    {"text": "That page, moth and all, is now kept at the Smithsonian.", "emoji": "🏛️"},
+    {"text": "What is the weirdest bug your phone or computer ever had?", "emoji": "👇"}
+  ],
+  "title": "The first computer bug was a REAL bug 🦋",
+  "caption": "On Sept 9, 1947, engineers on the Harvard Mark II found a moth trapped in a relay and taped it into their logbook. The page is now at the Smithsonian.",
+  "hashtags": ["#tech", "#techfacts", "#computerhistory", "#history", "#didyouknow", "#shorts"]
+}

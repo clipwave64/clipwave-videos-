@@ -1,0 +1,20 @@
+{
+  "slug": "01-moon-drifting-away",
+  "category": "SPACE FACT",
+  "theme": "#7a8cff",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "The Moon is slowly running away from Earth.", "emoji": "🌕"},
+    {"text": "Every year it drifts about three point eight centimeters farther away.", "emoji": "📏"},
+    {"text": "We know because Apollo astronauts left mirrors on the Moon.", "emoji": "🪞"},
+    {"text": "Scientists fire lasers at them and time how long the light takes to bounce back.", "emoji": "🔦"},
+    {"text": "The cause is ocean tides, which slowly push the Moon into a wider orbit.", "emoji": "🌊"},
+    {"text": "Did you know astronauts left mirrors up there?", "emoji": "👇"}
+  ],
+  "title": "The Moon is running away from us 🌕",
+  "caption": "The Moon drifts about 3.8 cm farther from Earth every year. We measure it by bouncing lasers off mirrors the Apollo astronauts left behind.",
+  "hashtags": ["#space", "#moon", "#spacefacts", "#nasa", "#didyouknow", "#shorts"]
+}

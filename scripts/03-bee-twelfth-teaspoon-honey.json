@@ -1,0 +1,20 @@
+{
+  "slug": "03-bee-twelfth-teaspoon-honey",
+  "category": "ANIMAL FACT",
+  "theme": "#f5a623",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "A honey bee makes only about one twelfth of a teaspoon of honey in its whole life.", "emoji": "🐝"},
+    {"text": "A worker bee in summer lives for only about five or six weeks.", "emoji": "⏳"},
+    {"text": "In that time it visits thousands of flowers to collect nectar.", "emoji": "🌸"},
+    {"text": "So every jar of honey is the life's work of hundreds of bees.", "emoji": "🍯"},
+    {"text": "Next time you add honey to your tea, thank a few bees.", "emoji": "🙏"},
+    {"text": "Did you know bees made so little?", "emoji": "👇"}
+  ],
+  "title": "A bee's whole life = 1/12 teaspoon of honey 🐝",
+  "caption": "A single honey bee makes only about 1/12 of a teaspoon of honey in its lifetime. Every jar is the work of hundreds of bees. 🍯",
+  "hashtags": ["#bees", "#animalfacts", "#nature", "#honey", "#didyouknow", "#shorts"]
+}

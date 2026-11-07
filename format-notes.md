@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-07: strong first 2 s, fast visual change, loop-friendly endings (all vendor claims, unsourced)
+**Found**
+- A 2026 faceless-Shorts algorithm guide says a high swipe-away rate in the first ~2 s limits further distribution, recommends a visual change every 2-3 s and loop-friendly endings; says faceless content isn't penalized but needs stronger hooks and pacing. No data cited. ([FluxNote](https://fluxnote.io/guides/faceless-youtube-shorts-algorithm-2026))
+- A Shorts trends roundup (updated Nov 4) pushes on-screen captions for sound-off viewers, a consistent voiceover, and labeling AI content; claims a 50-60 s sweet spot, which conflicts with other guides' 20-45 s. Unsourced figures. ([Anijam](https://www.anijam.ai/blog/youtube-shorts-trends/))
+
+**Applied**
+- No engine change (no reliable evidence for a switch; our split-screen with moving gameplay already gives constant motion). Kept ~25-35 s; one-line hooks; closing question echoes the hook to help loops.
+- Topics: Moon drifting away 3.8 cm/yr (space), first computer bug was a real moth (tech), a bee's lifetime = 1/12 tsp honey (animals).
+- Bottoms: marbles / runner / parkour; voices bm_george / af_bella / af_heart; video 2 uses poppins.
+
 ## 2026-11-06: answer-first hooks, keep the proven style
 **Found**
 - A 2026 hooks guide stresses the first line, first frame and the rest of the answer must agree: name the payoff immediately (answer-first / myth-bust hooks). It admits it has no retention data. ([ShortsFast](https://shortsfast.com/blog/faceless-shorts-hooks-retention-2026/))
