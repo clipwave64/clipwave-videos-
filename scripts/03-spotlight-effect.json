@@ -1,0 +1,21 @@
+{
+  "slug": "03-spotlight-effect",
+  "category": "PSYCHOLOGY FACT",
+  "theme": "#16a085",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "People notice you far less than you think they do.", "emoji": "👀"},
+    {"text": "Psychologists call it the spotlight effect.", "emoji": "🔦"},
+    {"text": "In a Cornell study, students had to walk into a room wearing an embarrassing Barry Manilow T-shirt.", "emoji": "👕"},
+    {"text": "They guessed about half the people in the room would notice it.", "emoji": "🤔"},
+    {"text": "In reality, only about a quarter did.", "emoji": "📉"},
+    {"text": "So that awkward moment you keep replaying? Most people already forgot it.", "emoji": "😌"},
+    {"text": "What's something you were sure everyone noticed?", "emoji": "💬"}
+  ],
+  "title": "Nobody is watching you as much as you think 👀",
+  "caption": "The spotlight effect: in a 2000 Cornell study (Gilovich et al.), students wearing an embarrassing T-shirt thought about half the room noticed. Only about a quarter actually did. 👀",
+  "hashtags": ["#psychology", "#psychologyfacts", "#didyouknow", "#brain", "#mindset", "#shorts"]
+}

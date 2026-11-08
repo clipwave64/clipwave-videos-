@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-08: no new reliable format signal; keep proven split-screen style
+**Found**
+- A May 2026 niche guide recommends 30-45 s for psychology facts, "I didn't know that"-style hooks and 2-3 Shorts/day; claims to have analyzed 500+ channels but gives no methodology. ([Eliro](https://eliro.pro/blog/faceless-youtube-shorts-niches-2026))
+- A trending-topics guide (updated Mar 2026) recommends reacting to breakout topics within 24 h and mixing evergreen/seasonal/reactive topics (~50/30/20). No data cited. ([FluxNote](https://fluxnote.io/guides/faceless-shorts-trending-topics-2026))
+- Many fact/news pages were unreachable from the sandbox today, so research was thinner than usual.
+
+**Applied**
+- No engine change. Kept ~25-35 s, one-line direct hooks, closing question.
+- Seasonal angle: Nov 9 birthdays of Hedy Lamarr (1914) and Carl Sagan (1934). Topics: Lamarr frequency hopping (tech), Voyager Golden Record (space), spotlight effect (psychology).
+- Bottoms: parkour / marbles / runner; voices af_bella / am_michael / am_adam; video 2 uses poppins.
+
 ## 2026-11-07: strong first 2 s, fast visual change, loop-friendly endings (all vendor claims, unsourced)
 **Found**
 - A 2026 faceless-Shorts algorithm guide says a high swipe-away rate in the first ~2 s limits further distribution, recommends a visual change every 2-3 s and loop-friendly endings; says faceless content isn't penalized but needs stronger hooks and pacing. No data cited. ([FluxNote](https://fluxnote.io/guides/faceless-youtube-shorts-algorithm-2026))

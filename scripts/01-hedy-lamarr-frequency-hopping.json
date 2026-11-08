@@ -1,0 +1,21 @@
+{
+  "slug": "01-hedy-lamarr-frequency-hopping",
+  "category": "TECH FACT",
+  "theme": "#e84393",
+  "voice": "af_bella",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {"text": "A famous Hollywood movie star co-invented a secret radio system in World War Two.", "emoji": "🎬"},
+    {"text": "Her name was Hedy Lamarr, born in Austria on November ninth, nineteen fourteen.", "emoji": "🎂"},
+    {"text": "With composer George Antheil, she patented a way for radio signals to hop between frequencies.", "emoji": "📻"},
+    {"text": "The idea was to stop enemies from jamming radio-controlled torpedoes.", "emoji": "🚀"},
+    {"text": "Frequency hopping is now seen as an important step in wireless communication.", "emoji": "📶"},
+    {"text": "She was inducted into the National Inventors Hall of Fame in twenty fourteen.", "emoji": "🏆"},
+    {"text": "Did you know this movie star was an inventor?", "emoji": "🤔"}
+  ],
+  "title": "This movie star secretly invented a radio system 🎬",
+  "caption": "Actress Hedy Lamarr (born Nov 9, 1914) and composer George Antheil patented a frequency-hopping system in 1942 to protect radio-guided torpedoes from jamming. 📶",
+  "hashtags": ["#tech", "#techfacts", "#history", "#inventions", "#didyouknow", "#shorts"]
+}

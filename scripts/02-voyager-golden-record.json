@@ -1,0 +1,20 @@
+{
+  "slug": "02-voyager-golden-record",
+  "category": "SPACE FACT",
+  "theme": "#d4a017",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "poppins",
+  "scenes": [
+    {"text": "Right now, two golden records are flying out of our solar system with a message for aliens.", "emoji": "💿"},
+    {"text": "They ride on NASA's Voyager probes, launched in nineteen seventy seven.", "emoji": "🛰️"},
+    {"text": "Each one is made of gold-plated copper.", "emoji": "✨"},
+    {"text": "They hold greetings in fifty five languages, one hundred fifteen images, and music from around the world.", "emoji": "🎶"},
+    {"text": "The committee that chose what went on them was chaired by astronomer Carl Sagan.", "emoji": "🔭"},
+    {"text": "If you could add one sound to the record, what would it be?", "emoji": "👽"}
+  ],
+  "title": "We sent aliens a golden record 💿",
+  "caption": "Voyager 1 and 2 each carry a gold-plated copper record with greetings in 55 languages, 115 images and music from Earth. The selection committee was chaired by Carl Sagan, born Nov 9, 1934. 🛰️",
+  "hashtags": ["#space", "#voyager", "#nasa", "#spacefacts", "#didyouknow", "#shorts"]
+}
