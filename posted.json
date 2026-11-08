@@ -669,6 +669,39 @@
    ],
    "metricool_id": 419703743,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-09T10:00",
+   "slug": "01-hedy-lamarr-frequency-hopping",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 420502547,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-09T12:00",
+   "slug": "02-voyager-golden-record",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 420502570,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-09T18:00",
+   "slug": "03-spotlight-effect",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 420502588,
+   "status": "scheduled"
   }
  ]
 }
