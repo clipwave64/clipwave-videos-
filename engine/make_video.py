@@ -262,9 +262,13 @@ def render(script_path, out_dir):
                 presenter.draw(frame, t)
                 d = ImageDraw.Draw(frame)
             ew, eh = max(1, int(em.width * sc)), max(1, int(em.height * sc))
-            if presenter is not None:
-                ew, eh = max(1, int(ew * 0.47)), max(1, int(eh * 0.47))
+            if presenter is not None:  # gentle fade, no pop
+                k = min(1.0, max(0.0, since / 0.7))
+                k = k * k * (3 - 2 * k)
+                ew, eh = max(1, int(em.width * 0.47 * (0.92 + 0.08 * k))), max(1, int(em.height * 0.47 * (0.92 + 0.08 * k)))
             emr = em.resize((ew, eh), Image.BILINEAR)
+            if presenter is not None:
+                emr.putalpha(emr.getchannel("A").point(lambda v: int(v * k)))
             bob = math.sin(t * 2.2) * 18
             ex, ey = (850, 375) if presenter is not None else (W / 2, Y_EMOJI)
             if presenter is not None:

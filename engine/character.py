@@ -2,6 +2,8 @@
 Drawn entirely in code. Mouth follows the voice, eyes blink, fin gestures, coat and tail sway."""
 import math
 import random
+
+import numpy as np
 from PIL import Image, ImageDraw
 
 SS = 2          # supersampling
@@ -54,21 +56,23 @@ class Character:
             s = voice[int(i * hop):int((i + 1) * hop)]
             rms[i] = float((s ** 2).mean()) ** 0.5 if len(s) else 0.0
         peak = sorted(rms)[int(n * 0.95)] or 1.0
-        self.level = [min(1.0, r / peak) for r in rms]
+        env = np.minimum(1.0, np.array(rms) / peak)
+        kernel = np.exp(-0.5 * (np.arange(-9, 10) / 3.5) ** 2)
+        self.level = np.convolve(env, kernel / kernel.sum(), mode="same").tolist()
         self.fps = fps
         self.times = scene_times
         r = random.Random(seed)
         self.blinks, t = [], 1.2
         while t < n / fps:
             self.blinks.append(t)
-            t += r.uniform(1.8, 4.2)
+            t += r.uniform(3.5, 6.5)
         self.cache = {}
 
     def _build(self, mouth, blink, pose, look):
-        """mouth 0-5, blink 0-2, pose -6..6, look -1..1"""
+        """all continuous: mouth 0..1, blink 0..1, pose -1..1, look -1..1"""
         im = Image.new("RGBA", (CW * SS, CH * SS), (0, 0, 0, 0))
         d = ImageDraw.Draw(im)
-        sw = pose / 6
+        sw = pose
         # tail
         tc = (135, CY)
         _poly(d, _rot([(150, CY - 14), (40, CY - 145), (82, CY), (40, CY + 145), (150, CY + 14)], tc, sw * 11), BLUE_D)
@@ -116,48 +120,42 @@ class Character:
         _poly(d, _rot([(387, 404), (470, 428), (456, 486), (375, 468)], sh, ang), COAT)
         # eye
         ex, ey = 560, 305
-        if blink == 2:
-            d.arc([(ex - 40) * SS, (ey - 20) * SS, (ex + 40) * SS, (ey + 38) * SS], 200, 340, fill=INK, width=9 * SS)
-        else:
-            sy = 40 if blink == 0 else 21
-            d.ellipse([(ex - 40) * SS, (ey - sy) * SS, (ex + 40) * SS, (ey + sy) * SS], fill=(255, 255, 255), outline=INK, width=6 * SS)
-            px, pr = ex + 12 + look * 9, (22 if blink == 0 else 14)
+        open_ = 1 - blink
+        sy = max(3, 40 * open_)
+        d.ellipse([(ex - 40) * SS, (ey - sy) * SS, (ex + 40) * SS, (ey + sy) * SS], fill=(255, 255, 255), outline=INK, width=6 * SS)
+        if open_ > 0.2:
+            px, pr = ex + 12 + look * 9, min(22, sy * 0.6)
             _circ(d, px, ey + 3, pr, (18, 22, 48))
-            _circ(d, px + 7, ey - 6, 6 if blink == 0 else 4, (255, 255, 255))
+            _circ(d, px + 7, ey - 6 * open_, max(1, 6 * open_), (255, 255, 255))
         # brow
-        d.line(_p([(ex - 36, ey - 54 - mouth), (ex + 34, ey - 60 - mouth * 2)]), fill=INK, width=10 * SS)
+        d.line(_p([(ex - 36, ey - 54 - mouth * 3), (ex + 34, ey - 60 - mouth * 5)]), fill=INK, width=10 * SS)
         # mouth
         mx, my, mw = 592, 392, 48
-        if mouth == 0:
-            d.arc([(mx - mw) * SS, (my - 36) * SS, (mx + mw - 10) * SS, (my + 22) * SS], 25, 150, fill=INK, width=8 * SS)
-        else:
-            o = 6 + mouth * 8
-            d.ellipse([(mx - mw + 8) * SS, (my - o * 0.45) * SS, (mx + mw - 18) * SS, (my + o) * SS], fill=(116, 24, 52), outline=INK, width=7 * SS)
-            if o > 18:
-                d.ellipse([(mx - 18) * SS, (my + o * 0.2) * SS, (mx + 14) * SS, (my + o - 5) * SS], fill=(236, 92, 118))
+        o = 3 + mouth * 34
+        d.ellipse([(mx - mw + 8) * SS, (my - o * 0.45) * SS, (mx + mw - 18) * SS, (my + o) * SS],
+                  fill=(116, 24, 52), outline=INK, width=7 * SS)
+        if o > 12:
+            k = min(1.0, (o - 12) / 14)
+            d.ellipse([(mx - 18 * k) * SS, (my + o * 0.2) * SS, (mx + 14 * k) * SS, (my + o - 5) * SS], fill=(236, 92, 118))
         return im.resize((CW, CH), Image.LANCZOS)
 
     def draw(self, frame, t, cx=480, top=235):
-        i = int(t * self.fps)
-        lvl = self.level[min(i, len(self.level) - 1)]
-        mouth = min(5, int(lvl * 6)) if lvl > 0.08 else 0
-        blink = 0
+        i = min(int(t * self.fps), len(self.level) - 1)
+        mouth = round(min(1.0, self.level[i] * 0.85) * 16) / 16
+        blink = 0.0
         for b in self.blinks:
-            if 0 <= t - b < 0.05 or 0.1 <= t - b < 0.14:
-                blink = 1
-            elif 0.05 <= t - b < 0.1:
-                blink = 2
-        pose = round(6 * math.sin(t * (2.0 + 3.2 * lvl)))
-        look = round(math.sin(t * 0.7))
+            if 0 <= t - b < 0.45:  # eyelid eases shut and open over 0.45 s
+                blink = max(blink, math.sin((t - b) / 0.45 * math.pi) ** 2)
+        blink = round(blink * 10) / 10
+        pose = round(math.sin(t * 0.9) * 40) / 40    # slow, constant-speed sway
+        look = round(math.sin(t * 0.35) * 8) / 8
         key = (mouth, blink, pose, look)
         if key not in self.cache:
+            if len(self.cache) > 300:
+                self.cache.clear()
             self.cache[key] = self._build(*key)
-        im = self.cache[key]
-        # little hop on each new sentence
-        hop = 0
-        for s, _ in self.times:
-            if 0 <= t - s < 0.35:
-                hop = math.sin((t - s) / 0.35 * math.pi) * 34
-        tilt = math.sin(t * 1.6) * 2.2
-        rot = im.rotate(tilt, resample=Image.BILINEAR, center=(450, 350))
-        frame.alpha_composite(rot, (int(cx - CW / 2), int(top + math.sin(t * 2.2) * 12 - hop)))
+        tilt = math.sin(t * 0.7) * 1.2
+        y = math.sin(t * 0.9) * 9
+        # sub-pixel placement so slow drift glides instead of stepping
+        rot = self.cache[key].rotate(tilt, resample=Image.BICUBIC, center=(450, 350), translate=(0, y))
+        frame.alpha_composite(rot, (int(cx - CW / 2), top))
