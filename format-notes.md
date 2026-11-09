@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-09: no format pages read today; keep proven split-screen style
+**Found**
+- Web search returned only page titles for format queries (e.g. [Metricool YouTube Trends 2026](https://metricool.com/youtube-trends/), [Revid viral short anatomy](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026)); no format page was opened today, so there is no new evidence.
+
+**Applied**
+- No engine change. Kept ~25-35 s, one-line direct hooks, closing question.
+- Topics: Greenland shark lifespan (animals), France has the most time zones (geography), IKEA effect (psychology). Facts checked against [ScienceDaily on Nielsen et al. 2016](https://www.sciencedaily.com/releases/2016/08/160811143218.htm), [timeanddate](https://www.timeanddate.com/time/country-with-the-most-time-zones.html), [Time in France](https://en.wikipedia.org/wiki/Time_in_France), [IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect).
+- Bottoms: runner / parkour / marbles; voices bm_george / af_heart / am_michael; video 2 uses poppins.
+
 ## 2026-11-08: no new reliable format signal; keep proven split-screen style
 **Found**
 - A May 2026 niche guide recommends 30-45 s for psychology facts, "I didn't know that"-style hooks and 2-3 Shorts/day; claims to have analyzed 500+ channels but gives no methodology. ([Eliro](https://eliro.pro/blog/faceless-youtube-shorts-niches-2026))

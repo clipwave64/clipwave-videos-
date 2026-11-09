@@ -1,0 +1,45 @@
+{
+  "slug": "02-france-most-time-zones",
+  "category": "GEOGRAPHY FACT",
+  "theme": "#d7263d",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "scenes": [
+    {
+      "text": "The country with the most time zones isn't Russia. It's France.",
+      "emoji": "🇫🇷"
+    },
+    {
+      "text": "France uses twelve time zones, or thirteen if you count its claim in Antarctica.",
+      "emoji": "🕐"
+    },
+    {
+      "text": "Russia and the United States have just eleven each.",
+      "emoji": "🌍"
+    },
+    {
+      "text": "The secret is France's overseas territories, scattered around the planet.",
+      "emoji": "🏝️"
+    },
+    {
+      "text": "French Polynesia in the Pacific, Reunion in the Indian Ocean, French Guiana in South America.",
+      "emoji": "🗺️"
+    },
+    {
+      "text": "Which country did you think had the most?",
+      "emoji": "❓"
+    }
+  ],
+  "title": "The country with the most time zones isn't Russia 🌍",
+  "caption": "France uses 12 time zones (13 with its Antarctic claim), more than any other country, thanks to overseas territories around the world. Russia and the USA have 11 each. 🇫🇷",
+  "hashtags": [
+    "#geography",
+    "#france",
+    "#maps",
+    "#didyouknow",
+    "#facts",
+    "#shorts"
+  ]
+}
