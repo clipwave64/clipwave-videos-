@@ -1,0 +1,77 @@
+{
+  "slug": "01-einstein-fridge-patent",
+  "category": "TECH FACT",
+  "theme": "#38bdf8",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "scenes": [
+    {
+      "text": "Albert Einstein invented a fridge, and its patent was granted on November eleventh, nineteen thirty.",
+      "emoji": "🧊"
+    },
+    {
+      "text": "He designed it with his former student, the physicist Leo Szilard.",
+      "emoji": "👨‍🔬"
+    },
+    {
+      "text": "Fun fact: years earlier, Einstein had worked as a clerk in a Swiss patent office.",
+      "emoji": "📄"
+    },
+    {
+      "text": "It began with a newspaper story about a Berlin family killed by gas leaking from their fridge.",
+      "emoji": "📰"
+    },
+    {
+      "text": "Back then, many fridges used poisonous gases and pumps with seals that could fail.",
+      "emoji": "⚠️"
+    },
+    {
+      "text": "So Einstein and Szilard designed a fridge with no moving parts at all.",
+      "emoji": "⚙️"
+    },
+    {
+      "text": "Instead of a motor, it runs on a simple source of heat, like a small gas flame.",
+      "emoji": "🔥"
+    },
+    {
+      "text": "Inside, three fluids do all the work: ammonia, butane and water.",
+      "emoji": "🧪"
+    },
+    {
+      "text": "The pair filed many patents together, and the Swedish company Electrolux bought one of them.",
+      "emoji": "🇸🇪"
+    },
+    {
+      "text": "But in the nineteen thirties, a new gas called Freon made ordinary fridges much safer.",
+      "emoji": "❄️"
+    },
+    {
+      "text": "So Einstein's fridge never made it into everyday kitchens.",
+      "emoji": "🏠"
+    },
+    {
+      "text": "Decades later, engineers at Oxford University started working on a modern version.",
+      "emoji": "🔬"
+    },
+    {
+      "text": "Because it can run on heat alone, it could help where electricity is scarce.",
+      "emoji": "🌍"
+    },
+    {
+      "text": "Would you keep your snacks in a fridge designed by Albert Einstein?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Einstein invented a fridge with no moving parts 🧊",
+  "caption": "On Nov 11, 1930, Albert Einstein and Leo Szilard got a US patent for a fridge with no moving parts, powered by heat. It was inspired by a news story about a deadly fridge gas leak. 🧊",
+  "hashtags": [
+    "#einstein",
+    "#science",
+    "#history",
+    "#didyouknow",
+    "#facts",
+    "#shorts"
+  ]
+}

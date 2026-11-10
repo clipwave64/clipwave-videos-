@@ -2,6 +2,19 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-10: first ~65 s run; vendor guides push visual change every 1-4 s and 5-7 word captions
+**Found**
+- A captions guide (Nov 2025) recommends captions in the center third (clear of the top ~20% and bottom ~25%), bold sans-serif such as Montserrat, high contrast with a stroke or shadow, 5-7 words and max 2 lines per screen. Its completion-rate figures cite unnamed studies. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- A retention guide (updated Mar 2026) recommends a visual change every 2-4 s, 160-180 wpm narration, an early payoff and one short pause before the key fact; its "5,000 Shorts" analysis gives no method. ([FluxNote](https://fluxnote.io/guides/faceless-shorts-retention-tips-2026))
+- A benchmarks page (updated Oct 2026) says retention is decided in the first 3 s; for 30-60 s videos it calls >40% average view percentage good (aggregator data, not YouTube). ([GoFaceless](https://www.gofaceless.ai/en/blog/high-retention-youtube-shorts-attributes))
+- Fact pages (Wikipedia, NASA, EarthSky, New Scientist) could not be opened from the sandbox today; facts were checked against search results (patent number/dates in titles from [EDN](https://www.edn.com/einstein-patents-a-refrigerator-design-november-11-1930/), [Smithsonian](https://invention.si.edu/invention-stories/einstein-szilard-refrigerator), [Google Patents US1781541A](https://patents.google.com/patent/US1781541A/en); [Leonids](https://en.wikipedia.org/wiki/Leonids), [Denison Olmsted](https://en.wikipedia.org/wiki/Denison_Olmsted); [Notre Dame news](https://news.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows/), [BPS Research Digest](https://www.bps.org.uk/research-digest/how-walking-through-doorway-increases-forgetting)) and well-documented background; uncertain details were left out or hedged ("scientists think").
+
+**Applied**
+- No engine change: our captions already sit mid-frame in bold Montserrat/Poppins with an outline, and each new sentence brings a new emoji (~every 4 s) over moving gameplay.
+- First day at the owner's ~65 s length: 13-16 sentences, ~170-200 words; hooks state the payoff in sentence one; timely angles (Einstein fridge patent anniversary Nov 11, Leonid peak ~Nov 17).
+- Topics: Einstein's fridge (tech), the 1833 Leonid storm (space), the doorway effect (psychology).
+- Bottoms: parkour / marbles / runner; voices am_adam / af_bella / af_heart; video 2 uses poppins.
+
 ## 2026-11-09: no format pages read today; keep proven split-screen style
 **Found**
 - Web search returned only page titles for format queries (e.g. [Metricool YouTube Trends 2026](https://metricool.com/youtube-trends/), [Revid viral short anatomy](https://www.revid.ai/blog/the-anatomy-of-a-viral-short-2026)); no format page was opened today, so there is no new evidence.
