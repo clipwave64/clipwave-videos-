@@ -15,7 +15,8 @@ The script JSON looks like:
   "title": "...", "caption": "...", "hashtags": ["#space", ...],
   "layout": "split",                         # optional: "split" (default) or "classic"
   "bottom": "runner",                        # optional: runner | marbles | parkour (default: picked from slug)
-  "caption_font": "montserrat"               # optional: montserrat (default) or poppins
+  "caption_font": "montserrat",              # optional: montserrat (default) or poppins
+  "character": "swordfish"                   # optional: animated presenter instead of the big emoji
 }
 
 Split layout = fact on the top half, original code-generated "satisfying gameplay" on the
@@ -35,6 +36,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import tts  # noqa: E402
 import gameplay  # noqa: E402
+import character  # noqa: E402
 
 W, H, FPS = 1080, 1920, 30
 FONT_BOLD = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
@@ -175,6 +177,7 @@ def render(script_path, out_dir):
     duration = len(voice) / tts.SR + END_CARD
     voice = np.concatenate([voice, np.zeros(int(END_CARD * tts.SR), np.float32)])
     music = make_music(duration, seed=rng.randint(0, 999))[: len(voice)]
+    presenter = character.Character(voice, tts.SR, FPS, times, slug) if spec.get("character") == "swordfish" else None
     mixdown = voice + 0.11 * music
     mixdown /= max(1.0, np.abs(mixdown).max() / 0.95)
     wav_path = out_dir / f"{slug}.wav"
@@ -255,10 +258,23 @@ def render(script_path, out_dir):
             since = t - (times[si][0] - 0.1)
             sc = 0.4 + 0.6 * ease_out_back(since / 0.45)
             em = emojis[si]
+            if presenter is not None:
+                presenter.draw(frame, t)
+                d = ImageDraw.Draw(frame)
             ew, eh = max(1, int(em.width * sc)), max(1, int(em.height * sc))
+            if presenter is not None:  # gentle fade, no pop
+                k = min(1.0, max(0.0, since / 0.7))
+                k = k * k * (3 - 2 * k)
+                ew, eh = max(1, int(em.width * 0.47 * (0.92 + 0.08 * k))), max(1, int(em.height * 0.47 * (0.92 + 0.08 * k)))
             emr = em.resize((ew, eh), Image.BILINEAR)
+            if presenter is not None:
+                emr.putalpha(emr.getchannel("A").point(lambda v: int(v * k)))
             bob = math.sin(t * 2.2) * 18
-            frame.alpha_composite(emr, (int(W / 2 - ew / 2), int(Y_EMOJI - eh / 2 + bob)))
+            ex, ey = (850, 375) if presenter is not None else (W / 2, Y_EMOJI)
+            if presenter is not None:
+                d.ellipse((ex - 105, ey - 105, ex + 105, ey + 105 + 0), fill=(255, 255, 255, 235))
+                d.polygon([(ex - 62, ey + 78), (ex - 118, ey + 138), (ex - 18, ey + 100)], fill=(255, 255, 255, 235))
+            frame.alpha_composite(emr, (int(ex - ew / 2), int(ey - eh / 2 + (0 if presenter is not None else bob))))
 
             # caption chunk with active-word highlight
             cur = None
