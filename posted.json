@@ -735,6 +735,39 @@
    ],
    "metricool_id": 421399582,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-11T10:00",
+   "slug": "01-einstein-fridge-patent",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 422767624,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-11T12:00",
+   "slug": "02-leonids-1833-stars-fell",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 422767641,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-11T18:00",
+   "slug": "03-doorway-effect",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 422767652,
+   "status": "scheduled"
   }
  ]
 }
