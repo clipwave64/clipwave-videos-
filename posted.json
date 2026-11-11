@@ -768,6 +768,39 @@
    ],
    "metricool_id": 422767652,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-12T10:00",
+   "slug": "01-nellie-bly-72-days",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 424052056,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-12T12:00",
+   "slug": "02-more-trees-than-stars",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 424052072,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-12T18:00",
+   "slug": "03-axolotl-regrows-body",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 424052087,
+   "status": "scheduled"
   }
  ]
 }
