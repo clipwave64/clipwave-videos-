@@ -1,0 +1,78 @@
+{
+  "slug": "02-more-trees-than-stars",
+  "category": "SCIENCE FACT",
+  "theme": "#22c55e",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "There are more trees on Earth than stars in our galaxy.",
+      "emoji": "🌳"
+    },
+    {
+      "text": "In twenty fifteen, a team led by ecologist Thomas Crowther at Yale counted the world's trees.",
+      "emoji": "🔬"
+    },
+    {
+      "text": "They used tree measurements from hundreds of thousands of forest plots on every continent except Antarctica.",
+      "emoji": "📏"
+    },
+    {
+      "text": "Then they added satellite images to map tree density everywhere.",
+      "emoji": "🛰️"
+    },
+    {
+      "text": "Their answer, published in the journal Nature, was about three trillion trees.",
+      "emoji": "🧮"
+    },
+    {
+      "text": "Earlier estimates said only about four hundred billion.",
+      "emoji": "📈"
+    },
+    {
+      "text": "That's roughly four hundred trees for every person alive at the time.",
+      "emoji": "👥"
+    },
+    {
+      "text": "Now look up at the Milky Way.",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Astronomers estimate it holds about one hundred to four hundred billion stars.",
+      "emoji": "⭐"
+    },
+    {
+      "text": "So Earth's trees beat our galaxy's stars by several times.",
+      "emoji": "🏆"
+    },
+    {
+      "text": "But the same study found some bad news.",
+      "emoji": "⚠️"
+    },
+    {
+      "text": "Humans cut down about fifteen billion trees every year.",
+      "emoji": "🪓"
+    },
+    {
+      "text": "And since human civilization began, the number of trees has fallen by almost half.",
+      "emoji": "📉"
+    },
+    {
+      "text": "Which surprises you more: the trees, or the stars?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Earth has more trees than the Milky Way has stars 🌳",
+  "caption": "A 2015 Yale-led study in Nature counted about 3 trillion trees on Earth. The Milky Way has an estimated 100-400 billion stars. 🌌",
+  "hashtags": [
+    "#science",
+    "#sciencefacts",
+    "#trees",
+    "#space",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

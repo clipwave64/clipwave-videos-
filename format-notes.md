@@ -2,6 +2,18 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-11: vendor guide says max ~7 words per text screen, 2-3 s each; our captions already match
+**Found**
+- A text-on-screen guide (updated Mar 4 2026) recommends max 7 words per text screen shown 2-3 s each, 1-2 fonts per Short, bold sans-serif, 150-170 wpm voiceover and instrumental music at 30-40% under the voice. Vendor recommendations, no data cited. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))
+- Search also surfaced "500 viral faceless Shorts" analyses ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts)) and the earlier [OpusClip captions guide](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices); not opened today.
+- Fact pages: [National Geographic axolotl](https://www.nationalgeographic.com/animals/amphibians/facts/axolotl) was read in full. Wikipedia, Nature, Yale and NASA pages were blocked from the sandbox today, so Nellie Bly and tree-count facts were checked against search results ([Mental Floss](https://www.mentalfloss.com/history/nellie-blys-72-day-trip-around-world), [History Hit](https://historyhit.com/1889-nellie-bly-crosses-world-72-days), [Lifetime: Jan 25 1890](https://www.mylifetime.com/she-did-that/january-25-1890-nellie-bly-completed-her-record-breaking-trip-around-the-world-in-72-days); [Nature news 525170a](https://www.nature.com/articles/525170a), [Yale Alumni Magazine](https://www.yalealumnimagazine.com/articles/4190-the-arboreal-census), [Sci.News](https://www.sci.news/biology/science-three-trillion-trees-earth-03198.html)) and well-documented background; less certain details (e.g. modes of transport) were dropped.
+
+**Applied**
+- Engine fix: the runner and parkour levels were only built for ~40-45 s, so in ~65 s videos the last ~20 s showed an empty road / no platforms (cube floating). Levels now run 90 s; tested on today's renders (frames at 45/55/62 s look right).
+- Captions already show short chunks in one bold font with an outline; Dr. Swordfish presents every video (owner rule).
+- Timely angle: Nellie Bly set off Nov 14 1889. Topics: Nellie Bly (history), more trees than Milky Way stars (science), axolotl regeneration (animals).
+- Bottoms: marbles / runner / parkour; voices af_heart / bm_george / am_michael; video 2 uses poppins.
+
 ## 2026-11-10: first ~65 s run; vendor guides push visual change every 1-4 s and 5-7 word captions
 **Found**
 - A captions guide (Nov 2025) recommends captions in the center third (clear of the top ~20% and bottom ~25%), bold sans-serif such as Montserrat, high contrast with a stroke or shadow, 5-7 words and max 2 lines per screen. Its completion-rate figures cite unnamed studies. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))

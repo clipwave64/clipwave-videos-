@@ -66,7 +66,7 @@ class Runner:
         self.rows, self.coins = [], []
         z, lane = 30.0, 0
         self.plan = []  # (z_row, target_lane, jump)
-        while z < 40 * self.SPEED + 200:
+        while z < 90 * self.SPEED + 200:  # long enough for ~65 s videos
             if self.rng.random() < 0.25:
                 self.rows.append((z, [(-1, "low"), (0, "low"), (1, "low")]))
                 self.plan.append((z, lane, True))
@@ -332,7 +332,7 @@ class Parkour:
         self.clouds = [(self.rng.uniform(0, 2600), self.rng.uniform(40, 260), self.rng.uniform(90, 180)) for _ in range(8)]
         # platforms: (start_col, length, height_in_blocks)
         self.segs, col, h = [], -6, 4
-        total_cols = int(45 * self.SPEED / self.B) + 40
+        total_cols = int(90 * self.SPEED / self.B) + 40  # long enough for ~65 s videos
         while col < total_cols:
             ln = self.rng.randint(3, 7) if col > 0 else 14
             self.segs.append((col, ln, h))
