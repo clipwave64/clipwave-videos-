@@ -801,6 +801,39 @@
    ],
    "metricool_id": 424052087,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-13T10:00",
+   "slug": "01-apollo-12-lightning",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 425314813,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-13T12:00",
+   "slug": "02-flamingos-pink-food",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 425314840,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-13T18:00",
+   "slug": "03-ben-franklin-effect",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 425314856,
+   "status": "scheduled"
   }
  ]
 }
