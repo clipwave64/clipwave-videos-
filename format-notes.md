@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-13: EasyViral "500 faceless Shorts" page has no dataset; our style already matches it
+**Found**
+- EasyViral's patterns page (published May 11, updated Oct 20 2026) says outright it is "not a formal study with a dataset". It recommends a hook with visual, text and audio together in the first second, story structure over lists (hook 1-3 s, build, payoff near the end for replays), bold high-contrast sans-serif captions mid-frame clear of buttons, and 120-170 words for 45-60 s Shorts. No split-screen or emoji guidance. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
+- Fact pages read today: [NASA Apollo Flight Journal: Apollo 12 lightning strike](https://www.nasa.gov/history/afj/ap12fj/a12-lightningstrike.html), [Wikipedia: Ben Franklin effect](https://en.wikipedia.org/wiki/Ben_Franklin_effect), [Discover Wildlife: why flamingos are pink](https://www.discoverwildlife.com/animal-facts/why-are-flamingos-pink), [EarthSky: flamingos](https://earthsky.org/earth/flamingos-lifeform-of-the-week/). John Aaron's earlier test memory is widely reported (e.g. [Live Science](https://www.livescience.com/apollo-12-lightning-launch.html)) but was not in the part of the NASA page read.
+
+**Applied**
+- No engine change: captions are already bold, outlined and mid-frame; hooks state the payoff in sentence one. Scripts told as short stories with the payoff late (Apollo 12, Franklin's book).
+- Timely angle: Apollo 12 launched Nov 14 1969. Topics: Apollo 12 lightning (space), flamingos pink from diet (animals), Ben Franklin effect (psychology).
+- Bottoms: parkour / marbles / runner; voices am_adam / af_bella / bm_george; video 2 uses poppins.
+
 ## 2026-11-11: vendor guide says max ~7 words per text screen, 2-3 s each; our captions already match
 **Found**
 - A text-on-screen guide (updated Mar 4 2026) recommends max 7 words per text screen shown 2-3 s each, 1-2 fonts per Short, bold sans-serif, 150-170 wpm voiceover and instrumental music at 30-40% under the voice. Vendor recommendations, no data cited. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))

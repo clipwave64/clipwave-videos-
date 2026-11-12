@@ -1,0 +1,86 @@
+{
+  "slug": "01-apollo-12-lightning",
+  "category": "SPACE FACT",
+  "theme": "#f59e0b",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "A rocket heading for the Moon was struck by lightning. Twice.",
+      "emoji": "⚡"
+    },
+    {
+      "text": "It happened on November fourteenth, nineteen sixty nine, when Apollo twelve launched from Florida.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "On board were Pete Conrad, Richard Gordon and Alan Bean.",
+      "emoji": "👨‍🚀"
+    },
+    {
+      "text": "Thirty six and a half seconds after liftoff, lightning hit the giant Saturn Five rocket.",
+      "emoji": "🌩️"
+    },
+    {
+      "text": "Inside the spacecraft, warning lights lit up all over the control panel.",
+      "emoji": "🚨"
+    },
+    {
+      "text": "All three fuel cells dropped off line, and the crew thought they had lost power.",
+      "emoji": "🔋"
+    },
+    {
+      "text": "Then, at fifty two seconds, a second strike knocked out the guidance platform.",
+      "emoji": "💥"
+    },
+    {
+      "text": "Down in Mission Control, the data screens turned into gibberish.",
+      "emoji": "📺"
+    },
+    {
+      "text": "But a young flight controller named John Aaron remembered seeing a similar strange pattern during a test a year earlier.",
+      "emoji": "🧠"
+    },
+    {
+      "text": "He suggested one tiny fix: switch S C E to auxiliary.",
+      "emoji": "🎛️"
+    },
+    {
+      "text": "Few people even knew that obscure switch.",
+      "emoji": "❓"
+    },
+    {
+      "text": "Alan Bean remembered, flipped it, and the data came back.",
+      "emoji": "✅"
+    },
+    {
+      "text": "Engineers later concluded the rocket itself had probably triggered the lightning by flying through charged clouds.",
+      "emoji": "☁️"
+    },
+    {
+      "text": "Five days later, Conrad and Bean landed safely on the Moon.",
+      "emoji": "🌕"
+    },
+    {
+      "text": "They even walked over to an old robot probe, Surveyor three.",
+      "emoji": "🤖"
+    },
+    {
+      "text": "Would you have stayed calm in that cockpit?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Apollo 12 was struck by lightning twice after launch ⚡",
+  "caption": "On Nov 14, 1969, lightning hit Apollo 12 at 36.5 and 52 seconds after liftoff. One switch, 'SCE to AUX', saved the mission. 🚀",
+  "hashtags": [
+    "#space",
+    "#spacefacts",
+    "#apollo12",
+    "#nasa",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
