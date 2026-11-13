@@ -834,6 +834,39 @@
    ],
    "metricool_id": 425314856,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-14T10:00",
+   "slug": "01-arecibo-message",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 426583648,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-14T12:00",
+   "slug": "02-intel-4004-first-cpu",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 426583668,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-14T18:00",
+   "slug": "03-suez-canal-opens",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 426583685,
+   "status": "scheduled"
   }
  ]
 }
