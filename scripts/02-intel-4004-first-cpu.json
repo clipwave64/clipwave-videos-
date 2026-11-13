@@ -1,0 +1,82 @@
+{
+  "slug": "02-intel-4004-first-cpu",
+  "category": "TECH FACT",
+  "theme": "#3b82f6",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "The chip that started the computer age was built for a desk calculator.",
+      "emoji": "🧮"
+    },
+    {
+      "text": "On November fifteenth, nineteen seventy one, Intel put the four zero zero four on sale.",
+      "emoji": "🗓️"
+    },
+    {
+      "text": "It was the first commercial microprocessor.",
+      "emoji": "🧠"
+    },
+    {
+      "text": "A Japanese company called Busicom wanted chips for its new printing calculator.",
+      "emoji": "🇯🇵"
+    },
+    {
+      "text": "Their plan needed twelve separate chips.",
+      "emoji": "🧩"
+    },
+    {
+      "text": "Intel engineers Ted Hoff and Stan Mazor squeezed the design into just four.",
+      "emoji": "💡"
+    },
+    {
+      "text": "Federico Faggin and Busicom's Masatoshi Shima then designed the processor itself.",
+      "emoji": "👨‍💻"
+    },
+    {
+      "text": "Faggin even hid his initials, F F, in a corner of every chip.",
+      "emoji": "✍️"
+    },
+    {
+      "text": "The four zero zero four had about two thousand three hundred transistors.",
+      "emoji": "🔬"
+    },
+    {
+      "text": "It ran at seven hundred forty kilohertz and handled data just four bits at a time.",
+      "emoji": "🐢"
+    },
+    {
+      "text": "Even so, it could add two eight digit numbers in less than a thousandth of a second.",
+      "emoji": "➕"
+    },
+    {
+      "text": "Today's processors run at billions of cycles per second.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "And they pack billions of transistors.",
+      "emoji": "📈"
+    },
+    {
+      "text": "Every phone and laptop traces back to that little chip.",
+      "emoji": "📱"
+    },
+    {
+      "text": "What's the oldest gadget you still use?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "The first microprocessor was made for a calculator 🧮",
+  "caption": "Intel's 4004 went on sale on Nov 15, 1971, built for a Busicom calculator. 2,300 transistors, 740 kHz, and it changed everything.",
+  "hashtags": [
+    "#tech",
+    "#techfacts",
+    "#intel",
+    "#computers",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

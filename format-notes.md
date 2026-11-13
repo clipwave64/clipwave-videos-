@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-13: two more vendor guides; both back what we already do (bold sans-serif, outline, short chunks)
+**Found**
+- A structures guide (Mar 4 2026) says the first 2 s matter most and recommends a visual change every 2-3 s; it lists six formats (story hook + reveal, countdown, rapid-fire facts, myth vs truth, before/after, POV) at 20-60 s. Its data is second-hand and it promotes its own tool; nothing on split-screen or captions. ([Virvid](https://virvid.ai/blog/viral-shorts-structures-faceless-2026))
+- A text-overlay guide (updated Mar 10 2026) recommends Montserrat Bold / Poppins SemiBold, 6-8 words per overlay, text in the central 60% of the frame, and a 2-3 px outline or shadow; its stats have no sources. ([FluxNote](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026))
+- Fact pages read today: [National Geographic: Arecibo message](https://www.nationalgeographic.com/science/article/40-years-ago-earth-beamed-its-first-postcard-to-the-stars), [Icarus 1975 abstract](https://ui.adsabs.harvard.edu/abs/10.1016/0019-1035(75)90116-5/abstract), [Guinness: first microprocessor](https://www.guinnessworldrecords.com/world-records/first-microprocessor), [PC Gamer: 4004 at 50](https://www.pcgamer.com/intel-celebrates-50-years-of-the-4004-the-grand-daddy-of-the-modern-cpu), [History Hit: Suez Canal](https://www.historyhit.com/1869-opening-suez-canal/), [HISTORY: Suez facts](https://history.com/articles/9-fascinating-facts-about-the-suez-canal), [Wikipedia: Suez Canal](https://en.wikipedia.org/wiki/Suez_Canal). Britannica, CHM and Wikipedia's 4004 page were blocked. Disputed figures (Suez death toll, share of world trade) were hedged ("many died", "roughly a tenth").
+
+**Applied**
+- No engine change: our captions already match (Montserrat/Poppins bold, outlined, mid-frame, short chunks, new emoji every sentence). Scripts use the "story hook + reveal" structure.
+- Timely angles for the week: Intel 4004 on sale Nov 15 1971, Arecibo message Nov 16 1974, Suez Canal opened Nov 17 1869.
+- Bottoms: runner / parkour / marbles; voices af_heart / am_michael / af_bella; video 2 uses poppins.
+
 ## 2026-11-13: EasyViral "500 faceless Shorts" page has no dataset; our style already matches it
 **Found**
 - EasyViral's patterns page (published May 11, updated Oct 20 2026) says outright it is "not a formal study with a dataset". It recommends a hook with visual, text and audio together in the first second, story structure over lists (hook 1-3 s, build, payoff near the end for replays), bold high-contrast sans-serif captions mid-frame clear of buttons, and 120-170 words for 45-60 s Shorts. No split-screen or emoji guidance. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))

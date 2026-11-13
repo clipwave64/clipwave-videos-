@@ -177,6 +177,8 @@ def render(script_path, out_dir):
     duration = len(voice) / tts.SR + END_CARD
     voice = np.concatenate([voice, np.zeros(int(END_CARD * tts.SR), np.float32)])
     music = make_music(duration, seed=rng.randint(0, 999))[: len(voice)]
+    if len(music) < len(voice):  # rounding can leave music a sample short
+        music = np.pad(music, (0, len(voice) - len(music)))
     presenter = character.Character(voice, tts.SR, FPS, times, slug) if spec.get("character") == "swordfish" else None
     mixdown = voice + 0.11 * music
     mixdown /= max(1.0, np.abs(mixdown).max() / 0.95)

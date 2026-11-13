@@ -1,0 +1,86 @@
+{
+  "slug": "01-arecibo-message",
+  "category": "SPACE FACT",
+  "theme": "#22d3ee",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "Humans beamed a message at the stars that won't arrive for twenty five thousand years.",
+      "emoji": "📡"
+    },
+    {
+      "text": "On November sixteenth, nineteen seventy four, it left the Arecibo telescope in Puerto Rico.",
+      "emoji": "🗓️"
+    },
+    {
+      "text": "It was the grand finale of a ceremony for the dish's big upgrade.",
+      "emoji": "🎉"
+    },
+    {
+      "text": "Astronomer Frank Drake was in charge of building and sending it.",
+      "emoji": "👨‍🔬"
+    },
+    {
+      "text": "The message was one thousand six hundred seventy nine ones and zeros.",
+      "emoji": "💻"
+    },
+    {
+      "text": "That number only splits into two primes, twenty three and seventy three.",
+      "emoji": "🔢"
+    },
+    {
+      "text": "Laid out in that grid, it draws numbers, the elements of life, and D N A.",
+      "emoji": "🧬"
+    },
+    {
+      "text": "Next to the D N A, it even counts about three billion base pairs.",
+      "emoji": "🔢"
+    },
+    {
+      "text": "Plus a human figure, our solar system, and the telescope itself.",
+      "emoji": "🧍"
+    },
+    {
+      "text": "Drake first tested it on his friend Carl Sagan, who cracked almost everything but the chemistry.",
+      "emoji": "🧠"
+    },
+    {
+      "text": "A one million watt transmitter fired it off in about three minutes.",
+      "emoji": "⚡"
+    },
+    {
+      "text": "Its target is M thirteen, a cluster of over three hundred thousand stars.",
+      "emoji": "✨"
+    },
+    {
+      "text": "Some people say the cluster will have moved by the time the signal arrives.",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Drake said it will only shift a fraction of the beam's width.",
+      "emoji": "🎯"
+    },
+    {
+      "text": "So our cosmic postcard is still on its way.",
+      "emoji": "📬"
+    },
+    {
+      "text": "If aliens wrote back, what would you want them to say?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Humans sent a message to the stars in 1974 📡",
+  "caption": "On Nov 16, 1974, the Arecibo telescope beamed 1,679 bits at star cluster M13. It arrives in about 25,000 years.",
+  "hashtags": [
+    "#space",
+    "#spacefacts",
+    "#arecibo",
+    "#aliens",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
