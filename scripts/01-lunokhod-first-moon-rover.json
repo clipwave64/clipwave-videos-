@@ -1,0 +1,82 @@
+{
+  "slug": "01-lunokhod-first-moon-rover",
+  "category": "SPACE FACT",
+  "theme": "#8b5cf6",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "The first robot car to drive on another world rolled across the Moon, and it wasn't American.",
+      "emoji": "🚙"
+    },
+    {
+      "text": "It was the Soviet rover called Lunokhod one.",
+      "emoji": "🌙"
+    },
+    {
+      "text": "It landed on November seventeenth, nineteen seventy.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "It touched down on a dark plain called the Sea of Rains.",
+      "emoji": "🌑"
+    },
+    {
+      "text": "The rover rolled on eight wheels, and each wheel had its own electric motor.",
+      "emoji": "🛞"
+    },
+    {
+      "text": "In daylight, its lid opened to show solar cells that charged its batteries.",
+      "emoji": "☀️"
+    },
+    {
+      "text": "During the freezing lunar night, the lid closed and a small radioactive heater kept it warm.",
+      "emoji": "❄️"
+    },
+    {
+      "text": "Engineers on Earth steered it with a few simple commands, like forward, turn and stop.",
+      "emoji": "🎮"
+    },
+    {
+      "text": "It was only meant to last about three months.",
+      "emoji": "⏳"
+    },
+    {
+      "text": "Instead, it kept going for eleven lunar days, roughly ten and a half months.",
+      "emoji": "💪"
+    },
+    {
+      "text": "It drove about ten and a half kilometers and sent back more than twenty thousand TV images.",
+      "emoji": "📸"
+    },
+    {
+      "text": "It carried a French laser reflector, but for decades nobody could hit it with a laser.",
+      "emoji": "🔦"
+    },
+    {
+      "text": "Then in twenty ten, NASA orbiter photos showed exactly where it was parked.",
+      "emoji": "🔍"
+    },
+    {
+      "text": "Scientists fired a laser at it and got about two thousand photons back on their very first try.",
+      "emoji": "✨"
+    },
+    {
+      "text": "Would you rather drive a rover on the Moon or on Mars?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "The first rover on another world wasn't American 🚙",
+  "caption": "Lunokhod 1 landed on the Moon on Nov 17, 1970. Built to last 3 months, it drove about 10.5 km over nearly 11 months.",
+  "hashtags": [
+    "#space",
+    "#spacefacts",
+    "#moon",
+    "#rover",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

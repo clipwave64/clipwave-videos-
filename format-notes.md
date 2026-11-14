@@ -2,6 +2,18 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-14: one more vendor trends page (60-90 s, 1.5 s hook); no caption data, keep our style
+**Found**
+- A short-form trends page (Apr 10 2026, sells AI faceless-video tools) says the hook must land within ~1.5 s and calls 60-90 s a "sweet spot" (its own FAQ says 30-60 s for YouTube, so it contradicts itself); format shown is AI images under a voiceover, nothing on split-screen, captions or emoji. Mostly unsourced "early data". ([Kineclip](https://kineclip.com/blog/short-form-video-trends-2026/))
+- The FluxNote hooks guide only returned its category index, so it was not read.
+- Fact pages read today: [Wikipedia: Lunokhod 1](https://en.wikipedia.org/wiki/Lunokhod_1), [Guinness: first lunar rover](https://www.guinnessworldrecords.com/world-records/564575-first-lunar-planetary-rover), [HISTORY: Gettysburg Address facts](https://www.history.com/articles/gettysburg-address-facts), [Ben's Guide: Gettysburg facts](https://bensguide.gpo.gov/gettysburg-address-facts-and-figures), [Britannica: Gettysburg Address](https://www.britannica.com/print/article/232225). Hummingbird pages (Smithsonian, Audubon, Cornell, Wikipedia) were blocked from the sandbox, so those facts were checked against search results ([Smithsonian SERC: 500-mile journey](https://sercblog.si.edu/feeders-help-hungry-hummingbirds-after-500-mile-journey), [Audubon: bee hummingbird](https://www.audubon.org/news/get-know-bee-hummingbird-worlds-smallest-bird), [Journey North: torpor](https://archive.journeynorth.org/hummingbirds/featured/facts-hummingbird-torpor.html)) and well-documented background; numbers kept round and hedged ("more than", "around", "scientists think").
+
+**Applied**
+- No engine change: hooks already state the payoff in the first sentence; owner's ~65 s length stays.
+- Timely angles: Lunokhod 1 landed Nov 17 1970; Gettysburg Address Nov 19 1863.
+- Topics: Lunokhod 1 (space), Gettysburg Address (history), hummingbird heart and torpor (animals).
+- Bottoms: runner / parkour / marbles; voices am_adam / bm_george / af_heart; video 2 uses poppins.
+
 ## 2026-11-13: two more vendor guides; both back what we already do (bold sans-serif, outline, short chunks)
 **Found**
 - A structures guide (Mar 4 2026) says the first 2 s matter most and recommends a visual change every 2-3 s; it lists six formats (story hook + reveal, countdown, rapid-fire facts, myth vs truth, before/after, POV) at 20-60 s. Its data is second-hand and it promotes its own tool; nothing on split-screen or captions. ([Virvid](https://virvid.ai/blog/viral-shorts-structures-faceless-2026))
