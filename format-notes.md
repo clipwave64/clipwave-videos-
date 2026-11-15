@@ -2,6 +2,18 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-15: two more vendor pages; nothing on captions or layout, so our style stays
+**Found**
+- An algorithm guide (updated Mar 10 2026) calls swipe-away in the first 2 s the most important metric and recommends a visual cut every 2-3 s, with 12-15 distinct cuts for anything over 40 s. Its "12,000+ Shorts" data has no named source and the page sells its own tool. ([FluxNote](https://fluxnote.io/guides/faceless-youtube-shorts-algorithm-2026))
+- A trends page (Apr 12 2026) calls 60-90 s a "sweet spot" for many niches and says faceless channels are growing fast; no data cited, nothing on captions or split-screen. ([Miraflow](https://miraflow.ai/blog/youtube-trends-rest-of-2026))
+- Fact pages read today: [HISTORY: men fly over Paris](https://www.history.com/this-day-in-history/november-21/men-fly-over-paris), [APS News: first balloon flights](https://aps.org/publications/apsnews/200611/history.cfm), [Cleveland Clinic: baby bones](https://health.clevelandclinic.org/how-many-bones-does-a-baby-have), [Live Science: skeleton facts](https://www.livescience.com/44137-skeletal-system-surprising-facts.html), [Popular Science: skeleton facts](https://www.popsci.com/story/health/bones-human-skeleton/), [Wikipedia: Mere-exposure effect](https://en.wikipedia.org/wiki/Mere-exposure_effect). Where pages disagreed (balloon launch site, newborn bone count) the script uses the safer wording ("over Paris", "275 to 300").
+
+**Applied**
+- No engine change: every sentence already brings a new emoji and caption chunk (~4 s) over moving gameplay, and the 14-17 sentences per video give 14+ visual changes; owner's ~65 s length stays.
+- Timely angle: first crewed balloon flight Nov 21 1783.
+- Topics: first balloon flight (history), babies' ~300 bones (human body), mere exposure effect (psychology).
+- Bottoms: marbles / runner / parkour; voices am_michael / af_bella / bm_george; video 3 uses poppins.
+
 ## 2026-11-14: one more vendor trends page (60-90 s, 1.5 s hook); no caption data, keep our style
 **Found**
 - A short-form trends page (Apr 10 2026, sells AI faceless-video tools) says the hook must land within ~1.5 s and calls 60-90 s a "sweet spot" (its own FAQ says 30-60 s for YouTube, so it contradicts itself); format shown is AI images under a voiceover, nothing on split-screen, captions or emoji. Mostly unsourced "early data". ([Kineclip](https://kineclip.com/blog/short-form-video-trends-2026/))
