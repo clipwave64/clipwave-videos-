@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-16: caption guides agree with our current style; no change
+**Found**
+- A caption guide (Nov 11 2025) recommends bold sans-serif (e.g. Montserrat), white text, 5-7 words per line, max two lines, kept in the centre third away from the top 20% and bottom 25%. Its completion-rate figure cites unnamed "studies" and the page sells its own tool. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- Another (May 22 2026) recommends Montserrat Bold or Anton, white with a 2-4 px black outline, yellow for high-energy words, phrase blocks for educational content. Vendor page, no data. ([BlitzCut](https://blitzcutai.com/blog/best-caption-style-youtube-shorts-2026))
+- A trends page (updated Nov 4 2026) stresses a hook in the first 2-3 s and labelling AI content; its stats are uncited. ([Anijam](https://www.anijam.ai/blog/youtube-shorts-trends/))
+- Fact pages read today: [LOC blog: standardized time zones](https://blogs.loc.gov/law/2024/11/whose-time-is-it-anyway-a-brief-history-of-standardized-time-zones-in-the-united-states/), [UPRR Museum: standard time](https://www.uprrmuseum.org/uprrm/exhibits/curators-corner/standard-time/index.htm), [Untapped New York: two noons](https://www.untappedcities.com/the-day-that-new-york-had-two-noons-a-century-after-losing-11-days/), [Smithsonian: turkey facts](https://www.smithsonianmag.com/science-nature/14-fun-facts-about-turkeys-665520/), [PBS Nature: wild turkey fact sheet](https://www.pbs.org/wnet/nature/blog/wild-turkey-fact-sheet), [NWF: wild turkey facts](https://blog.nwf.org/2011/11/twelve-unusual-and-fascinating-facts-about-wild-turkeys/), [Wikipedia: Cocktail party effect](https://en.wikipedia.org/wiki/Cocktail_party_effect). Numbers the pages did not state (e.g. the share of people who hear their name) were left out.
+
+**Applied**
+- No engine change: our bold white outlined captions, short phrases and direct first-sentence hooks already match. Split layout kept, one each of marbles/runner/parkour, Montserrat x2 + Poppins x1, Dr. Swordfish on all three.
+
 ## 2026-11-15: two more vendor pages; nothing on captions or layout, so our style stays
 **Found**
 - An algorithm guide (updated Mar 10 2026) calls swipe-away in the first 2 s the most important metric and recommends a visual cut every 2-3 s, with 12-15 distinct cuts for anything over 40 s. Its "12,000+ Shorts" data has no named source and the page sells its own tool. ([FluxNote](https://fluxnote.io/guides/faceless-youtube-shorts-algorithm-2026))

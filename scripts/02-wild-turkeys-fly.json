@@ -1,0 +1,82 @@
+{
+  "slug": "02-wild-turkeys-fly",
+  "category": "ANIMAL FACT",
+  "theme": "#15803d",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "Wild turkeys can fly, and they can hit about fifty five miles per hour.",
+      "emoji": "🦃"
+    },
+    {
+      "text": "They usually fly only short distances, but on the ground they can also run about twenty five miles per hour.",
+      "emoji": "🏃"
+    },
+    {
+      "text": "When danger comes, females tend to fly away, while males tend to run.",
+      "emoji": "🏃‍♀️"
+    },
+    {
+      "text": "At sundown, they fly up into trees and climb branch by branch to a high roost, where they sleep.",
+      "emoji": "🌳"
+    },
+    {
+      "text": "A male's bare head can change color in seconds when he gets excited, turning red, white or even blue.",
+      "emoji": "🎨"
+    },
+    {
+      "text": "That fleshy flap hanging from his beak is called a snood.",
+      "emoji": "👃"
+    },
+    {
+      "text": "One study found that females prefer males with long snoods.",
+      "emoji": "💘"
+    },
+    {
+      "text": "A male's gobble can be heard a mile or more away.",
+      "emoji": "📣"
+    },
+    {
+      "text": "Each wild turkey has around five to six thousand feathers.",
+      "emoji": "🪶"
+    },
+    {
+      "text": "In winter, flocks can grow to more than two hundred turkeys.",
+      "emoji": "❄️"
+    },
+    {
+      "text": "And chicks, called poults, can leave the nest within a day of hatching.",
+      "emoji": "🐣"
+    },
+    {
+      "text": "In the early nineteen hundreds, only about thirty thousand wild turkeys were left.",
+      "emoji": "📉"
+    },
+    {
+      "text": "Thanks to restoration efforts, there are now about seven million.",
+      "emoji": "📈"
+    },
+    {
+      "text": "Even their poop is different: males make spiral shapes, females make J shapes.",
+      "emoji": "💩"
+    },
+    {
+      "text": "Did you know wild turkeys could fly that fast?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Wild turkeys can fly at 55 mph 🦃",
+  "caption": "Wild turkeys fly up to about 55 mph in short bursts, run about 25 mph and sleep in trees. Their numbers went from about 30,000 to about 7 million.",
+  "hashtags": [
+    "#animals",
+    "#animalfacts",
+    "#turkey",
+    "#wildlife",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
