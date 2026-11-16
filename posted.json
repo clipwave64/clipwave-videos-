@@ -933,6 +933,39 @@
    ],
    "metricool_id": 428628059,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-17T10:00",
+   "slug": "01-day-of-two-noons",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 429637991,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-17T12:00",
+   "slug": "02-wild-turkeys-fly",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 429638030,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-17T18:00",
+   "slug": "03-cocktail-party-effect",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 429638051,
+   "status": "scheduled"
   }
  ]
 }
