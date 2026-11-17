@@ -7,6 +7,7 @@ Every morning: research what's getting views, make **3 new videos**, upload them
 - Username shown in videos: `@clip.wave64`
 
 ## Folder layout
+- `longform/`: the ~10-minute 16:9 space videos for YouTube (engine, scripts, finished videos + thumbnails). See step 9.
 - `engine/`: generator (make_video.py, gameplay.py = original bottom-half gameplay, tts.py, setup.sh, fonts/)
 - `format-notes.md`: daily log of what video formats/styles are performing and what we applied
 - `scripts/`: every script JSON ever made (reference for format; check it to avoid repeats)
@@ -54,4 +55,12 @@ Every morning: research what's getting views, make **3 new videos**, upload them
    - `tiktokData`: {title, privacyOption: "PUBLIC_TO_EVERYONE", isAigc: true}
    Log each result in `posted.json` and push it. If Metricool returns a plan-limit or account error, don't retry in a loop: report the exact error to the owner.
 
-9. **Tell the owner** (short and friendly, beginner level): the 3 topics, when each will post tomorrow, one line on any format/style change you made today, and any problems. If something failed, say exactly what they need to do.
+9. **Long-form space video (every 3 days).** Look in `posted.json` for the newest entry with `"type": "long-form video"`. If its post_date is 3 or more days before tomorrow (or there is none), make one today, after the 3 shorts are scheduled:
+   - Topic: always SPACE (owner's rule), one planet/moon/object or space-history story not already covered by a file in `longform/scripts/`. Research and fact-check exactly like the shorts (step 4); list the sources in the description.
+   - Script: `longform/scripts/<slug>.json`, same format as `mars-red-planet-secrets.json` (title, voice, speed 0.94, chapters with scenes of `visual` + `lines`, optional `callout`, description ending with the AI/visuals notice and sources, ~10 tags). About 1,400-1,700 words of narration = about 10-12 minutes. Last line asks a question and invites subscribing.
+   - Visuals: every scene `visual` must exist in `longform/engine/scenes.py` (Venus) or `scenes_mars.py` (Mars + generic surface/rover/descent/transfer scenes). For a new planet, add a new `scenes_<name>.py` with an original procedural texture and scenes (copy the Mars file's pattern) and hook it into `scenes.make`. Never use downloaded footage or images.
+   - Render (see `longform/README.md`): narrate -> mixaudio -> `--stills` check (LOOK at 8-10 stills: subtitles readable, no glitches) -> full render with JOBS=2 (40-60 min, run in the background) -> thumbnail (`thumbnail_mars.py` pattern). If the mp4 is over 95 MB, re-encode with ffmpeg (libx264 -crf 26 -preset slow, aac 160k) so GitHub accepts it.
+   - Commit `longform/` (script, engine changes, `longform/videos/<slug>.mp4` + `<slug>-thumb.jpg`) and push.
+   - Schedule on YouTube ONLY with `createScheduledPost`: 2 days after today at 17:00 Europe/Ljubljana, `providers` youtube, `text` = description, media = raw URL of the mp4, `youtubeData` {title, type: "video", privacy: "public", madeForKids: false, isAiGeneratedContent: true, category: "EDUCATION", tags}. The 2-day gap is the owner's review window: tell them in the message that it's ready to watch (GitHub link) and that they can delete it in the Metricool planner if they don't like it. Log it in `posted.json` with `"type": "long-form video"`.
+
+10. **Tell the owner** (short and friendly, beginner level): the 3 topics, when each will post tomorrow, the long-form video if one was made today (topic, when it posts, link to watch it first), one line on any format/style change you made today, and any problems. If something failed, say exactly what they need to do.

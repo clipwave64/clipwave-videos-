@@ -1,4 +1,4 @@
-"""Scene library for the Venus long-form video. Every visual is generated in code (no downloaded footage)."""
+"""Scene library for the long-form videos (Venus scenes here; Mars scenes in scenes_mars.py). All visuals are generated in code."""
 import math
 import numpy as np
 import cv2
@@ -560,6 +560,9 @@ def draw_balloon(f, cx, cy, s):
 
 
 def make(visual, dur, occurrence):
+    if visual.startswith("mars_"):
+        import scenes_mars
+        return scenes_mars.make(visual, dur, occurrence)
     if visual == "venus_closeup":
         return VenusCloseup(dur, variant=[0, 1, 2][min(occurrence, 2)])
     table = {
