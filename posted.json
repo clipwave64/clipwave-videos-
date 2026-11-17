@@ -966,6 +966,39 @@
    ],
    "metricool_id": 429638051,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-18T10:00",
+   "slug": "01-lucy-fossil-found",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 431050863,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-18T12:00",
+   "slug": "02-uranus-sideways-planet",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 431050892,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-18T18:00",
+   "slug": "03-platypus-glows",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 431050912,
+   "status": "scheduled"
   }
  ]
 }
