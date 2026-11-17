@@ -2,6 +2,18 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-17: two more vendor guides (Montserrat/Poppins, 2-3 px outline, 6-8 words per frame); no change
+**Found**
+- A "500 viral faceless Shorts" page (updated Oct 20 2026) admits it is "not a formal study with a dataset"; it recommends bold, high-contrast sans-serif captions centred clear of platform UI, a hook in the first 1-3 s and 120-170 words for 45-60 s. Sells its own tool. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
+- A text-overlay guide (updated Mar 10 2026) names Montserrat Bold or Poppins SemiBold, 2-3 px outline, max 6-8 words per frame, text kept in the centre 60% of the frame. Stats unsourced; sells its own tool. ([FluxNote](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026))
+- Fact pages read today: [Live Science: Lucy discovered](https://www.livescience.com/archaeology/human-evolution/science-history-iconic-lucy-fossil-discovered-transforming-our-understanding-of-human-evolution-nov-24-1974), [ASU IHO: Lucy's Story](https://iho.asu.edu/node/15), [Live Science: Uranus](https://www.livescience.com/what-is-uranus), [timeanddate: Uranus](https://www.timeanddate.com/astronomy/planets/uranus), [Live Science: platypuses glow](https://livescience.com/platypuses-glow-uv-light.html), [Smithsonian: platypuses glow](https://www.smithsonianmag.com/smart-news/platypuses-glow-green-under-ultraviolet-light-180976196/). NASA, NatGeo, Wikipedia and Australian Museum pages were blocked from the sandbox. Where sources disagreed (who named Lucy, Uranus moon count 27 vs 29) the script avoids the disputed detail; per-pole darkness length was not stated, so it was left out.
+
+**Applied**
+- No engine change: we already use Montserrat/Poppins bold white with an outline, short phrase chunks and a direct first-sentence hook.
+- Timely angle: Lucy found Nov 24 1974.
+- Topics: Lucy (history), Uranus on its side (space), glowing platypus (animals).
+- Bottoms: parkour / marbles / runner; voices bm_george / af_bella / am_michael; video 2 uses poppins.
+
 ## 2026-11-16: caption guides agree with our current style; no change
 **Found**
 - A caption guide (Nov 11 2025) recommends bold sans-serif (e.g. Montserrat), white text, 5-7 words per line, max two lines, kept in the centre third away from the top 20% and bottom 25%. Its completion-rate figure cites unnamed "studies" and the page sells its own tool. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))

@@ -1,0 +1,86 @@
+{
+  "slug": "03-platypus-glows",
+  "category": "ANIMAL FACT",
+  "theme": "#7c3aed",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "Shine a UV light on a platypus, and its fur glows blue green.",
+      "emoji": "✨"
+    },
+    {
+      "text": "Scientists only found this out in twenty twenty.",
+      "emoji": "🔬"
+    },
+    {
+      "text": "They tested museum platypus specimens in Chicago and Nebraska under ultraviolet light.",
+      "emoji": "🏛️"
+    },
+    {
+      "text": "In normal light, the fur looks plain brown.",
+      "emoji": "🟤"
+    },
+    {
+      "text": "But under UV, it gives off an eerie blue green glow.",
+      "emoji": "💡"
+    },
+    {
+      "text": "Males and females glowed in a similar way, so it probably isn't about attracting mates.",
+      "emoji": "💕"
+    },
+    {
+      "text": "Nobody knows yet what the glow is for.",
+      "emoji": "❓"
+    },
+    {
+      "text": "Before that, the only glowing mammals known were opossums and flying squirrels, which glow pink.",
+      "emoji": "🐿️"
+    },
+    {
+      "text": "And the platypus was already one of the weirdest animals alive.",
+      "emoji": "🦆"
+    },
+    {
+      "text": "It's a mammal that lays eggs.",
+      "emoji": "🥚"
+    },
+    {
+      "text": "Males have venomous spurs on the inside of their ankles.",
+      "emoji": "☠️"
+    },
+    {
+      "text": "Mothers don't feed through nipples; milk seeps out of pores on their belly.",
+      "emoji": "🍼"
+    },
+    {
+      "text": "Underwater, they don't rely much on sight, and their bill can sense tiny electric signals.",
+      "emoji": "⚡"
+    },
+    {
+      "text": "Their thick fur keeps them warm in cold water.",
+      "emoji": "🧥"
+    },
+    {
+      "text": "They hunt mostly at night in the rivers of eastern Australia.",
+      "emoji": "🌙"
+    },
+    {
+      "text": "Which animal do you think glows next?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Platypuses glow under UV light ✨",
+  "caption": "A 2020 study in Mammalia found platypus fur glows blue-green under ultraviolet light. Nobody knows why yet.",
+  "hashtags": [
+    "#animals",
+    "#animalfacts",
+    "#platypus",
+    "#nature",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
