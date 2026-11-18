@@ -2,6 +2,16 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-18: vendor guides say ~7 words per screen and 2-3 s per text frame; no change
+**Found**
+- A Shorts text-on-screen guide (updated Mar 4 2026) says max 7 words per screen, 1-2 bold sans-serif fonts (Montserrat named), white on dark, no grey text; text frames 2-3 s each, 0.3-0.5 s animations. Stats unsourced; sells its own tool. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))
+- An algorithm guide (updated Mar 10 2026) claims distribution stalls if most viewers swipe in the first 2 s, so the hook must land immediately. Unsourced; sells its own tool. ([FluxNote](https://fluxnote.io/guides/faceless-youtube-shorts-algorithm-2026))
+- A trends post (Apr 12 2026) calls 60-90 s a sweet spot. Unsourced; sells its own tool. ([Miraflow](https://miraflow.ai/blog/youtube-trends-rest-of-2026))
+- Fact pages read today: [Popular Mechanics via Yahoo: who invented the jukebox](https://www.yahoo.com/news/pay-play-invented-jukebox-150518364.html), [Wikipedia mirror: Jukebox](https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jukebox), [Mystic Stamp: first jukebox](https://info.mysticstamp.com/this-day-in-history-november-23-1889-3/), [Wonderopolis](https://wonderopolis.org/wonder/who-invented-the-jukebox), [JPL: A storm of change (2019)](https://www.jpl.nasa.gov/images/pia23436-a-storm-of-change/), [Astronomy.com: GRS smaller than ever](https://www.astronomy.com/science/hubble-shows-jupiters-great-red-spot-is-smaller-than-ever-measured/), [Sky & Telescope: shrinking red spot](https://www.skyandtelescope.com/astronomy-news/jupiters-shrinking-red-spot/), [Wikipedia: Peak-end rule](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [Colby cogblog](https://web.colby.edu/cogblog/?p=3981)
+
+**Applied today**
+- No engine change: our captions already are bold sans-serif, short chunks, hooks said in sentence 1. Kept split-screen; bottoms varied (marbles, runner, parkour); one video uses Poppins for variety. Length kept at ~65 s (owner's rule).
+
 ## 2026-11-17: two more vendor guides (Montserrat/Poppins, 2-3 px outline, 6-8 words per frame); no change
 **Found**
 - A "500 viral faceless Shorts" page (updated Oct 20 2026) admits it is "not a formal study with a dataset"; it recommends bold, high-contrast sans-serif captions centred clear of platform UI, a hook in the first 1-3 s and 120-170 words for 45-60 s. Sells its own tool. ([EasyViral](https://easyviral.ai/blog/we-analyzed-500-viral-faceless-shorts))
