@@ -1009,6 +1009,39 @@
    "type": "long-form video",
    "metricool_id": 431128946,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-19T10:00",
+   "slug": "01-first-jukebox",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 432426796,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-19T12:00",
+   "slug": "02-great-red-spot-shrinking",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 432426811,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-19T18:00",
+   "slug": "03-peak-end-rule",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 432426832,
+   "status": "scheduled"
   }
  ]
 }
