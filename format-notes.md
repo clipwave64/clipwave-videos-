@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-19: two more vendor trend pages; nothing new on captions or layout, no change
+**Found**
+- A YouTube trends page (2026, no date shown, sells slideshow/UGC/chat-mockup tools) lists patterns like bold text-overlay slideshows, ~60 s Shorts and fast cuts; no caption/font data, no sources. ([Renderfire](https://renderfire.com/resources/social-media-marketing/youtube-trends))
+- A faceless growth guide (updated Jul 10 2026) recommends re-hooking viewers with question loops and visual switches; it says this is editorial guidance, not a survey. Vendor page. ([OutlierKit](https://alpha.outlierkit.com/resources/faceless-youtube-growth-strategy/))
+- Fact pages read today: [Smithsonian Libraries: Origin published](https://blog.library.si.edu/blog/2009/11/24/darwins-on-the-origin-of-species-was-published-today-in-1859), [Lehigh exhibit](https://exhibits.lib.lehigh.edu/exhibits/show/cd/1859_), [Univ. Missouri exhibit](https://library.missouri.edu/specialcollections/exhibits/show/darwin/darwin), [EBSCO: Origin of Species](https://www.ebsco.com/research-starters/history/origin-species-charles-darwin/), [collectSPACE: InSight lands](https://www.collectspace.com/news/news-112618a-insight-mars-landing.html), [Astronomy.com: InSight](https://www.astronomy.com/today-in-the-history-of-astronomy/nov-26-2018-mars-insight-lander-touches-down/), [Space.com: InSight year one](https://www.space.com/nasa-mars-lander-insight-one-year-anniversary.html), [Smithsonian: InSight data](https://www.smithsonianmag.com/smart-news/insight-landers-first-big-batch-data-reveals-mars-seismic-activity-and-surprising-magnetism-180974268/), [Wikiwand: InSight](https://www.wikiwand.com/en/InSight), [Psychology Today: yawning](https://www.psychologytoday.com/us/blog/the-athletes-way/201403/why-is-yawning-so-contagious), [PopSci: why we yawn](https://www.popsci.com/why-we-yawn/), [Big Think](https://bigthink.com/surprising-science/scientists-discover-why-yawning-is-contagious/), [Sleep.com](https://www.sleep.com/sleep-health/why-yawning-is-contagious), [PsyBlog](https://www.spring.org.uk/2023/02/yawning.php). Disputed details were avoided: Origin release day (Nov 22 vs 24, so "November"), biggest marsquake size ("around magnitude five"), mole design depth (left out), empathy link (said "scientists still debate it").
+
+**Applied**
+- No engine change: question-ending scripts and a new emoji/caption every sentence already give regular visual switches. Owner's ~65 s length stays.
+- Timely angles: Origin of Species Nov 24 1859; InSight landed Nov 26 2018.
+- Bottoms: runner / parkour / marbles; voices bm_george / am_michael / af_bella; video 2 uses poppins.
+
 ## 2026-11-18: vendor guides say ~7 words per screen and 2-3 s per text frame; no change
 **Found**
 - A Shorts text-on-screen guide (updated Mar 4 2026) says max 7 words per screen, 1-2 bold sans-serif fonts (Montserrat named), white on dark, no grey text; text frames 2-3 s each, 0.3-0.5 s animations. Stats unsourced; sells its own tool. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026))

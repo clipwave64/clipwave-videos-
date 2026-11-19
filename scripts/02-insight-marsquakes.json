@@ -1,0 +1,78 @@
+{
+  "slug": "02-insight-marsquakes",
+  "category": "SPACE FACT",
+  "theme": "#c2410c",
+  "voice": "am_michael",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "NASA's seismometer on Mars felt the planet shake more than thirteen hundred times.",
+      "emoji": "🫨"
+    },
+    {
+      "text": "The InSight lander touched down on November twenty sixth, twenty eighteen.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "It hit the Martian atmosphere at about twelve thousand three hundred miles per hour.",
+      "emoji": "☄️"
+    },
+    {
+      "text": "Then a parachute and rocket engines slowed it to about five miles per hour.",
+      "emoji": "🪂"
+    },
+    {
+      "text": "Engineers call this part the seven minutes of terror.",
+      "emoji": "😬"
+    },
+    {
+      "text": "InSight landed on a flat lava plain called Elysium Planitia, near the equator.",
+      "emoji": "🗺️"
+    },
+    {
+      "text": "Its French built seismometer detected its first marsquake in April twenty nineteen.",
+      "emoji": "📈"
+    },
+    {
+      "text": "In May twenty twenty two, it caught the biggest one, estimated at around magnitude five.",
+      "emoji": "💥"
+    },
+    {
+      "text": "Those quake waves showed that the center of Mars is molten.",
+      "emoji": "🌋"
+    },
+    {
+      "text": "They also showed its core is about half the size of Earth's core.",
+      "emoji": "⚪"
+    },
+    {
+      "text": "But its heat probe, nicknamed the mole, got stuck less than half a meter underground.",
+      "emoji": "🕳️"
+    },
+    {
+      "text": "Dust slowly covered its solar panels, and the mission ended in December twenty twenty two.",
+      "emoji": "🌫️"
+    },
+    {
+      "text": "By then, it had worked on Mars for more than four years.",
+      "emoji": "⏳"
+    },
+    {
+      "text": "What do you want the next Mars lander to discover?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "NASA felt Mars shake over 1,300 times 🫨",
+  "caption": "NASA's InSight landed on Mars on Nov 26, 2018 and recorded more than 1,300 marsquakes. Its data showed the center of Mars is molten.",
+  "hashtags": [
+    "#space",
+    "#spacefacts",
+    "#mars",
+    "#nasa",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
