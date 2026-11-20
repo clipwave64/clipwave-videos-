@@ -1075,6 +1075,39 @@
    ],
    "metricool_id": 433812342,
    "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-21T10:00",
+   "slug": "01-hubble-andromeda-galaxy",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 435167098,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-21T12:00",
+   "slug": "02-fibonacci-sunflower-spirals",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 435167134,
+   "status": "scheduled"
+  },
+  {
+   "post_date": "2026-11-21T18:00",
+   "slug": "03-butterflies-taste-feet",
+   "networks": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "metricool_id": 435167158,
+   "status": "scheduled"
   }
  ]
 }
