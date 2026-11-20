@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-20: same vendor caption/format pages keep surfacing; no new data, no change
+**Found**
+- Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (OpusClip, BlitzCut, FluxNote, Miraflow, Renderfire, Anijam, OutlierKit) plus a few new tool-vendor pages (revid.ai, Pippit, ShortGenius); none add a dated study or new caption/layout data. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [revid.ai](https://www.revid.ai/blog/how-to-make-faceless-youtube-shorts), [Anijam](https://www.anijam.ai/blog/youtube-shorts-trends/))
+- Fact pages read today: [EarthSky: Milky Way is not the only galaxy](https://earthsky.org/space/milky-way-is-not-the-only-galaxy-100-years/), [RocketSTEM](https://www.rocketstem.org/2024/11/21/100-years-ago-we-learned-the-milky-way-is-not-the-only-galaxy/), [Corey S. Powell: 100th birthday of the universe](https://invisibleuniverse.substack.com/p/the-100th-birthday-of-the-universe), [UBC Beaty Museum: Fibonacci Day](https://beatymuseum.ubc.ca/2021/11/17/fibonacci-day/), [World Book: Fibonacci Day](https://bth.worldbook.com/bth/?p=48280), [Gale: patterns in nature](https://blog.gale.com/connect-patterns-in-nature-with-mathematical-sequences/), [Carleton Biology: do butterflies taste through their feet](https://carleton.ca/biology/cu-faq/do-butterflies-really-taste-through-their-feet/), [ScienceABC: how butterflies taste](https://www.scienceabc.com/nature/how-do-butterflies-taste-and-eat-their-food.html). Avoided disputed bits: who "won" the Great Debate (sources disagree), pinecones "always" Fibonacci (said "often"), nautilus/Parthenon golden-ratio claims, unsourced "X times more sensitive" butterfly numbers.
+
+**Applied**
+- No engine change. Timely angles: NYT Hubble/Andromeda story Nov 23 1924; Fibonacci Day Nov 23.
+- Bottoms: parkour / marbles / runner; voices am_adam / af_heart / am_michael; video 3 uses poppins.
+
 ## 2026-11-19: two more vendor trend pages; nothing new on captions or layout, no change
 **Found**
 - A YouTube trends page (2026, no date shown, sells slideshow/UGC/chat-mockup tools) lists patterns like bold text-overlay slideshows, ~60 s Shorts and fast cuts; no caption/font data, no sources. ([Renderfire](https://renderfire.com/resources/social-media-marketing/youtube-trends))

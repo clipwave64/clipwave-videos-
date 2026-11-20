@@ -1,0 +1,78 @@
+{
+  "slug": "01-hubble-andromeda-galaxy",
+  "category": "SPACE FACT",
+  "theme": "#4f46e5",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "About a hundred years ago, many astronomers thought our Milky Way was the entire universe.",
+      "emoji": "🌌"
+    },
+    {
+      "text": "Those fuzzy spirals in the night sky were thought to be clouds inside it.",
+      "emoji": "☁️"
+    },
+    {
+      "text": "In nineteen twenty, Harlow Shapley and Heber Curtis argued about it in a famous Great Debate.",
+      "emoji": "🎤"
+    },
+    {
+      "text": "Then Edwin Hubble used the biggest telescope in the world.",
+      "emoji": "🔭"
+    },
+    {
+      "text": "It was the hundred inch Hooker telescope on Mount Wilson, in California.",
+      "emoji": "⛰️"
+    },
+    {
+      "text": "In October nineteen twenty three, he spotted a star in Andromeda that kept getting brighter and dimmer.",
+      "emoji": "✨"
+    },
+    {
+      "text": "He marked it on the photo in red: VAR, with an exclamation mark.",
+      "emoji": "🖍️"
+    },
+    {
+      "text": "It was a Cepheid, a kind of star that Henrietta Leavitt had shown can measure distance.",
+      "emoji": "📏"
+    },
+    {
+      "text": "Slower pulsing Cepheids are brighter, so its rhythm revealed how far away it was.",
+      "emoji": "💡"
+    },
+    {
+      "text": "Hubble's answer was about nine hundred thousand light years, far outside the Milky Way.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Today we know Andromeda is even farther, about two and a half million light years away.",
+      "emoji": "🌠"
+    },
+    {
+      "text": "The news first appeared on November twenty third, nineteen twenty four, in a tiny New York Times story.",
+      "emoji": "📰"
+    },
+    {
+      "text": "Now, astronomers estimate the universe holds up to several trillion galaxies.",
+      "emoji": "🤯"
+    },
+    {
+      "text": "How does it feel to be one tiny speck in all of that?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "The day we learned other galaxies exist 🌌",
+  "caption": "On Nov 23, 1924, the New York Times reported that Edwin Hubble had found Andromeda is a separate galaxy, thanks to a Cepheid star he spotted with the 100-inch Hooker telescope. Before that, many thought the Milky Way was the whole universe.",
+  "hashtags": [
+    "#space",
+    "#astronomy",
+    "#andromeda",
+    "#spacefacts",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

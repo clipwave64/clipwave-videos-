@@ -1,0 +1,86 @@
+{
+  "slug": "02-fibonacci-sunflower-spirals",
+  "category": "SCIENCE FACT",
+  "theme": "#ca8a04",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "marbles",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "Count the spirals on a sunflower, and you'll often find a famous math sequence.",
+      "emoji": "🌻"
+    },
+    {
+      "text": "It goes one, one, two, three, five, eight, thirteen, and on forever.",
+      "emoji": "🔢"
+    },
+    {
+      "text": "Each number is simply the two before it added together.",
+      "emoji": "➕"
+    },
+    {
+      "text": "That's why November twenty third is Fibonacci Day: eleven, twenty three.",
+      "emoji": "📅"
+    },
+    {
+      "text": "One sunflower head had fifty five spirals going one way and thirty four the other.",
+      "emoji": "🌀"
+    },
+    {
+      "text": "Both are neighbors in the sequence.",
+      "emoji": "🤝"
+    },
+    {
+      "text": "Pinecones and pineapples often show eight and thirteen.",
+      "emoji": "🍍"
+    },
+    {
+      "text": "The trick: each new seed grows at about one hundred thirty seven and a half degrees from the last.",
+      "emoji": "📐"
+    },
+    {
+      "text": "This golden angle puts every seed in the least crowded spot.",
+      "emoji": "🎯"
+    },
+    {
+      "text": "Divide any number in the sequence by the one before, and you get closer and closer to one point six one eight.",
+      "emoji": "✨"
+    },
+    {
+      "text": "That's the famous golden ratio.",
+      "emoji": "🥇"
+    },
+    {
+      "text": "The sequence is named after Leonardo of Pisa, who lived around the year twelve hundred.",
+      "emoji": "🇮🇹"
+    },
+    {
+      "text": "He shared it in his book Liber Abaci, using a puzzle about breeding rabbits.",
+      "emoji": "🐇"
+    },
+    {
+      "text": "But Indian scholars knew these numbers long before him.",
+      "emoji": "📜"
+    },
+    {
+      "text": "And nature isn't perfect: a study of six hundred fifty seven sunflowers found some were frankly weird.",
+      "emoji": "🤪"
+    },
+    {
+      "text": "Have you ever counted the spirals on a pinecone?",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Sunflowers secretly count in Fibonacci 🌻",
+  "caption": "Nov 23 is Fibonacci Day (11/23). Sunflower heads often have spiral counts like 34 and 55, neighbors in the Fibonacci sequence, because each seed sits about 137.5° from the last. Not every flower follows the rule!",
+  "hashtags": [
+    "#math",
+    "#science",
+    "#fibonacci",
+    "#nature",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
