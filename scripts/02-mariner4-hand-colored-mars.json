@@ -1,0 +1,82 @@
+{
+  "slug": "02-mariner4-hand-colored-mars",
+  "category": "SPACE FACT",
+  "theme": "#d2542c",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "The first close up picture of Mars was colored in by hand, with pastels.",
+      "emoji": "🖍️"
+    },
+    {
+      "text": "On November twenty eighth, nineteen sixty four, NASA launched Mariner four toward Mars.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Its twin, Mariner three, had failed weeks earlier when its nose cover wouldn't come off.",
+      "emoji": "💥"
+    },
+    {
+      "text": "Mariner four flew for two hundred twenty eight days to reach the red planet.",
+      "emoji": "🗓️"
+    },
+    {
+      "text": "In July nineteen sixty five, it passed about six thousand miles above the surface.",
+      "emoji": "🔴"
+    },
+    {
+      "text": "It snapped twenty two photos and stored them on tape.",
+      "emoji": "📼"
+    },
+    {
+      "text": "Its radio sent the data home at just over eight bits per second.",
+      "emoji": "📡"
+    },
+    {
+      "text": "Each photo took around ten hours to arrive.",
+      "emoji": "⏳"
+    },
+    {
+      "text": "Engineers at JPL were too impatient to wait for the computer to draw the first one.",
+      "emoji": "😤"
+    },
+    {
+      "text": "So a machine printed the brightness values as numbers on strips of paper.",
+      "emoji": "🔢"
+    },
+    {
+      "text": "They lined the strips up side by side and colored them like a paint by numbers.",
+      "emoji": "🎨"
+    },
+    {
+      "text": "The finished picture was framed and given to JPL's director.",
+      "emoji": "🖼️"
+    },
+    {
+      "text": "The photos showed a cold, dry Mars covered in craters, a lot like our Moon.",
+      "emoji": "🌑"
+    },
+    {
+      "text": "Its radio signal also revealed that the air pressure on Mars is only about one percent of Earth's.",
+      "emoji": "💨"
+    },
+    {
+      "text": "Would you have waited ten hours, or grabbed the pastels too? Comment below.",
+      "emoji": "💬"
+    }
+  ],
+  "title": "The first close-up of Mars was colored by hand 🖍️",
+  "caption": "Mariner 4 launched on Nov 28, 1964 and sent back the first close-up photos of Mars at about 8 bits per second. JPL engineers couldn't wait, so they colored the first image by hand from printed numbers.",
+  "hashtags": [
+    "#space",
+    "#mars",
+    "#nasa",
+    "#spacefacts",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
