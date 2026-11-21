@@ -14,3 +14,5 @@ Scene visuals available: see `make()` in `engine/scenes.py`.
 Mars video: `scripts/mars-red-planet-secrets.json`, scenes in `engine/scenes_mars.py` (visuals named `mars_*`), thumbnail `engine/thumbnail_mars.py`.
 New planets: add `engine/scenes_<planet>.py` the same way and route its visual prefix in `scenes.make`.
 The daily routine makes one of these every 3 days (DAILY.md step 9).
+
+Jupiter video: `scripts/jupiter-king-of-planets.json`, scenes in `engine/scenes_jupiter.py` (visuals `jupiter_*`, `io_volcano`, `europa_ocean`, `ganymede_scale`, `callisto`), thumbnail `engine/thumbnail_jupiter.py`.

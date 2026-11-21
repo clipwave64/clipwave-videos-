@@ -1,4 +1,4 @@
-"""Scene library for the long-form videos (Venus scenes here; Mars scenes in scenes_mars.py). All visuals are generated in code."""
+"""Scene library for the long-form videos (Venus scenes here; Mars in scenes_mars.py, Jupiter in scenes_jupiter.py). All visuals are generated in code."""
 import math
 import numpy as np
 import cv2
@@ -563,6 +563,9 @@ def make(visual, dur, occurrence):
     if visual.startswith("mars_"):
         import scenes_mars
         return scenes_mars.make(visual, dur, occurrence)
+    if visual.startswith(("jupiter_", "io_", "europa_", "ganymede_")) or visual == "callisto":
+        import scenes_jupiter
+        return scenes_jupiter.make(visual, dur, occurrence)
     if visual == "venus_closeup":
         return VenusCloseup(dur, variant=[0, 1, 2][min(occurrence, 2)])
     table = {
