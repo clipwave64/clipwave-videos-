@@ -1,514 +1,529 @@
 {
- "topics": [
-  {
-   "date": "2026-10-19",
-   "niche": "space",
-   "topic": "A day on Venus is longer than its year; Venus spins backwards"
-  },
-  {
-   "date": "2026-10-19",
-   "niche": "history",
-   "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"
-  },
-  {
-   "date": "2026-10-19",
-   "niche": "psychology",
-   "topic": "The Zeigarnik effect: unfinished tasks are remembered better"
-  },
-  {
-   "date": "2026-10-20",
-   "niche": "space",
-   "topic": "Orionid meteor shower is dust from Halley's Comet (peaks Oct 21-22, ~66 km/s)"
-  },
-  {
-   "date": "2026-10-20",
-   "niche": "animals",
-   "topic": "Octopuses have three hearts and blue copper-based blood; systemic heart stops when swimming"
-  },
-  {
-   "date": "2026-10-20",
-   "niche": "human body",
-   "topic": "Astronauts grow up to 3% taller in space"
-  },
-  {
-   "date": "2026-10-21",
-   "niche": "history",
-   "topic": "First parachute jump: Garnerin, Paris, Oct 22 1797 (silk parachute from balloon)"
-  },
-  {
-   "date": "2026-10-21",
-   "niche": "animals",
-   "topic": "Vampire bats regurgitate/share blood meals with hungry roostmates, incl. non-kin"
-  },
-  {
-   "date": "2026-10-21",
-   "niche": "science",
-   "topic": "Bananas are slightly radioactive (potassium-40, banana equivalent dose)"
-  },
-  {
-   "date": "2026-10-22",
-   "niche": "science",
-   "topic": "Mole Day (Oct 23, 6:02-6:02) and Avogadro's number 6.02x10^23; a mole of water is ~18 g"
-  },
-  {
-   "date": "2026-10-22",
-   "niche": "history",
-   "topic": "First jack-o'-lanterns were carved from turnips (Ireland/Scotland) and beets (England); pumpkins in America"
-  },
-  {
-   "date": "2026-10-22",
-   "niche": "space",
-   "topic": "Sugar-cube of neutron star weighs ~1 billion tons; ~20 km wide; spin hundreds of times/sec"
-  },
-  {
-   "date": "2026-10-23",
-   "niche": "history",
-   "topic": "First person over Niagara Falls in a barrel: Annie Edson Taylor, Oct 24 1901, her 63rd birthday (cat tested barrel first)"
-  },
-  {
-   "date": "2026-10-23",
-   "niche": "animals",
-   "topic": "Owls can't move their tubular eyes; rotate heads ~270 degrees; 14 neck vertebrae vs 7 in humans"
-  },
-  {
-   "date": "2026-10-23",
-   "niche": "science",
-   "topic": "Clocks go back Oct 25 2026 in Europe (US Nov 1); Germany first nationwide DST in 1916 to save fuel in WWI; Franklin's 1784 joke essay"
-  },
-  {
-   "date": "2026-10-24",
-   "niche": "history",
-   "topic": "Statue of Liberty was originally shiny copper; unveiled Oct 28 1886; copper ~2 pennies thick; green patina from ~1903, fully green ~1920; 1906 paint plan dropped; patina protects"
-  },
-  {
-   "date": "2026-10-24",
-   "niche": "space",
-   "topic": "Félicette, first cat in space: Oct 18 1963, French Véronique rocket from Algeria, >150 km, ~5 min weightless, 13 min flight, recovered; statue 2019"
-  },
-  {
-   "date": "2026-10-24",
-   "niche": "science",
-   "topic": "Pumpkins are botanical berries (pepo) like watermelons/cucumbers; bananas, tomatoes are berries; strawberries/raspberries are not"
-  },
-  {
-   "date": "2026-10-25",
-   "niche": "history",
-   "topic": "Smallpox: only human disease eradicated; last natural case Ali Maow Maalin, Merca Somalia, rash Oct 26 1977; WHO certified eradication Oct 26 1979; he later volunteered for polio"
-  },
-  {
-   "date": "2026-10-25",
-   "niche": "animals",
-   "topic": "Crows remember human faces (UW Seattle caveman-mask study, Marzluff); untrapped and young crows learned to scold; 20%->60% at one site after 5 years"
-  },
-  {
-   "date": "2026-10-25",
-   "niche": "space",
-   "topic": "Mars sunsets are blue (dust forward-scatters blue light); photographed by Curiosity/Opportunity; daytime sky butterscotch"
-  },
-  {
-   "date": "2026-10-26",
-   "niche": "history",
-   "topic": "NYC subway opened Oct 27 1904 (IRT, 9.1 mi, 28 stations, nickel fare); Mayor McClellan drove first train to 103rd St; 100k+ riders first evening"
-  },
-  {
-   "date": "2026-10-26",
-   "niche": "animals",
-   "topic": "Wood frogs freeze solid in winter: up to 60% of body ice, heart/breathing stop, up to 7 months in Alaska, glucose antifreeze"
-  },
-  {
-   "date": "2026-10-26",
-   "niche": "human body",
-   "topic": "Goosebumps: arrector pili muscles raise hairs; fur insulation/look bigger in animals; sympathetic (fight-or-flight) so emotions trigger it; likely evolutionary leftover in humans"
-  },
-  {
-   "date": "2026-10-27",
-   "niche": "tech",
-   "topic": "First ARPANET message Oct 29 1969: UCLA (Charley Kline) to SRI, 'LOGIN' crashed after 'LO'; full login ~1 hour later"
-  },
-  {
-   "date": "2026-10-27",
-   "niche": "history",
-   "topic": "War of the Worlds radio broadcast Oct 30 1938 (Orson Welles): mass panic largely a newspaper myth; Hooper survey ~2% listening; most on Chase and Sanborn Hour"
-  },
-  {
-   "date": "2026-10-27",
-   "niche": "space",
-   "topic": "Skull-shaped asteroid 2015 TB145 flew by Oct 31 2015 at ~1.3 lunar distances, ~600 m wide, likely dead comet (Arecibo radar)"
-  },
-  {
-   "date": "2026-10-28",
-   "niche": "history",
-   "topic": "Houdini died Halloween Oct 31 1926 in Detroit (100th anniversary 2026); secret code 'Rosabelle... believe' with wife Bess; she held Halloween séances 10 years, last 1936 Knickerbocker Hotel rooftop; tradition continues"
-  },
-  {
-   "date": "2026-10-28",
-   "niche": "animals",
-   "topic": "Mantis shrimp punch ~50 mph, <3 ms, up to 10,000 g; cavitation bubbles boil water, second impact, flashes of light; broke 1/4-inch aquarium glass (1998)"
-  },
-  {
-   "date": "2026-10-28",
-   "niche": "space",
-   "topic": "Saturn is the only planet less dense than water (~0.69 g/cm3); NASA 'float in a bathtub' joke; ~9x Earth's width; would fall apart (no solid surface)"
-  },
-  {
-   "date": "2026-10-29",
-   "niche": "space",
-   "topic": "Halloween is a cross-quarter day (midway between autumn equinox and winter solstice); Celtic Samhain 'summer's end', new year; true midpoint early Nov; Groundhog Day, May Day, Lammas"
-  },
-  {
-   "date": "2026-10-29",
-   "niche": "animals",
-   "topic": "Bats aren't blind: all species can see; flying foxes rely on big eyes, many can't echolocate; microbats use vision for distant landmarks; some UV vision"
-  },
-  {
-   "date": "2026-10-29",
-   "niche": "psychology",
-   "topic": "Recreational fear sweet spot: Aarhus Univ (Andersen et al., Psychological Science) 110 people in Vejle Denmark haunted house; enjoyment and heart rate inverted-U"
-  },
-  {
-   "date": "2026-10-30",
-   "niche": "history",
-   "topic": "Candy corn: 1880s Philadelphia, credited to George Renninger (Wunderle Candy Co.); sold as 'Chicken Feed' with rooster box; made by hand; Halloween icon after late-1940s trick-or-treating"
-  },
-  {
-   "date": "2026-10-30",
-   "niche": "space",
-   "topic": "Apollo footprints on the Moon could last millions of years: no wind/rain, no volcanoes; only slow solar-particle wear or meteorite hit; 12 moonwalkers 1969-1972"
-  },
-  {
-   "date": "2026-10-30",
-   "niche": "psychology",
-   "topic": "Face pareidolia: Hadjikhani et al. 2009 NeuroReport MEG study, face-like objects activate fusiform face area at ~165 ms (faces ~130/170 ms); ordinary objects do not"
-  },
-  {
-   "date": "2026-10-31",
-   "niche": "history",
-   "topic": "Michelangelo painted the Sistine Chapel ceiling standing on scaffolding, not lying on his back (myth from 1965 film The Agony and the Ecstasy); 1508-1512; first shown to public Nov 1 1512"
-  },
-  {
-   "date": "2026-10-31",
-   "niche": "animals",
-   "topic": "Koala fingerprints nearly indistinguishable from human prints (Henneberg, Adelaide, 1990s); only non-primates with them; convergent evolution; likely for gripping"
-  },
-  {
-   "date": "2026-10-31",
-   "niche": "space",
-   "topic": "HD 189733b: blue gas giant ~63 light-years away; blue likely from silicate (glass) particles; glass rain blown sideways by ~7000 km/h winds; >1000 C"
-  },
-  {
-   "date": "2026-11-01",
-   "niche": "space",
-   "topic": "ISS continuously occupied since Nov 2 2000 (Expedition 1: Shepherd, Gidzenko, Krikalev, ~4.5 months); 26 years in 2026; ~298 people from 26 countries; ~16 orbits/day"
-  },
-  {
-   "date": "2026-11-01",
-   "niche": "history",
-   "topic": "Tutankhamun tomb: first step found Nov 4 1922 as Carnarvon was about to stop funding; Carter 'wonderful things' Nov 26 1922; >5,000 objects; ~10 years to clear"
-  },
-  {
-   "date": "2026-11-01",
-   "niche": "psychology",
-   "topic": "Frequency illusion / Baader-Meinhof phenomenon: 1994 St. Paul Pioneer Press reader letter (Terry Mullen); Arnold Zwicky named it 2005; selective attention + confirmation bias"
-  },
-  {
-   "date": "2026-11-02",
-   "niche": "animals",
-   "topic": "Sea otters have the densest fur of any animal: 500,000-1,000,000 hairs per sq inch (Seattle Aquarium); no blubber; eat ~25% of body weight daily"
-  },
-  {
-   "date": "2026-11-02",
-   "niche": "history",
-   "topic": "Sandwich named after John Montagu, 4th Earl of Sandwich; 1762 gaming-table story from a French travel book (likely apocryphal, Britannica); Cook named Sandwich Islands (Hawaii) 1778; National Sandwich Day Nov 3"
-  },
-  {
-   "date": "2026-11-02",
-   "niche": "science",
-   "topic": "Humans emit faint visible light (ultraweak photon emission): Kobayashi & Okamura 2009 PLoS ONE; ~1000x weaker than eye can detect; peak ~4pm, low ~10am; face brightest; metabolic free-radical reactions"
-  },
-  {
-   "date": "2026-11-03",
-   "niche": "history",
-   "topic": "Gunpowder Plot 1605: ~36 barrels under House of Lords; Monteagle letter; Fawkes caught near midnight 4-5 Nov with fuse and watch; Yeomen of the Guard ceremonially search cellars before State Opening; Bonfire Night Nov 5"
-  },
-  {
-   "date": "2026-11-03",
-   "niche": "space",
-   "topic": "Neptune completed its first orbit since discovery (Galle, Sept 23 1846) in July 2011; ~165-year orbit; ~30 AU (NASA)"
-  },
-  {
-   "date": "2026-11-03",
-   "niche": "human body",
-   "topic": "You can't tickle yourself: cerebellum predicts and dampens self-produced touch (Blakemore, UCL); robot experiment, delay makes self-tickle feel more ticklish"
-  },
-  {
-   "date": "2026-11-04",
-   "niche": "space",
-   "topic": "Taurid meteor shower \"Halloween fireballs\": South Taurids peak Nov 5 2026, North Nov 12; Comet Encke (shortest orbit of major comets); slow, ~5/hr, larger debris makes fireballs (EarthSky, RMG)"
-  },
-  {
-   "date": "2026-11-04",
-   "niche": "history",
-   "topic": "X-rays discovered by Wilhelm Röntgen Nov 8 1895 (Würzburg); barium platinocyanide screen glowed; named X for unknown; wife's hand with ring X-ray Dec 22 1895; first Nobel Physics 1901; no patent (Britannica)"
-  },
-  {
-   "date": "2026-11-04",
-   "niche": "animals",
-   "topic": "Wombats poop cubes: shape forms in the intestine (~10 m long) via stiff and flexible wall sections (Georgia Tech/Univ. Tasmania, Soft Matter 2021; 2019 Ig Nobel Physics); placed on rocks/logs to communicate"
-  },
-  {
-   "date": "2026-11-05",
-   "niche": "history",
-   "topic": "Marie Curie (born Nov 7 1867, Warsaw): first woman Nobel, only person to win in two sciences; radium-contaminated notebooks kept in lead-lined boxes at Bibliotheque nationale de France; Ra-226 half-life ~1600 yrs"
-  },
-  {
-   "date": "2026-11-05",
-   "niche": "animals",
-   "topic": "Tardigrades survived 10 days exposed to open space on FOTON-M3 (Sept 2007; Jonsson et al., Current Biology 2008); revived, some laid eggs that hatched; tun state"
-  },
-  {
-   "date": "2026-11-05",
-   "niche": "geography",
-   "topic": "Alaska is northernmost, westernmost and easternmost US state: Aleutians cross 180th meridian (Semisopochnoi Island in Eastern Hemisphere)"
-  },
-  {
-   "date": "2026-11-06",
-   "niche": "space",
-   "topic": "Pale Blue Dot: Voyager 1 photo Feb 14 1990 from ~6 billion km, Earth ~0.12 pixel; Carl Sagan (born Nov 9 1934) pushed for it"
-  },
-  {
-   "date": "2026-11-06",
-   "niche": "history",
-   "topic": "'Dr. Livingstone, I presume?' (Stanley, Ujiji, 1871) probably invented: Stanley's diary pages for the meeting torn out, Livingstone never mentioned it (Tim Jeal biography 2007)"
-  },
-  {
-   "date": "2026-11-06",
-   "niche": "animals",
-   "topic": "Sharks are older than trees: earliest shark scales ~450 million years ago, first trees ~385 million years ago; sharks survived all five mass extinctions"
-  },
-  {
-   "date": "2026-11-07",
-   "niche": "space",
-   "topic": "Moon recedes ~3.8 cm/yr from Earth, measured by lunar laser ranging off Apollo retroreflectors; caused by tides (NASA)"
-  },
-  {
-   "date": "2026-11-07",
-   "niche": "tech",
-   "topic": "First computer bug: moth found in Harvard Mark II relay Sept 9 1947, taped in logbook 'First actual case of bug being found'; logbook at Smithsonian NMAH (Britannica, NHHC)"
-  },
-  {
-   "date": "2026-11-07",
-   "niche": "animals",
-   "topic": "A honey bee makes ~1/12 teaspoon of honey in its lifetime; summer workers live ~5-6 weeks (American Bee Journal, Kansas DOT Pollinator Partners)"
-  },
-  {
-   "date": "2026-11-08",
-   "niche": "tech",
-   "topic": "Hedy Lamarr (born Nov 9 1914, Austria) + George Antheil: frequency-hopping patent US 2,292,387 (1942) to stop jamming of radio-controlled torpedoes; NIHF 2014"
-  },
-  {
-   "date": "2026-11-08",
-   "niche": "space",
-   "topic": "Voyager Golden Records: gold-plated copper, greetings in 55 languages, 115 images, music; committee chaired by Carl Sagan (born Nov 9 1934)"
-  },
-  {
-   "date": "2026-11-08",
-   "niche": "psychology",
-   "topic": "Spotlight effect: Gilovich, Medvec & Savitsky 2000 Cornell Barry Manilow T-shirt study, ~50% predicted vs ~25% noticed"
-  },
-  {
-   "date": "2026-11-09",
-   "niche": "animals",
-   "topic": "Greenland shark: Nielsen et al. 2016 Science, eye-lens radiocarbon dating of 28 females; largest ~392 years estimated; longest-lived vertebrates; females mature ~150 years"
-  },
-  {
-   "date": "2026-11-09",
-   "niche": "geography",
-   "topic": "France has the most time zones: 12 (13 with Antarctic claim) via overseas territories; Russia and USA 11 each"
-  },
-  {
-   "date": "2026-11-09",
-   "niche": "psychology",
-   "topic": "IKEA effect: Norton, Mochon, Ariely; subjects paid 63% more for self-assembled furniture; origami builders valued own work ~5x non-builders"
-  },
-  {
-   "date": "2026-11-10",
-   "niche": "tech",
-   "topic": "Einstein-Szilard refrigerator: US patent 1,781,541 granted Nov 11 1930 (filed Dec 16 1927); no moving parts, heat-powered, ammonia/butane/water; inspired by Berlin family killed by fridge gas leak; Electrolux bought a patent; Freon made compressors safe; Oxford revival 2008"
-  },
-  {
-   "date": "2026-11-10",
-   "niche": "space",
-   "topic": "1833 Leonid meteor storm (Nov 12-13, North America, tens of thousands/hr, 'night the stars fell'); Denison Olmsted (Yale) found the radiant in Leo; Comet Tempel-Tuttle ~33 yr; ~71 km/s; 2026 peak ~Nov 17, ~10-15/hr"
-  },
-  {
-   "date": "2026-11-10",
-   "niche": "psychology",
-   "topic": "Doorway effect / location updating effect: Radvansky (Notre Dame) 2011, virtual and real rooms, more forgetting after doorways, returning didn't help; event boundaries; later studies: mainly under high memory load"
-  },
-  {
-   "date": "2026-11-11",
-   "niche": "history",
-   "topic": "Nellie Bly round-the-world trip: left Hoboken Nov 14 1889 (New York World), met Jules Verne in Amiens, rival Elizabeth Bisland (Cosmopolitan), bought a monkey, back Jan 25 1890; 72 days 6 h 11 min"
-  },
-  {
-   "date": "2026-11-11",
-   "niche": "science",
-   "topic": "More trees on Earth than stars in the Milky Way: Crowther et al. 2015 Nature ~3.04 trillion trees (~422/person, prior est. ~400 billion), ~15 billion cut/yr, ~46% fewer since civilization began; Milky Way ~100-400 billion stars"
-  },
-  {
-   "date": "2026-11-11",
-   "niche": "animals",
-   "topic": "Axolotl regeneration: regrows limbs, heart, spinal cord, parts of brain without scarring; neoteny (feathery gills), lungs + skin breathing; up to 12 in, 10-15 yr; critically endangered, Xochimilco canals, ~50-1,000 left (IUCN via Nat Geo)"
-  },
-  {
-   "date": "2026-11-12",
-   "niche": "space",
-   "topic": "Apollo 12 struck by lightning twice (T+36.5 s, T+52 s) after launch Nov 14 1969; fuel cells offline, telemetry garbled; John Aaron 'SCE to AUX', Bean flipped switch; vehicle-triggered lightning; landed Nov 19, visited Surveyor 3 (NASA AFJ)"
-  },
-  {
-   "date": "2026-11-12",
-   "niche": "animals",
-   "topic": "Flamingos are pink from carotenoids in algae/brine shrimp; chicks hatch white/gray; both parents make pink-red crop milk and can fade almost white by end of breeding season; feed head upside down; six species; colonies >1 million (Discover Wildlife, EarthSky)"
-  },
-  {
-   "date": "2026-11-12",
-   "niche": "psychology",
-   "topic": "Ben Franklin effect: Franklin borrowed a rare book from a rival in the Pennsylvania Assembly, became friends; Jecker & Landy 1969: students asked by researcher to return quiz winnings liked him most, intermediary (secretary) lowest; Niiya 2015 replication"
-  },
-  {
-   "date": "2026-11-13",
-   "niche": "space",
-   "topic": "Arecibo message: sent Nov 16 1974 at telescope upgrade ceremony, Frank Drake, 1,679 bits = 23x73 primes, ~3 min, 1 MW, 2380 MHz; numbers, elements of life, DNA, human, solar system, telescope; Sagan test; target M13 (>300,000 stars), arrives ~25,000 years (NatGeo, Icarus 1975)"
-  },
-  {
-   "date": "2026-11-13",
-   "niche": "tech",
-   "topic": "Intel 4004 first commercial microprocessor: on sale Nov 15 1971, for Busicom 141-PF calculator; Hoff & Mazor cut 12 chips to 4; Faggin & Shima designed it, FF initials on die; 2,300 transistors, 740 kHz, 4-bit, 10 micrometre; adds two 8-digit numbers in 850 microseconds (Guinness, PC Gamer)"
-  },
-  {
-   "date": "2026-11-13",
-   "niche": "history",
-   "topic": "Suez Canal opened Nov 17 1869: work began Apr 25 1859 (~10 yrs), de Lesseps, forced labour/cholera, no locks (Napoleon's surveyors wrongly thought Red Sea higher), Empress Eugenie on L'Aigle, 164 km then ~193 km now, halved Britain-India trip, Ever Given Mar 23-29 2021, ~a tenth of world trade (History Hit, HISTORY, Wikipedia)"
-  },
-  {
-   "date": "2026-11-14",
-   "niche": "space",
-   "topic": "Lunokhod 1 first rover on another world: Luna 17 launched Nov 10, landed Nov 17 1970 Mare Imbrium; 8 wheels each with motor; solar lid, Po-210 heater; planned 3 lunar days, ran 11 (321 days); 10.54 km, >20,000 TV images, 206 panoramas, soil tests; French laser reflector, found by LRO 2010, APOLLO ~2,000 photons first try (Wikipedia, Guinness)"
-  },
-  {
-   "date": "2026-11-14",
-   "niche": "history",
-   "topic": "Gettysburg Address Nov 19 1863: cemetery dedication; Everett spoke ~2 hrs (~13,000 words), Lincoln 272 words ~2 min; photographers missed clean shot; envelope myth false; papers split on party lines; Everett letter next day 'two hours... two minutes'; 'world will little note'; five handwritten copies (HISTORY, Britannica, Ben's Guide)"
-  },
-  {
-   "date": "2026-11-14",
-   "niche": "animals",
-   "topic": "Hummingbirds: heart >1,200 bpm, ~50 bpm in torpor at night; hover/fly backwards; Americas only, >300 species; bee hummingbird (Cuba) smallest bird ~2 g; ruby-throated nonstop Gulf of Mexico ~500 miles (search results: Smithsonian SERC, Audubon, Journey North)"
-  },
-  {
-   "date": "2026-11-15",
-   "niche": "history",
-   "topic": "First crewed hot air balloon flight Nov 21 1783: Pilatre de Rozier & Marquis d'Arlandes, ~25 min, ~5 miles over Paris; Montgolfier paper-maker brothers (Annonay), burned straw/wool/old shoes; Sept 19 1783 Versailles test with sheep, duck, rooster ~8 min ~2 miles before Louis XVI & Marie Antoinette; king wanted to send prisoners; Franklin witnessed; sparks risk (HISTORY, APS News)"
-  },
-  {
-   "date": "2026-11-15",
-   "niche": "human body",
-   "topic": "Babies have ~275-300 bones vs 206 in adults: cartilage ossifies and bones fuse; skull several bones with fontanelles, close within 1-2 yrs, skull molds during birth; most fusion by puberty, collarbone early-mid 20s; bone living tissue; hands 27 + feet 26 each = 106, over half (Cleveland Clinic, Live Science, PopSci)"
-  },
-  {
-   "date": "2026-11-15",
-   "niche": "psychology",
-   "topic": "Mere exposure effect: Zajonc 1960s experiments (nonsense words, drawings, photos of faces, idiographs) rated more positively the more seen; Kunst-Wilson & Zajonc 1980 unrecognized flashed images still preferred; Goetzinger Oregon State black-bag student (hostile, curious, friendly); Bornstein 1989 meta-analysis 208 experiments; liking drops after too many repeats, songs (Wikipedia)"
-  },
-  {
-   "date": "2026-11-16",
-   "niche": "history",
-   "topic": "Day of Two Noons Nov 18 1883: towns set clocks by sun, noon signaled by ball drop/gong; 12:12 NY = 12:24 Boston = 11:17 Chicago; Dowd 1870 proposed zones 1 hr apart, Allen plan adopted; noon struck twice; NY noon ~3m58s earlier; Indianapolis Sentinel 'marry/die by railroad time'; Pittsburgh, Cleveland, Detroit refused; Standard Time Act 1918 (LOC blog, UPRR Museum, Untapped New York)"
-  },
-  {
-   "date": "2026-11-16",
-   "niche": "animals",
-   "topic": "Wild turkeys: fly ~55 mph short distances, run ~25 mph, roost in trees climbing limb to limb; females fly/males run when threatened; winter flocks 200+; poults leave nest within 24 h; male head changes color red/white/blue; snood, 1997 study females prefer long snoods; gobble heard a mile+; 5,000-6,000 feathers; ~30,000 early 1900s to ~7 million; spiral (male) vs J-shaped (female) droppings (Smithsonian, PBS Nature, NWF)"
-  },
-  {
-   "date": "2026-11-16",
-   "niche": "psychology",
-   "topic": "Cocktail party effect: Colin Cherry 1953, air traffic controllers, dichotic listening/shadowing; little recalled from unattended ear but pitch/gender changes and own name noticed; attenuation idea; infants 5 months detect own name; works best binaurally, one-ear people more distracted; peaks young adulthood, older adults harder (Wikipedia)"
-  },
-  {
-   "date": "2026-11-17",
-   "niche": "history",
-   "topic": "Lucy fossil found Nov 24 1974 at Hadar, Ethiopia by Donald Johanson & Tom Gray; forearm bone in gully, then skull, femur, ribs, pelvis, jaw; named after 'Lucy in the Sky with Diamonds' played at camp; Australopithecus afarensis ~3.2 million yrs; 47 bones ~40% of skeleton; ~3.5 ft, 60-65 lb; small brain but bipedal knee/pelvis; National Museum of Ethiopia (Live Science, ASU IHO)"
-  },
-  {
-   "date": "2026-11-17",
-   "niche": "space",
-   "topic": "Uranus spins on its side: tilt ~97.8 deg vs Earth 23.5; year ~84 Earth yrs; hemispheres in long sunlight/darkness; day ~17 h; likely struck by Earth-size icy object; min -371 F; methane gives blue; Herschel 1781 thought comet; moons named for Shakespeare/Pope characters; only Voyager 2 visited Jan 24 1986 (Live Science, timeanddate)"
-  },
-  {
-   "date": "2026-11-17",
-   "niche": "animals",
-   "topic": "Platypus fur glows blue-green under UV (Spaeth Anich et al., Mammalia 2020; Field Museum + Univ. Nebraska State Museum specimens); both sexes alike, purpose unknown; earlier glowing mammals opossums, flying squirrels (pink); lays eggs, venomous ankle spurs, no nipples (milk from belly pores), electrosensing bill, thick fur, nocturnal, eastern Australia (Live Science, Smithsonian, EarthSky/Wikipedia Monotreme)"
-  },
-  {
-   "date": "2026-11-18",
-   "niche": "history",
-   "topic": "First jukebox Nov 23 1889: Louis Glass & William Arnold, Palais Royale Saloon San Francisco; Edison electric (Class M) phonograph in oak cabinet + coin slot, 'nickel-in-the-slot', listening tubes, no speakers; one wax cylinder swapped by hand; ~25-lb battery; more in bars/restaurants/ferries; 1890 claim >$4,000; Gabel Automatic Entertainer 1906 24 songs; 'jukebox' from juke joints (Gullah 'rowdy'); ~750,000 US jukeboxes 1950s (Popular Mechanics, Wikipedia, Mystic Stamp, Wonderopolis)"
-  },
-  {
-   "date": "2026-11-18",
-   "niche": "space",
-   "topic": "Jupiter's Great Red Spot shrinking: ~41,000 km late 1800s (~3 Earths), 1.8 Earths at Voyager 1979, ~1.3 Earths (~16,000 km) by 2019; ~930 km/yr shrink from 2012; oval to circle; Juno >200 km deep; since at least 1800s, possibly 350+ yrs; cause and colour changes not understood (JPL 2019, Astronomy.com, Sky & Telescope)"
-  },
-  {
-   "date": "2026-11-18",
-   "niche": "psychology",
-   "topic": "Peak-end rule: Kahneman, Fredrickson, Schreiber & Redelmeier 1993 cold-water study (60 s at 14 C vs 60 s + 30 s warmed to 15 C; most chose to repeat longer); Fredrickson & Kahneman; duration neglect; Redelmeier colonoscopy trial with extra minutes, rated less unpleasant, more likely to return (Wikipedia, Colby cogblog)"
-  },
-  {
-   "date": "2026-11-19",
-   "niche": "history",
-   "topic": "On the Origin of Species published Nov 1859 (Darwin diary Nov 24, publisher records Nov 22), London, J. Murray; 1,250-copy first printing sold out in a day; 2nd ed 3,000 copies Jan 7 1860; full title '...Struggle for Life'; Beagle 1831 ~5 yrs; idea 1838 after Malthus; unpublished 1842/1844 sketches; Wallace letter 1858, joint Linnean Society reading; half of 'big book' done; only illustration tree diagram; Huxley defended; 250+ English editions, 29+ languages (Smithsonian Libraries, Lehigh, Univ. Missouri, EBSCO)"
-  },
-  {
-   "date": "2026-11-19",
-   "niche": "space",
-   "topic": "NASA InSight landed Nov 26 2018, Elysium Planitia near equator; entry ~12,300 mph, heat shield ~2,700 F, slowed to ~5 mph; 'seven minutes of terror'; MarCO cubesats relayed; CNES-provided SEIS; first marsquake Apr 2019; 1,313 marsquakes by May 2022; largest May 4 2022 ~magnitude 5; molten core ~half Earth's core size; HP3 mole stuck ~35-40 cm; dust on panels, mission ended Dec 2022 after ~4 yrs (collectSPACE, Astronomy.com, Space.com, Smithsonian, Wikipedia mirror)"
-  },
-  {
-   "date": "2026-11-19",
-   "niche": "psychology",
-   "topic": "Contagious yawning: ~half of adults catch yawns; triggered by seeing/hearing/thinking; Duke study 222 of 328; family>friends>strangers (Norscia & Palagi 2011) but empathy link not always replicated; kids ~4+; chimps and dogs; Nottingham 2017 Current Biology (Jackson) told not to yawn didn't reduce yawns, motor cortex excitability; brain-cooling (Gallup), more yawns ~20 C; yawning in womb; cause unknown (Psychology Today, PopSci, Big Think, Sleep.com, PsyBlog)"
-  },
-  {
-   "date": "2026-11-20",
-   "niche": "space",
-   "topic": "Hubble showed Andromeda is a separate galaxy: Cepheid spotted Oct 1923 with 100-inch Hooker (Mt Wilson), 'VAR!'; Leavitt period-luminosity; est. ~900,000 ly (modern ~2.5M); NYT Nov 23 1924; Shapley-Curtis 1920 debate; up to several trillion galaxies"
-  },
-  {
-   "date": "2026-11-20",
-   "niche": "science",
-   "topic": "Fibonacci Day Nov 23 (1,1,2,3): sunflower 55/34 spirals, pinecones/pineapples 8/13, golden angle ~137.5 deg, ratio -> 1.618; Leonardo of Pisa, Liber Abaci 1202 rabbit puzzle; known earlier in India; 657-sunflower study found exceptions"
-  },
-  {
-   "date": "2026-11-20",
-   "niche": "animals",
-   "topic": "Butterflies taste with their feet (tarsal chemoreceptors); females drum leaves to test host plants before egg-laying; coiled proboscis, newly emerged join two halves; antennae smell pheromones; males puddle for sodium; land on people for sweat salt; moths/flies also leg tasters"
-  },
-  {
-   "date": "2026-11-21",
-   "niche": "history",
-   "topic": "Alfred Nobel's will signed Nov 27 1895 at the Swedish-Norwegian Club, Paris (<1,000 handwritten words), most of fortune to 5 prizes (physics, chemistry, medicine, literature, peace); premature 'merchant of death' obituary story after brother Ludvig died 1888 (no original copy found, may be myth); dynamite 1867, 355 patents; relatives challenged will, ~5 yrs to set up foundation; died Dec 10 1896, first prizes 1901 (HISTORY, LOC)"
-  },
-  {
-   "date": "2026-11-21",
-   "niche": "space",
-   "topic": "Mariner 4: launched Nov 28 1964 (Mariner 3 failed Nov 5, shroud didn't jettison), 228-day cruise, flyby Jul 14-15 1965 at ~6,118 mi, 22 photos on tape, 8 1/3 bits/s, ~10 h per image; JPL telecom staff hand-colored first image from printed number strips with pastels, framed for director Pickering; moon-like craters, surface pressure ~1% of Earth's (JPL, NASA History, Space.com, Caltech)"
-  },
-  {
-   "date": "2026-11-21",
-   "niche": "animals",
-   "topic": "Dolphins sleep with half the brain (unihemispheric slow-wave sleep), opposite eye closed; ~4 h SWS per hemisphere per day (bottlenose), episodes ~40 min avg; float/log or swim slowly, captive ones on pool bottom; seen in calf a few weeks old; fur seals in water; frigatebirds sleep in flight (Rattenborg 2016); mallards at group edge watch outward (SciAm, Live Science, Lyamin 2008 review)"
-  }
- ]
+  "topics": [
+    {
+      "date": "2026-10-19",
+      "niche": "space",
+      "topic": "A day on Venus is longer than its year; Venus spins backwards"
+    },
+    {
+      "date": "2026-10-19",
+      "niche": "history",
+      "topic": "Cleopatra lived closer in time to the Moon landing than to the Great Pyramid"
+    },
+    {
+      "date": "2026-10-19",
+      "niche": "psychology",
+      "topic": "The Zeigarnik effect: unfinished tasks are remembered better"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "space",
+      "topic": "Orionid meteor shower is dust from Halley's Comet (peaks Oct 21-22, ~66 km/s)"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "animals",
+      "topic": "Octopuses have three hearts and blue copper-based blood; systemic heart stops when swimming"
+    },
+    {
+      "date": "2026-10-20",
+      "niche": "human body",
+      "topic": "Astronauts grow up to 3% taller in space"
+    },
+    {
+      "date": "2026-10-21",
+      "niche": "history",
+      "topic": "First parachute jump: Garnerin, Paris, Oct 22 1797 (silk parachute from balloon)"
+    },
+    {
+      "date": "2026-10-21",
+      "niche": "animals",
+      "topic": "Vampire bats regurgitate/share blood meals with hungry roostmates, incl. non-kin"
+    },
+    {
+      "date": "2026-10-21",
+      "niche": "science",
+      "topic": "Bananas are slightly radioactive (potassium-40, banana equivalent dose)"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "science",
+      "topic": "Mole Day (Oct 23, 6:02-6:02) and Avogadro's number 6.02x10^23; a mole of water is ~18 g"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "history",
+      "topic": "First jack-o'-lanterns were carved from turnips (Ireland/Scotland) and beets (England); pumpkins in America"
+    },
+    {
+      "date": "2026-10-22",
+      "niche": "space",
+      "topic": "Sugar-cube of neutron star weighs ~1 billion tons; ~20 km wide; spin hundreds of times/sec"
+    },
+    {
+      "date": "2026-10-23",
+      "niche": "history",
+      "topic": "First person over Niagara Falls in a barrel: Annie Edson Taylor, Oct 24 1901, her 63rd birthday (cat tested barrel first)"
+    },
+    {
+      "date": "2026-10-23",
+      "niche": "animals",
+      "topic": "Owls can't move their tubular eyes; rotate heads ~270 degrees; 14 neck vertebrae vs 7 in humans"
+    },
+    {
+      "date": "2026-10-23",
+      "niche": "science",
+      "topic": "Clocks go back Oct 25 2026 in Europe (US Nov 1); Germany first nationwide DST in 1916 to save fuel in WWI; Franklin's 1784 joke essay"
+    },
+    {
+      "date": "2026-10-24",
+      "niche": "history",
+      "topic": "Statue of Liberty was originally shiny copper; unveiled Oct 28 1886; copper ~2 pennies thick; green patina from ~1903, fully green ~1920; 1906 paint plan dropped; patina protects"
+    },
+    {
+      "date": "2026-10-24",
+      "niche": "space",
+      "topic": "Félicette, first cat in space: Oct 18 1963, French Véronique rocket from Algeria, >150 km, ~5 min weightless, 13 min flight, recovered; statue 2019"
+    },
+    {
+      "date": "2026-10-24",
+      "niche": "science",
+      "topic": "Pumpkins are botanical berries (pepo) like watermelons/cucumbers; bananas, tomatoes are berries; strawberries/raspberries are not"
+    },
+    {
+      "date": "2026-10-25",
+      "niche": "history",
+      "topic": "Smallpox: only human disease eradicated; last natural case Ali Maow Maalin, Merca Somalia, rash Oct 26 1977; WHO certified eradication Oct 26 1979; he later volunteered for polio"
+    },
+    {
+      "date": "2026-10-25",
+      "niche": "animals",
+      "topic": "Crows remember human faces (UW Seattle caveman-mask study, Marzluff); untrapped and young crows learned to scold; 20%->60% at one site after 5 years"
+    },
+    {
+      "date": "2026-10-25",
+      "niche": "space",
+      "topic": "Mars sunsets are blue (dust forward-scatters blue light); photographed by Curiosity/Opportunity; daytime sky butterscotch"
+    },
+    {
+      "date": "2026-10-26",
+      "niche": "history",
+      "topic": "NYC subway opened Oct 27 1904 (IRT, 9.1 mi, 28 stations, nickel fare); Mayor McClellan drove first train to 103rd St; 100k+ riders first evening"
+    },
+    {
+      "date": "2026-10-26",
+      "niche": "animals",
+      "topic": "Wood frogs freeze solid in winter: up to 60% of body ice, heart/breathing stop, up to 7 months in Alaska, glucose antifreeze"
+    },
+    {
+      "date": "2026-10-26",
+      "niche": "human body",
+      "topic": "Goosebumps: arrector pili muscles raise hairs; fur insulation/look bigger in animals; sympathetic (fight-or-flight) so emotions trigger it; likely evolutionary leftover in humans"
+    },
+    {
+      "date": "2026-10-27",
+      "niche": "tech",
+      "topic": "First ARPANET message Oct 29 1969: UCLA (Charley Kline) to SRI, 'LOGIN' crashed after 'LO'; full login ~1 hour later"
+    },
+    {
+      "date": "2026-10-27",
+      "niche": "history",
+      "topic": "War of the Worlds radio broadcast Oct 30 1938 (Orson Welles): mass panic largely a newspaper myth; Hooper survey ~2% listening; most on Chase and Sanborn Hour"
+    },
+    {
+      "date": "2026-10-27",
+      "niche": "space",
+      "topic": "Skull-shaped asteroid 2015 TB145 flew by Oct 31 2015 at ~1.3 lunar distances, ~600 m wide, likely dead comet (Arecibo radar)"
+    },
+    {
+      "date": "2026-10-28",
+      "niche": "history",
+      "topic": "Houdini died Halloween Oct 31 1926 in Detroit (100th anniversary 2026); secret code 'Rosabelle... believe' with wife Bess; she held Halloween séances 10 years, last 1936 Knickerbocker Hotel rooftop; tradition continues"
+    },
+    {
+      "date": "2026-10-28",
+      "niche": "animals",
+      "topic": "Mantis shrimp punch ~50 mph, <3 ms, up to 10,000 g; cavitation bubbles boil water, second impact, flashes of light; broke 1/4-inch aquarium glass (1998)"
+    },
+    {
+      "date": "2026-10-28",
+      "niche": "space",
+      "topic": "Saturn is the only planet less dense than water (~0.69 g/cm3); NASA 'float in a bathtub' joke; ~9x Earth's width; would fall apart (no solid surface)"
+    },
+    {
+      "date": "2026-10-29",
+      "niche": "space",
+      "topic": "Halloween is a cross-quarter day (midway between autumn equinox and winter solstice); Celtic Samhain 'summer's end', new year; true midpoint early Nov; Groundhog Day, May Day, Lammas"
+    },
+    {
+      "date": "2026-10-29",
+      "niche": "animals",
+      "topic": "Bats aren't blind: all species can see; flying foxes rely on big eyes, many can't echolocate; microbats use vision for distant landmarks; some UV vision"
+    },
+    {
+      "date": "2026-10-29",
+      "niche": "psychology",
+      "topic": "Recreational fear sweet spot: Aarhus Univ (Andersen et al., Psychological Science) 110 people in Vejle Denmark haunted house; enjoyment and heart rate inverted-U"
+    },
+    {
+      "date": "2026-10-30",
+      "niche": "history",
+      "topic": "Candy corn: 1880s Philadelphia, credited to George Renninger (Wunderle Candy Co.); sold as 'Chicken Feed' with rooster box; made by hand; Halloween icon after late-1940s trick-or-treating"
+    },
+    {
+      "date": "2026-10-30",
+      "niche": "space",
+      "topic": "Apollo footprints on the Moon could last millions of years: no wind/rain, no volcanoes; only slow solar-particle wear or meteorite hit; 12 moonwalkers 1969-1972"
+    },
+    {
+      "date": "2026-10-30",
+      "niche": "psychology",
+      "topic": "Face pareidolia: Hadjikhani et al. 2009 NeuroReport MEG study, face-like objects activate fusiform face area at ~165 ms (faces ~130/170 ms); ordinary objects do not"
+    },
+    {
+      "date": "2026-10-31",
+      "niche": "history",
+      "topic": "Michelangelo painted the Sistine Chapel ceiling standing on scaffolding, not lying on his back (myth from 1965 film The Agony and the Ecstasy); 1508-1512; first shown to public Nov 1 1512"
+    },
+    {
+      "date": "2026-10-31",
+      "niche": "animals",
+      "topic": "Koala fingerprints nearly indistinguishable from human prints (Henneberg, Adelaide, 1990s); only non-primates with them; convergent evolution; likely for gripping"
+    },
+    {
+      "date": "2026-10-31",
+      "niche": "space",
+      "topic": "HD 189733b: blue gas giant ~63 light-years away; blue likely from silicate (glass) particles; glass rain blown sideways by ~7000 km/h winds; >1000 C"
+    },
+    {
+      "date": "2026-11-01",
+      "niche": "space",
+      "topic": "ISS continuously occupied since Nov 2 2000 (Expedition 1: Shepherd, Gidzenko, Krikalev, ~4.5 months); 26 years in 2026; ~298 people from 26 countries; ~16 orbits/day"
+    },
+    {
+      "date": "2026-11-01",
+      "niche": "history",
+      "topic": "Tutankhamun tomb: first step found Nov 4 1922 as Carnarvon was about to stop funding; Carter 'wonderful things' Nov 26 1922; >5,000 objects; ~10 years to clear"
+    },
+    {
+      "date": "2026-11-01",
+      "niche": "psychology",
+      "topic": "Frequency illusion / Baader-Meinhof phenomenon: 1994 St. Paul Pioneer Press reader letter (Terry Mullen); Arnold Zwicky named it 2005; selective attention + confirmation bias"
+    },
+    {
+      "date": "2026-11-02",
+      "niche": "animals",
+      "topic": "Sea otters have the densest fur of any animal: 500,000-1,000,000 hairs per sq inch (Seattle Aquarium); no blubber; eat ~25% of body weight daily"
+    },
+    {
+      "date": "2026-11-02",
+      "niche": "history",
+      "topic": "Sandwich named after John Montagu, 4th Earl of Sandwich; 1762 gaming-table story from a French travel book (likely apocryphal, Britannica); Cook named Sandwich Islands (Hawaii) 1778; National Sandwich Day Nov 3"
+    },
+    {
+      "date": "2026-11-02",
+      "niche": "science",
+      "topic": "Humans emit faint visible light (ultraweak photon emission): Kobayashi & Okamura 2009 PLoS ONE; ~1000x weaker than eye can detect; peak ~4pm, low ~10am; face brightest; metabolic free-radical reactions"
+    },
+    {
+      "date": "2026-11-03",
+      "niche": "history",
+      "topic": "Gunpowder Plot 1605: ~36 barrels under House of Lords; Monteagle letter; Fawkes caught near midnight 4-5 Nov with fuse and watch; Yeomen of the Guard ceremonially search cellars before State Opening; Bonfire Night Nov 5"
+    },
+    {
+      "date": "2026-11-03",
+      "niche": "space",
+      "topic": "Neptune completed its first orbit since discovery (Galle, Sept 23 1846) in July 2011; ~165-year orbit; ~30 AU (NASA)"
+    },
+    {
+      "date": "2026-11-03",
+      "niche": "human body",
+      "topic": "You can't tickle yourself: cerebellum predicts and dampens self-produced touch (Blakemore, UCL); robot experiment, delay makes self-tickle feel more ticklish"
+    },
+    {
+      "date": "2026-11-04",
+      "niche": "space",
+      "topic": "Taurid meteor shower \"Halloween fireballs\": South Taurids peak Nov 5 2026, North Nov 12; Comet Encke (shortest orbit of major comets); slow, ~5/hr, larger debris makes fireballs (EarthSky, RMG)"
+    },
+    {
+      "date": "2026-11-04",
+      "niche": "history",
+      "topic": "X-rays discovered by Wilhelm Röntgen Nov 8 1895 (Würzburg); barium platinocyanide screen glowed; named X for unknown; wife's hand with ring X-ray Dec 22 1895; first Nobel Physics 1901; no patent (Britannica)"
+    },
+    {
+      "date": "2026-11-04",
+      "niche": "animals",
+      "topic": "Wombats poop cubes: shape forms in the intestine (~10 m long) via stiff and flexible wall sections (Georgia Tech/Univ. Tasmania, Soft Matter 2021; 2019 Ig Nobel Physics); placed on rocks/logs to communicate"
+    },
+    {
+      "date": "2026-11-05",
+      "niche": "history",
+      "topic": "Marie Curie (born Nov 7 1867, Warsaw): first woman Nobel, only person to win in two sciences; radium-contaminated notebooks kept in lead-lined boxes at Bibliotheque nationale de France; Ra-226 half-life ~1600 yrs"
+    },
+    {
+      "date": "2026-11-05",
+      "niche": "animals",
+      "topic": "Tardigrades survived 10 days exposed to open space on FOTON-M3 (Sept 2007; Jonsson et al., Current Biology 2008); revived, some laid eggs that hatched; tun state"
+    },
+    {
+      "date": "2026-11-05",
+      "niche": "geography",
+      "topic": "Alaska is northernmost, westernmost and easternmost US state: Aleutians cross 180th meridian (Semisopochnoi Island in Eastern Hemisphere)"
+    },
+    {
+      "date": "2026-11-06",
+      "niche": "space",
+      "topic": "Pale Blue Dot: Voyager 1 photo Feb 14 1990 from ~6 billion km, Earth ~0.12 pixel; Carl Sagan (born Nov 9 1934) pushed for it"
+    },
+    {
+      "date": "2026-11-06",
+      "niche": "history",
+      "topic": "'Dr. Livingstone, I presume?' (Stanley, Ujiji, 1871) probably invented: Stanley's diary pages for the meeting torn out, Livingstone never mentioned it (Tim Jeal biography 2007)"
+    },
+    {
+      "date": "2026-11-06",
+      "niche": "animals",
+      "topic": "Sharks are older than trees: earliest shark scales ~450 million years ago, first trees ~385 million years ago; sharks survived all five mass extinctions"
+    },
+    {
+      "date": "2026-11-07",
+      "niche": "space",
+      "topic": "Moon recedes ~3.8 cm/yr from Earth, measured by lunar laser ranging off Apollo retroreflectors; caused by tides (NASA)"
+    },
+    {
+      "date": "2026-11-07",
+      "niche": "tech",
+      "topic": "First computer bug: moth found in Harvard Mark II relay Sept 9 1947, taped in logbook 'First actual case of bug being found'; logbook at Smithsonian NMAH (Britannica, NHHC)"
+    },
+    {
+      "date": "2026-11-07",
+      "niche": "animals",
+      "topic": "A honey bee makes ~1/12 teaspoon of honey in its lifetime; summer workers live ~5-6 weeks (American Bee Journal, Kansas DOT Pollinator Partners)"
+    },
+    {
+      "date": "2026-11-08",
+      "niche": "tech",
+      "topic": "Hedy Lamarr (born Nov 9 1914, Austria) + George Antheil: frequency-hopping patent US 2,292,387 (1942) to stop jamming of radio-controlled torpedoes; NIHF 2014"
+    },
+    {
+      "date": "2026-11-08",
+      "niche": "space",
+      "topic": "Voyager Golden Records: gold-plated copper, greetings in 55 languages, 115 images, music; committee chaired by Carl Sagan (born Nov 9 1934)"
+    },
+    {
+      "date": "2026-11-08",
+      "niche": "psychology",
+      "topic": "Spotlight effect: Gilovich, Medvec & Savitsky 2000 Cornell Barry Manilow T-shirt study, ~50% predicted vs ~25% noticed"
+    },
+    {
+      "date": "2026-11-09",
+      "niche": "animals",
+      "topic": "Greenland shark: Nielsen et al. 2016 Science, eye-lens radiocarbon dating of 28 females; largest ~392 years estimated; longest-lived vertebrates; females mature ~150 years"
+    },
+    {
+      "date": "2026-11-09",
+      "niche": "geography",
+      "topic": "France has the most time zones: 12 (13 with Antarctic claim) via overseas territories; Russia and USA 11 each"
+    },
+    {
+      "date": "2026-11-09",
+      "niche": "psychology",
+      "topic": "IKEA effect: Norton, Mochon, Ariely; subjects paid 63% more for self-assembled furniture; origami builders valued own work ~5x non-builders"
+    },
+    {
+      "date": "2026-11-10",
+      "niche": "tech",
+      "topic": "Einstein-Szilard refrigerator: US patent 1,781,541 granted Nov 11 1930 (filed Dec 16 1927); no moving parts, heat-powered, ammonia/butane/water; inspired by Berlin family killed by fridge gas leak; Electrolux bought a patent; Freon made compressors safe; Oxford revival 2008"
+    },
+    {
+      "date": "2026-11-10",
+      "niche": "space",
+      "topic": "1833 Leonid meteor storm (Nov 12-13, North America, tens of thousands/hr, 'night the stars fell'); Denison Olmsted (Yale) found the radiant in Leo; Comet Tempel-Tuttle ~33 yr; ~71 km/s; 2026 peak ~Nov 17, ~10-15/hr"
+    },
+    {
+      "date": "2026-11-10",
+      "niche": "psychology",
+      "topic": "Doorway effect / location updating effect: Radvansky (Notre Dame) 2011, virtual and real rooms, more forgetting after doorways, returning didn't help; event boundaries; later studies: mainly under high memory load"
+    },
+    {
+      "date": "2026-11-11",
+      "niche": "history",
+      "topic": "Nellie Bly round-the-world trip: left Hoboken Nov 14 1889 (New York World), met Jules Verne in Amiens, rival Elizabeth Bisland (Cosmopolitan), bought a monkey, back Jan 25 1890; 72 days 6 h 11 min"
+    },
+    {
+      "date": "2026-11-11",
+      "niche": "science",
+      "topic": "More trees on Earth than stars in the Milky Way: Crowther et al. 2015 Nature ~3.04 trillion trees (~422/person, prior est. ~400 billion), ~15 billion cut/yr, ~46% fewer since civilization began; Milky Way ~100-400 billion stars"
+    },
+    {
+      "date": "2026-11-11",
+      "niche": "animals",
+      "topic": "Axolotl regeneration: regrows limbs, heart, spinal cord, parts of brain without scarring; neoteny (feathery gills), lungs + skin breathing; up to 12 in, 10-15 yr; critically endangered, Xochimilco canals, ~50-1,000 left (IUCN via Nat Geo)"
+    },
+    {
+      "date": "2026-11-12",
+      "niche": "space",
+      "topic": "Apollo 12 struck by lightning twice (T+36.5 s, T+52 s) after launch Nov 14 1969; fuel cells offline, telemetry garbled; John Aaron 'SCE to AUX', Bean flipped switch; vehicle-triggered lightning; landed Nov 19, visited Surveyor 3 (NASA AFJ)"
+    },
+    {
+      "date": "2026-11-12",
+      "niche": "animals",
+      "topic": "Flamingos are pink from carotenoids in algae/brine shrimp; chicks hatch white/gray; both parents make pink-red crop milk and can fade almost white by end of breeding season; feed head upside down; six species; colonies >1 million (Discover Wildlife, EarthSky)"
+    },
+    {
+      "date": "2026-11-12",
+      "niche": "psychology",
+      "topic": "Ben Franklin effect: Franklin borrowed a rare book from a rival in the Pennsylvania Assembly, became friends; Jecker & Landy 1969: students asked by researcher to return quiz winnings liked him most, intermediary (secretary) lowest; Niiya 2015 replication"
+    },
+    {
+      "date": "2026-11-13",
+      "niche": "space",
+      "topic": "Arecibo message: sent Nov 16 1974 at telescope upgrade ceremony, Frank Drake, 1,679 bits = 23x73 primes, ~3 min, 1 MW, 2380 MHz; numbers, elements of life, DNA, human, solar system, telescope; Sagan test; target M13 (>300,000 stars), arrives ~25,000 years (NatGeo, Icarus 1975)"
+    },
+    {
+      "date": "2026-11-13",
+      "niche": "tech",
+      "topic": "Intel 4004 first commercial microprocessor: on sale Nov 15 1971, for Busicom 141-PF calculator; Hoff & Mazor cut 12 chips to 4; Faggin & Shima designed it, FF initials on die; 2,300 transistors, 740 kHz, 4-bit, 10 micrometre; adds two 8-digit numbers in 850 microseconds (Guinness, PC Gamer)"
+    },
+    {
+      "date": "2026-11-13",
+      "niche": "history",
+      "topic": "Suez Canal opened Nov 17 1869: work began Apr 25 1859 (~10 yrs), de Lesseps, forced labour/cholera, no locks (Napoleon's surveyors wrongly thought Red Sea higher), Empress Eugenie on L'Aigle, 164 km then ~193 km now, halved Britain-India trip, Ever Given Mar 23-29 2021, ~a tenth of world trade (History Hit, HISTORY, Wikipedia)"
+    },
+    {
+      "date": "2026-11-14",
+      "niche": "space",
+      "topic": "Lunokhod 1 first rover on another world: Luna 17 launched Nov 10, landed Nov 17 1970 Mare Imbrium; 8 wheels each with motor; solar lid, Po-210 heater; planned 3 lunar days, ran 11 (321 days); 10.54 km, >20,000 TV images, 206 panoramas, soil tests; French laser reflector, found by LRO 2010, APOLLO ~2,000 photons first try (Wikipedia, Guinness)"
+    },
+    {
+      "date": "2026-11-14",
+      "niche": "history",
+      "topic": "Gettysburg Address Nov 19 1863: cemetery dedication; Everett spoke ~2 hrs (~13,000 words), Lincoln 272 words ~2 min; photographers missed clean shot; envelope myth false; papers split on party lines; Everett letter next day 'two hours... two minutes'; 'world will little note'; five handwritten copies (HISTORY, Britannica, Ben's Guide)"
+    },
+    {
+      "date": "2026-11-14",
+      "niche": "animals",
+      "topic": "Hummingbirds: heart >1,200 bpm, ~50 bpm in torpor at night; hover/fly backwards; Americas only, >300 species; bee hummingbird (Cuba) smallest bird ~2 g; ruby-throated nonstop Gulf of Mexico ~500 miles (search results: Smithsonian SERC, Audubon, Journey North)"
+    },
+    {
+      "date": "2026-11-15",
+      "niche": "history",
+      "topic": "First crewed hot air balloon flight Nov 21 1783: Pilatre de Rozier & Marquis d'Arlandes, ~25 min, ~5 miles over Paris; Montgolfier paper-maker brothers (Annonay), burned straw/wool/old shoes; Sept 19 1783 Versailles test with sheep, duck, rooster ~8 min ~2 miles before Louis XVI & Marie Antoinette; king wanted to send prisoners; Franklin witnessed; sparks risk (HISTORY, APS News)"
+    },
+    {
+      "date": "2026-11-15",
+      "niche": "human body",
+      "topic": "Babies have ~275-300 bones vs 206 in adults: cartilage ossifies and bones fuse; skull several bones with fontanelles, close within 1-2 yrs, skull molds during birth; most fusion by puberty, collarbone early-mid 20s; bone living tissue; hands 27 + feet 26 each = 106, over half (Cleveland Clinic, Live Science, PopSci)"
+    },
+    {
+      "date": "2026-11-15",
+      "niche": "psychology",
+      "topic": "Mere exposure effect: Zajonc 1960s experiments (nonsense words, drawings, photos of faces, idiographs) rated more positively the more seen; Kunst-Wilson & Zajonc 1980 unrecognized flashed images still preferred; Goetzinger Oregon State black-bag student (hostile, curious, friendly); Bornstein 1989 meta-analysis 208 experiments; liking drops after too many repeats, songs (Wikipedia)"
+    },
+    {
+      "date": "2026-11-16",
+      "niche": "history",
+      "topic": "Day of Two Noons Nov 18 1883: towns set clocks by sun, noon signaled by ball drop/gong; 12:12 NY = 12:24 Boston = 11:17 Chicago; Dowd 1870 proposed zones 1 hr apart, Allen plan adopted; noon struck twice; NY noon ~3m58s earlier; Indianapolis Sentinel 'marry/die by railroad time'; Pittsburgh, Cleveland, Detroit refused; Standard Time Act 1918 (LOC blog, UPRR Museum, Untapped New York)"
+    },
+    {
+      "date": "2026-11-16",
+      "niche": "animals",
+      "topic": "Wild turkeys: fly ~55 mph short distances, run ~25 mph, roost in trees climbing limb to limb; females fly/males run when threatened; winter flocks 200+; poults leave nest within 24 h; male head changes color red/white/blue; snood, 1997 study females prefer long snoods; gobble heard a mile+; 5,000-6,000 feathers; ~30,000 early 1900s to ~7 million; spiral (male) vs J-shaped (female) droppings (Smithsonian, PBS Nature, NWF)"
+    },
+    {
+      "date": "2026-11-16",
+      "niche": "psychology",
+      "topic": "Cocktail party effect: Colin Cherry 1953, air traffic controllers, dichotic listening/shadowing; little recalled from unattended ear but pitch/gender changes and own name noticed; attenuation idea; infants 5 months detect own name; works best binaurally, one-ear people more distracted; peaks young adulthood, older adults harder (Wikipedia)"
+    },
+    {
+      "date": "2026-11-17",
+      "niche": "history",
+      "topic": "Lucy fossil found Nov 24 1974 at Hadar, Ethiopia by Donald Johanson & Tom Gray; forearm bone in gully, then skull, femur, ribs, pelvis, jaw; named after 'Lucy in the Sky with Diamonds' played at camp; Australopithecus afarensis ~3.2 million yrs; 47 bones ~40% of skeleton; ~3.5 ft, 60-65 lb; small brain but bipedal knee/pelvis; National Museum of Ethiopia (Live Science, ASU IHO)"
+    },
+    {
+      "date": "2026-11-17",
+      "niche": "space",
+      "topic": "Uranus spins on its side: tilt ~97.8 deg vs Earth 23.5; year ~84 Earth yrs; hemispheres in long sunlight/darkness; day ~17 h; likely struck by Earth-size icy object; min -371 F; methane gives blue; Herschel 1781 thought comet; moons named for Shakespeare/Pope characters; only Voyager 2 visited Jan 24 1986 (Live Science, timeanddate)"
+    },
+    {
+      "date": "2026-11-17",
+      "niche": "animals",
+      "topic": "Platypus fur glows blue-green under UV (Spaeth Anich et al., Mammalia 2020; Field Museum + Univ. Nebraska State Museum specimens); both sexes alike, purpose unknown; earlier glowing mammals opossums, flying squirrels (pink); lays eggs, venomous ankle spurs, no nipples (milk from belly pores), electrosensing bill, thick fur, nocturnal, eastern Australia (Live Science, Smithsonian, EarthSky/Wikipedia Monotreme)"
+    },
+    {
+      "date": "2026-11-18",
+      "niche": "history",
+      "topic": "First jukebox Nov 23 1889: Louis Glass & William Arnold, Palais Royale Saloon San Francisco; Edison electric (Class M) phonograph in oak cabinet + coin slot, 'nickel-in-the-slot', listening tubes, no speakers; one wax cylinder swapped by hand; ~25-lb battery; more in bars/restaurants/ferries; 1890 claim >$4,000; Gabel Automatic Entertainer 1906 24 songs; 'jukebox' from juke joints (Gullah 'rowdy'); ~750,000 US jukeboxes 1950s (Popular Mechanics, Wikipedia, Mystic Stamp, Wonderopolis)"
+    },
+    {
+      "date": "2026-11-18",
+      "niche": "space",
+      "topic": "Jupiter's Great Red Spot shrinking: ~41,000 km late 1800s (~3 Earths), 1.8 Earths at Voyager 1979, ~1.3 Earths (~16,000 km) by 2019; ~930 km/yr shrink from 2012; oval to circle; Juno >200 km deep; since at least 1800s, possibly 350+ yrs; cause and colour changes not understood (JPL 2019, Astronomy.com, Sky & Telescope)"
+    },
+    {
+      "date": "2026-11-18",
+      "niche": "psychology",
+      "topic": "Peak-end rule: Kahneman, Fredrickson, Schreiber & Redelmeier 1993 cold-water study (60 s at 14 C vs 60 s + 30 s warmed to 15 C; most chose to repeat longer); Fredrickson & Kahneman; duration neglect; Redelmeier colonoscopy trial with extra minutes, rated less unpleasant, more likely to return (Wikipedia, Colby cogblog)"
+    },
+    {
+      "date": "2026-11-19",
+      "niche": "history",
+      "topic": "On the Origin of Species published Nov 1859 (Darwin diary Nov 24, publisher records Nov 22), London, J. Murray; 1,250-copy first printing sold out in a day; 2nd ed 3,000 copies Jan 7 1860; full title '...Struggle for Life'; Beagle 1831 ~5 yrs; idea 1838 after Malthus; unpublished 1842/1844 sketches; Wallace letter 1858, joint Linnean Society reading; half of 'big book' done; only illustration tree diagram; Huxley defended; 250+ English editions, 29+ languages (Smithsonian Libraries, Lehigh, Univ. Missouri, EBSCO)"
+    },
+    {
+      "date": "2026-11-19",
+      "niche": "space",
+      "topic": "NASA InSight landed Nov 26 2018, Elysium Planitia near equator; entry ~12,300 mph, heat shield ~2,700 F, slowed to ~5 mph; 'seven minutes of terror'; MarCO cubesats relayed; CNES-provided SEIS; first marsquake Apr 2019; 1,313 marsquakes by May 2022; largest May 4 2022 ~magnitude 5; molten core ~half Earth's core size; HP3 mole stuck ~35-40 cm; dust on panels, mission ended Dec 2022 after ~4 yrs (collectSPACE, Astronomy.com, Space.com, Smithsonian, Wikipedia mirror)"
+    },
+    {
+      "date": "2026-11-19",
+      "niche": "psychology",
+      "topic": "Contagious yawning: ~half of adults catch yawns; triggered by seeing/hearing/thinking; Duke study 222 of 328; family>friends>strangers (Norscia & Palagi 2011) but empathy link not always replicated; kids ~4+; chimps and dogs; Nottingham 2017 Current Biology (Jackson) told not to yawn didn't reduce yawns, motor cortex excitability; brain-cooling (Gallup), more yawns ~20 C; yawning in womb; cause unknown (Psychology Today, PopSci, Big Think, Sleep.com, PsyBlog)"
+    },
+    {
+      "date": "2026-11-20",
+      "niche": "space",
+      "topic": "Hubble showed Andromeda is a separate galaxy: Cepheid spotted Oct 1923 with 100-inch Hooker (Mt Wilson), 'VAR!'; Leavitt period-luminosity; est. ~900,000 ly (modern ~2.5M); NYT Nov 23 1924; Shapley-Curtis 1920 debate; up to several trillion galaxies"
+    },
+    {
+      "date": "2026-11-20",
+      "niche": "science",
+      "topic": "Fibonacci Day Nov 23 (1,1,2,3): sunflower 55/34 spirals, pinecones/pineapples 8/13, golden angle ~137.5 deg, ratio -> 1.618; Leonardo of Pisa, Liber Abaci 1202 rabbit puzzle; known earlier in India; 657-sunflower study found exceptions"
+    },
+    {
+      "date": "2026-11-20",
+      "niche": "animals",
+      "topic": "Butterflies taste with their feet (tarsal chemoreceptors); females drum leaves to test host plants before egg-laying; coiled proboscis, newly emerged join two halves; antennae smell pheromones; males puddle for sodium; land on people for sweat salt; moths/flies also leg tasters"
+    },
+    {
+      "date": "2026-11-21",
+      "niche": "history",
+      "topic": "Alfred Nobel's will signed Nov 27 1895 at the Swedish-Norwegian Club, Paris (<1,000 handwritten words), most of fortune to 5 prizes (physics, chemistry, medicine, literature, peace); premature 'merchant of death' obituary story after brother Ludvig died 1888 (no original copy found, may be myth); dynamite 1867, 355 patents; relatives challenged will, ~5 yrs to set up foundation; died Dec 10 1896, first prizes 1901 (HISTORY, LOC)"
+    },
+    {
+      "date": "2026-11-21",
+      "niche": "space",
+      "topic": "Mariner 4: launched Nov 28 1964 (Mariner 3 failed Nov 5, shroud didn't jettison), 228-day cruise, flyby Jul 14-15 1965 at ~6,118 mi, 22 photos on tape, 8 1/3 bits/s, ~10 h per image; JPL telecom staff hand-colored first image from printed number strips with pastels, framed for director Pickering; moon-like craters, surface pressure ~1% of Earth's (JPL, NASA History, Space.com, Caltech)"
+    },
+    {
+      "date": "2026-11-21",
+      "niche": "animals",
+      "topic": "Dolphins sleep with half the brain (unihemispheric slow-wave sleep), opposite eye closed; ~4 h SWS per hemisphere per day (bottlenose), episodes ~40 min avg; float/log or swim slowly, captive ones on pool bottom; seen in calf a few weeks old; fur seals in water; frigatebirds sleep in flight (Rattenborg 2016); mallards at group edge watch outward (SciAm, Live Science, Lyamin 2008 review)"
+    },
+    {
+      "date": "2026-11-22",
+      "niche": "space",
+      "topic": "Curiosity rover (launched Nov 26 2011, Gale Crater, sky crane ~25 ft, MMRTG plutonium, ~1,982 lb) played Happy Birthday via SAM vibrations once in 2013 for first anniversary; no speaker/mic; stopped: no science gain, power/planning cost"
+    },
+    {
+      "date": "2026-11-22",
+      "niche": "animals",
+      "topic": "Wood frogs freeze in winter (Alaska/Canada leaf litter): heart and breathing stop, ice outside cells, glucose antifreeze, up to 60% frozen, 10-15 freeze-thaw cycles, up to 7 months frozen; thaw inside out, heart first"
+    },
+    {
+      "date": "2026-11-22",
+      "niche": "science",
+      "topic": "Turkey tryptophan myth: turkey ~same tryptophan as chicken/beef, cheddar more per gram; competes with other amino acids at blood-brain barrier; carbs/insulin may matter; big meals, alcohol, long day cause the slump"
+    }
+  ]
 }

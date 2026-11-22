@@ -2,6 +2,17 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-22: Metricool study says Shorts views are up but average view time is ~16 s; no change
+**Found**
+- Metricool's 2026 YouTube study (799,718 videos, 71,177 accounts, published Jul 29 2026) says Shorts views rose more than 127% vs 2025 while average view duration fell about 67% to roughly 16 s; small channels (<10k subs) saw Shorts views grow 200%+; Shorts with hashtags got ~10% fewer views but ~9% more engagement; nothing on captions, layout or length. ([Metricool](https://metricool.com/youtube-trends/))
+- Other caption/format results were the same vendor guides already logged (OpusClip, revid.ai, virvid.ai, FluxNote, Pippit, Miraflow). ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices))
+- Fact pages read today: [NASA: Curiosity celebrates 10 years](https://www.nasa.gov/history/curiosity-celebrates-10-years-on-mars), [IFLScience: why Curiosity stopped singing](https://www.iflscience.com/curiosity-turns-13-why-curiosity-stopped-singing-itself-happy-birthday-80294), [Nextgov/The Atlantic](https://www.nextgov.com/emerging-tech/2017/08/why-curiosity-rover-stopped-singing-happy-birthday-itself/140176/), [UPI On This Day Nov 26](https://www.upi.com/Top_News/2024/11/26/On-This-Day-NASA-launches-Curiosity-rover-to-look-for-life-on-Mars/5381732413724/), [Audubon: frogs freeze](https://www.audubon.org/news/frogs-freeze-survive-alaskan-winter), [NPS Gates of the Arctic: wood frog](https://www.nps.gov/gaar/learn/nature/wood-frog-page-2.htm), [National Geographic: animals that freeze](https://www.nationalgeographic.com/animals/article/animals-freeze-then-thaw-explained), [Harvard Health: turkey coma](https://www.health.harvard.edu/diet-and-nutrition/the-turkey-coma-fact-or-fiction), [Live Science: turkey myth](https://www.livescience.com/41543-thanksgiving-myth-busted-eating-turkey-won-t-make-you-sleepy.html), [Scientific American](https://www.scientificamerican.com/blog/brainwaves/does-eating-turkey-really-make-you-sleepy/), [NPR](https://www.npr.org/2008/11/27/97449569/a-myth-examined-can-turkey-make-you-tired). Disputed bits avoided: Curiosity landing date (Aug 5 vs 6 by time zone, so "first anniversary"), exact 2013 song date, "seven minutes of terror" (not in sources), frog lowest temperature and glucose multiple (sources disagree), carb/insulin mechanism said as "some scientists think... may".
+
+**Applied**
+- No engine change; the ~16 s average view time backs keeping the most surprising fact in sentence 1. Hashtags kept at 6 (trade-off unclear). Owner's ~65 s length stays.
+- Timely angles: Curiosity launched Nov 26 2011; US Thanksgiving Nov 26 2026; winter arriving.
+- Bottoms: parkour / runner / marbles; voices am_michael / af_bella / bm_george; video 3 uses poppins.
+
 ## 2026-11-21: no new caption/layout data; today's format work went into a new Jupiter long-form scene set
 **Found**
 - Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (OpusClip, FluxNote, BlitzCut, revid.ai, Pippit, Anijam, Miraflow) plus one new vendor page on "viral Shorts structures" (virvid.ai); none adds a dated study or new caption/layout data. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026), [virvid.ai](https://virvid.ai/blog/viral-shorts-structures-faceless-2026))
