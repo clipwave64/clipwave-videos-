@@ -1184,6 +1184,39 @@
       ],
       "metricool_id": 437302111,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-24T10:00",
+      "slug": "01-pulsar-little-green-men",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 438334569,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-24T12:00",
+      "slug": "02-pratfall-effect-coffee",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 438334596,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-24T18:00",
+      "slug": "03-seahorse-dads-give-birth",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 438334618,
+      "status": "scheduled"
     }
   ]
 }
