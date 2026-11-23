@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-23: no new caption/layout data today; no change
+**Found**
+- Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (FluxNote, OpusClip, virvid.ai, Pippit, revid.ai) plus Adobe Firefly and CapCut explainer pages; none adds a dated study or new caption/layout data. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026), [virvid.ai](https://virvid.ai/blog/viral-shorts-structures-faceless-2026), [CapCut](https://www.capcut.com/resource/fact-video))
+- Fact pages read today: [Live Science: Bell Burnell discovers pulsar, Nov 28 1967](https://www.livescience.com/space/science-history-astronomy-graduate-student-jocelyn-bell-burnell-discovers-a-signal-of-little-green-men-but-her-adviser-gets-the-nobel-prize-nov-28-1967), [Space.com: little green men](https://www.space.com/38916-pulsar-discovery-little-green-men.html), [Cambridge: journeys of discovery](https://www.cam.ac.uk/stories/journeysofdiscovery-pulsars), [APS News Feb 2006](https://www.aps.org/apsnews/2006/02/this-month-in-physics-history), [Aronson, Willerman & Floyd 1966 (paperity)](https://paperity.org/p/59814503/the-effect-of-a-pratfall-on-increasing-interpersonal-attractiveness), [APS: admitting weakness](https://www.psychologicalscience.org/news/why-admitting-a-weakness-makes-people-like-you-more.html), [Brescia: pratfall effect](https://www.brescia.edu/2017/06/pratfall-effect/), [Britannica: do male seahorses give birth?](https://britannica.com/print/article/2264490), [The Conversation: seahorse birth](https://theconversation.com/seahorse-fathers-give-birth-in-a-unique-way-new-research-shows-188644), [Discover Wildlife](https://discoverwildlife.com/animal-facts/fish/male-seahorses-get-pregnant), [Science News: pouch placenta](https://www.sciencenews.org/article/male-seahorses-mothering-brood-pouch). Disputed bits avoided: first-detection date of the "scruff" (Aug vs Nov), Breakthrough Prize amount ($3M vs GBP 2.3M), where seahorse eggs are fertilized (sources disagree), brood size (only "many hundreds"), self-esteem/Kennedy follow-ups (not verified).
+
+**Applied**
+- No engine change. Timely angle: first pulsar confirmed Nov 28 1967.
+- Bottoms: runner / marbles / parkour; voices af_heart / am_adam / af_bella; video 2 uses poppins.
+
 ## 2026-11-22: Metricool study says Shorts views are up but average view time is ~16 s; no change
 **Found**
 - Metricool's 2026 YouTube study (799,718 videos, 71,177 accounts, published Jul 29 2026) says Shorts views rose more than 127% vs 2025 while average view duration fell about 67% to roughly 16 s; small channels (<10k subs) saw Shorts views grow 200%+; Shorts with hashtags got ~10% fewer views but ~9% more engagement; nothing on captions, layout or length. ([Metricool](https://metricool.com/youtube-trends/))
