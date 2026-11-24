@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-24: same vendor caption/format pages; no new data, no change
+**Found**
+- Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (OpusClip, FluxNote, revid.ai, Pippit, BlitzCut, virvid.ai, Anijam, Miraflow) plus one more FluxNote text-overlay page and an Epidemic Sound 2026 predictions post; none adds a dated study or new caption/layout data. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026), [Epidemic Sound](https://www.epidemicsound.com/blog/youtube-trends-2026/))
+- Fact pages read today: [Wikipedia: Sylacauga meteorite](https://en.wikipedia.org/wiki/Sylacauga_(meteorite)), [Encyclopedia of Alabama](https://encyclopediaofalabama.org/article/hodges-meteorite-strike-sylacauga-aerolite/), [Astronomy.com: Nov 30 1954](https://www.astronomy.com/today-in-the-history-of-astronomy/nov-30-1954-the-first-known-human-injury-via-a-meteorite/), [Smithsonian](https://www.smithsonianmag.com/smithsonian-institution/1954-extraterrestrial-bruiser-shocked-alabama-woman-180973646/), [Smithsonian's National Zoo: sloth facts](https://www.nationalzoo.si.edu/node/11358), [WWF: why are sloths slow](https://www.worldwildlife.org/resources/facts/why-are-sloths-slow-and-6-other-sloth-facts/), [Scientific American/LiveScience: why sloths leave the trees](https://www.scientificamerican.com/article/why-sloths-leave-the-trees-to-defecate/), [UW-Madison CALS (Pauli & Peery)](https://news.cals.wisc.edu/2017/07/06/five-things-everyone-should-know-about-sloths), [Wikipedia: Barnum effect](https://en.wikipedia.org/wiki/Barnum_effect), [Wikipedia: Bertram Forer](https://en.wikipedia.org/wiki/Bertram_Forer)
+
+**Applied**
+- No engine change. Timely angle: Hodges meteorite strike Nov 30 1954.
+- Bottoms: marbles / parkour / runner; voices am_michael / bm_george / af_heart; video 1 uses poppins.
+
 ## 2026-11-23: no new caption/layout data today; no change
 **Found**
 - Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (FluxNote, OpusClip, virvid.ai, Pippit, revid.ai) plus Adobe Firefly and CapCut explainer pages; none adds a dated study or new caption/layout data. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026), [virvid.ai](https://virvid.ai/blog/viral-shorts-structures-faceless-2026), [CapCut](https://www.capcut.com/resource/fact-video))
