@@ -1217,6 +1217,39 @@
       ],
       "metricool_id": 438334618,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-25T10:00",
+      "slug": "01-meteorite-hit-ann-hodges",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 439852503,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-25T12:00",
+      "slug": "02-sloths-poop-once-a-week",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 439852530,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-25T18:00",
+      "slug": "03-barnum-effect-forer",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 439852565,
+      "status": "scheduled"
     }
   ]
 }
