@@ -16,3 +16,5 @@ New planets: add `engine/scenes_<planet>.py` the same way and route its visual p
 The daily routine makes one of these every 3 days (DAILY.md step 9).
 
 Jupiter video: `scripts/jupiter-king-of-planets.json`, scenes in `engine/scenes_jupiter.py` (visuals `jupiter_*`, `io_volcano`, `europa_ocean`, `ganymede_scale`, `callisto`), thumbnail `engine/thumbnail_jupiter.py`.
+
+Saturn video: `scripts/saturn-ringed-planet.json`, scenes in `engine/scenes_saturn.py` (visuals `saturn_*`, `titan_*`, `huygens_landing`, `enceladus_geysers`, `mimas_iapetus`, `cassini_finale`, `dragonfly`; `Ringed` draws the oblate planet with its rings at any tilt), thumbnail `engine/thumbnail_saturn.py`.

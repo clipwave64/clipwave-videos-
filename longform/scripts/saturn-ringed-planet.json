@@ -1,0 +1,312 @@
+{
+  "slug": "saturn-ringed-planet",
+  "title": "Saturn: A Journey to the Ringed Planet",
+  "voice": "bm_george",
+  "speed": 0.94,
+  "chapters": [
+    {
+      "name": "Intro",
+      "scenes": [
+        {
+          "visual": "saturn_closeup",
+          "lines": [
+            "There is a planet so light for its size that astronomers joke it would float in a bathtub.",
+            "Its rings stretch about two hundred and eighty thousand kilometers from edge to edge, yet in many places they are only about ten meters thick.",
+            "It has a giant hexagon spinning at its north pole, storms that wrap around the whole planet, and more known moons than any other world.",
+            "One of those moons has rain, rivers and seas, and another sprays water into space from a hidden ocean.",
+            "This is Saturn, the jewel of the solar system.",
+            "So today, let's take a proper tour of the ringed planet."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A giant made of gas",
+      "scenes": [
+        {
+          "visual": "saturn_scale",
+          "lines": [
+            "Saturn is the second-largest planet in the solar system, after Jupiter.",
+            "It is about nine and a half times wider than Earth, roughly one hundred and twenty thousand kilometers across at its equator.",
+            "Hollow it out, and more than seven hundred and sixty Earths could fit inside.",
+            "And it is heavy too, with about ninety-five times the mass of our planet."
+          ],
+          "callout": "More than 760 Earths would fit inside"
+        },
+        {
+          "visual": "saturn_bathtub",
+          "lines": [
+            "Spread all that mass across Saturn's enormous volume, and its average density comes out lower than the density of water.",
+            "It is the only planet in the solar system like that.",
+            "That's why astronomers joke that Saturn would float, if you could find a bathtub big enough.",
+            "It's only a joke, of course. Saturn is a ball of mostly hydrogen and helium, with no solid surface to float on."
+          ],
+          "callout": "Less dense than water"
+        },
+        {
+          "visual": "saturn_closeup",
+          "lines": [
+            "Saturn also spins so fast that it bulges around the middle.",
+            "Measured from pole to pole, it is about ten percent narrower than it is across the equator.",
+            "That makes it the most flattened planet in the solar system."
+          ],
+          "callout": "The most flattened planet"
+        }
+      ]
+    },
+    {
+      "name": "A short day, a long year",
+      "scenes": [
+        {
+          "visual": "saturn_orbits",
+          "lines": [
+            "Saturn orbits about one point four billion kilometers from the Sun, roughly nine and a half times farther out than Earth.",
+            "At that distance, one trip around the Sun takes nearly thirty Earth years."
+          ]
+        },
+        {
+          "visual": "saturn_bands",
+          "lines": [
+            "But its day is one of the shortest in the solar system.",
+            "Saturn has no solid surface to watch, so for a long time nobody knew exactly how long it was.",
+            "Then, in twenty nineteen, scientists found the answer in tiny waves in the rings, measured by the Cassini spacecraft.",
+            "One day on Saturn lasts about ten hours and thirty-three minutes.",
+            "Saturn is also tilted by about twenty-seven degrees, a little more than Earth, so it has seasons too, each one lasting around seven years."
+          ],
+          "callout": "A day lasts about 10 hours 33 minutes"
+        }
+      ]
+    },
+    {
+      "name": "Wild weather",
+      "scenes": [
+        {
+          "visual": "saturn_dive",
+          "lines": [
+            "From far away, Saturn's cloud tops look calm and creamy.",
+            "But the weather there is ferocious.",
+            "Near the equator, winds blow at up to about eighteen hundred kilometers per hour, far faster than any hurricane on Earth.",
+            "And deep inside its storms, lightning flashes about ten thousand times more powerful than lightning on Earth."
+          ]
+        },
+        {
+          "visual": "saturn_hexagon",
+          "lines": [
+            "At the north pole, there is something that looks almost too strange to be real: a giant hexagon.",
+            "It is a six-sided jet stream about thirty thousand kilometers across, wider than two Earths.",
+            "The Voyager probes first spotted it in the early nineteen eighties, and it was still there when Cassini arrived decades later.",
+            "At its center spins a huge vortex, about twice the size of the largest hurricane ever recorded on Earth.",
+            "Cassini even watched the hexagon change color, from blue to gold, as summer arrived in Saturn's north."
+          ],
+          "callout": "North pole hexagon: about 30,000 km wide"
+        },
+        {
+          "visual": "saturn_storm",
+          "lines": [
+            "About once every Saturn year, roughly every thirty Earth years, a giant storm erupts, called a Great White Spot.",
+            "The most recent one began in late twenty ten.",
+            "Within months, it spread into a huge band of clouds that wrapped around the planet.",
+            "It was the biggest and most intense storm Cassini ever saw, and it disturbed Saturn's atmosphere for more than three years."
+          ],
+          "callout": "Great White Spot, 2010 to 2011"
+        }
+      ]
+    },
+    {
+      "name": "Inside Saturn",
+      "scenes": [
+        {
+          "visual": "saturn_interior",
+          "lines": [
+            "If you could fly down into Saturn, you would never find a surface to land on.",
+            "The gas gets thicker and hotter as you sink, and deep down the pressure is so intense that hydrogen starts to behave like a metal.",
+            "That churning metallic layer is thought to create Saturn's magnetic field, which is hundreds of times stronger than Earth's.",
+            "At the very center, waves in the rings suggest a fuzzy core of ice and rock that blends into the layers around it, rather than a neat solid ball."
+          ],
+          "callout": "Metallic hydrogen"
+        },
+        {
+          "visual": "saturn_closeup",
+          "lines": [
+            "Saturn hides another mystery: it gives off more heat than it receives from the Sun.",
+            "Scientists think part of the answer may be helium rain, with droplets of helium sinking slowly toward the center and releasing heat as they fall.",
+            "Even its magnetic field is strange. Cassini found it lined up almost perfectly with the planet's spin axis, and that still puzzles scientists."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The rings",
+      "scenes": [
+        {
+          "visual": "saturn_galileo",
+          "lines": [
+            "Now for the most famous part of Saturn: its rings.",
+            "In sixteen ten, Galileo pointed his small telescope at Saturn and saw something he could not explain.",
+            "The planet seemed to have two strange bumps on either side, almost like ears.",
+            "It took until the sixteen fifties for the Dutch astronomer Christiaan Huygens, using a better telescope, to work out that Saturn is surrounded by a ring."
+          ]
+        },
+        {
+          "visual": "saturn_ringfly",
+          "lines": [
+            "Today we know the rings are made almost entirely of water ice.",
+            "The pieces range from grains smaller than sand to chunks as big as mountains.",
+            "The main rings stretch about two hundred and eighty thousand kilometers across, but they are typically only about ten meters thick.",
+            "Shrink them to the width of a football field, and they would be far thinner than a sheet of paper."
+          ],
+          "callout": "Made almost entirely of water ice"
+        },
+        {
+          "visual": "saturn_ringparts",
+          "lines": [
+            "The rings are named with letters, in the order they were discovered.",
+            "From the inside out, the bright main rings are the C ring, the B ring and the A ring.",
+            "Between the B and A rings lies a dark gap about forty-seven hundred kilometers wide, called the Cassini Division, after the astronomer Giovanni Cassini, who spotted it in the sixteen seventies.",
+            "Farther out are fainter rings, like the narrow F ring, and the wide E ring, which is fed by ice sprayed out by one of Saturn's moons."
+          ]
+        },
+        {
+          "visual": "saturn_rings_edge",
+          "lines": [
+            "Because they are so thin, the rings can almost disappear.",
+            "Every thirteen to fifteen years, Earth lines up with the plane of the rings, and we see them exactly edge-on.",
+            "The last time was in March twenty twenty-five, when the rings nearly vanished from view."
+          ],
+          "callout": "Ring plane crossing: March 23, 2025"
+        },
+        {
+          "visual": "saturn_ring_rain",
+          "lines": [
+            "And the rings may not last forever.",
+            "Ice from the rings is constantly falling into Saturn, pulled in by gravity and the planet's magnetic field.",
+            "In twenty eighteen, NASA scientists estimated that an Olympic swimming pool's worth of it rains down every half hour.",
+            "Ring rain alone could drain the rings in about three hundred million years, and counting other material falling in, NASA says they may have less than one hundred million years left.",
+            "How old the rings are is still debated.",
+            "Some Cassini results suggested they formed only a few hundred million years ago, while a twenty twenty-four study argued they could be billions of years old."
+          ],
+          "callout": "Ring rain"
+        }
+      ]
+    },
+    {
+      "name": "A world of moons",
+      "scenes": [
+        {
+          "visual": "saturn_moons",
+          "lines": [
+            "Saturn has more known moons than any other planet.",
+            "In March twenty twenty-five, astronomers announced one hundred and twenty-eight new ones, bringing the total to two hundred and seventy-four.",
+            "Most are tiny, but a few are truly remarkable worlds."
+          ],
+          "callout": "274 known moons (as of 2025)"
+        },
+        {
+          "visual": "titan_haze",
+          "lines": [
+            "The biggest is Titan, about five thousand one hundred and fifty kilometers across.",
+            "That's bigger than the planet Mercury, and second only to Jupiter's moon Ganymede.",
+            "Titan is the only moon with a thick atmosphere, made mostly of nitrogen, just like the air you are breathing.",
+            "Standing on Titan, you would feel air pressure about sixty percent higher than on Earth."
+          ],
+          "callout": "Titan: bigger than the planet Mercury"
+        },
+        {
+          "visual": "titan_lakes",
+          "lines": [
+            "It is so cold there that methane, a gas on Earth, falls as rain and fills rivers, lakes and seas.",
+            "Apart from Earth, Titan is the only world we know of with stable liquid on its surface.",
+            "Its largest sea, Kraken Mare, is bigger than all five of North America's Great Lakes combined, and more than three hundred meters deep."
+          ],
+          "callout": "Kraken Mare: Titan's largest sea"
+        },
+        {
+          "visual": "huygens_landing",
+          "lines": [
+            "In January two thousand five, a European probe called Huygens parachuted down through Titan's thick orange haze.",
+            "The descent took about two and a half hours.",
+            "It landed safely and sent data from the surface for about seventy minutes, until Cassini, which was relaying its signal, moved out of range.",
+            "It is still the most distant landing a spacecraft from Earth has ever made."
+          ],
+          "callout": "Huygens probe, January 14, 2005"
+        },
+        {
+          "visual": "enceladus_geysers",
+          "lines": [
+            "Then there's Enceladus, a small moon only about five hundred kilometers across.",
+            "Its fresh ice reflects about ninety percent of the sunlight that hits it, making it one of the brightest objects in the solar system.",
+            "In two thousand five, Cassini found jets of water vapor and ice shooting into space from cracks near its south pole, nicknamed tiger stripes.",
+            "Those jets come from an ocean of liquid water hidden under the ice, and they feed Saturn's E ring."
+          ],
+          "callout": "Enceladus: geysers from a hidden ocean"
+        },
+        {
+          "visual": "mimas_iapetus",
+          "lines": [
+            "Other moons just look bizarre.",
+            "Mimas has a crater so huge, about a third of its own width, that it looks like the Death Star from Star Wars.",
+            "Iapetus is two-toned, with one side bright as snow and the other dark as charcoal, and a ridge around its middle about twenty kilometers high.",
+            "And Hyperion looks like a giant sponge, tumbling chaotically as it goes around Saturn."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visitors from Earth",
+      "scenes": [
+        {
+          "visual": "saturn_flyby",
+          "lines": [
+            "Only four spacecraft have ever visited Saturn.",
+            "Pioneer eleven flew past first, in nineteen seventy-nine, followed by Voyager one in nineteen eighty, and Voyager two in nineteen eighty-one.",
+            "They gave us our first close-up views of the rings, the moons and the clouds."
+          ]
+        },
+        {
+          "visual": "cassini_finale",
+          "lines": [
+            "Then came Cassini, launched in nineteen ninety-seven, which arrived in two thousand four and stayed for thirteen years.",
+            "For its grand finale, Cassini made twenty-two daring dives through the gap between Saturn and its rings, where no spacecraft had ever gone.",
+            "Then, on September fifteenth, twenty seventeen, almost out of fuel, it was steered into Saturn on purpose, so it could never crash into and contaminate moons like Enceladus or Titan."
+          ],
+          "callout": "Cassini: 2004 to 2017"
+        },
+        {
+          "visual": "dragonfly",
+          "lines": [
+            "Next up is Dragonfly, a car-sized, nuclear-powered flying drone that NASA plans to launch in twenty twenty-eight.",
+            "It should reach Titan in twenty thirty-four, then fly from place to place, studying the chemistry of this strange orange world."
+          ],
+          "callout": "Dragonfly: arriving 2034"
+        }
+      ]
+    },
+    {
+      "name": "See it yourself",
+      "scenes": [
+        {
+          "visual": "saturn_closeup",
+          "lines": [
+            "And you don't need a spacecraft to see Saturn.",
+            "On many nights it shines as a steady, golden point of light, easy to spot with just your eyes.",
+            "Even a small telescope can show its rings, the same sight that puzzled Galileo more than four hundred years ago.",
+            "Which Saturn fact surprised you the most? Tell me in the comments, and subscribe for more journeys across the solar system."
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "Saturn is the only planet less dense than water, and its rings are about 280,000 km wide but typically only about 10 meters thick. In this full tour of the ringed planet we cover its size and mass, why it would \"float in a bathtub\", its flattened shape, its 10 h 33 min day (measured from waves in the rings) and nearly 30-year year, 1,800 km/h winds and super-powerful lightning, the north polar hexagon, the Great White Spot of 2010-2011, metallic hydrogen, the fuzzy core and helium rain, how Galileo and Huygens discovered the rings, the A, B and C rings and the Cassini Division, the 2025 ring plane crossing, ring rain and the debate over the rings' age, the 274 known moons including Titan, Enceladus, Mimas, Iapetus and Hyperion, the Huygens landing, every mission from Pioneer 11 to Cassini's Grand Finale, and the Dragonfly mission to Titan.\n\nAll visuals are original computer-generated renders (not real photographs). Narration is AI-generated.\n\nSources: Britannica, Saturn; NASA Saturn lithograph; Space.com Saturn guide; NASA JPL \"Scientists finally know what time it is on Saturn\" (2019); NASA JPL Saturn hexagon releases; ESA, Saturn's greatest storm; Caltech, Saturn makes waves in its own rings; NASA Goddard, ring rain (2018); Space.com on the 2025 ring plane crossing, the 128 new moons and ring age (Hyodo et al. 2024); NASA Titan facts; The Planetary Society, Titan and Enceladus; ESA, Huygens landing; NASA, Cassini Grand Finale by the numbers; Space.com, Dragonfly mission.",
+  "tags": [
+    "saturn",
+    "space",
+    "solar system",
+    "saturn rings",
+    "titan",
+    "enceladus",
+    "cassini",
+    "hexagon",
+    "astronomy",
+    "space documentary"
+  ]
+}

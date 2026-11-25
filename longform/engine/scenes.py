@@ -566,6 +566,9 @@ def make(visual, dur, occurrence):
     if visual.startswith(("jupiter_", "io_", "europa_", "ganymede_")) or visual == "callisto":
         import scenes_jupiter
         return scenes_jupiter.make(visual, dur, occurrence)
+    if visual.startswith(("saturn_", "titan_", "huygens_", "enceladus_", "mimas_")) or visual in ("cassini_finale", "dragonfly"):
+        import scenes_saturn
+        return scenes_saturn.make(visual, dur, occurrence)
     if visual == "venus_closeup":
         return VenusCloseup(dur, variant=[0, 1, 2][min(occurrence, 2)])
     table = {
