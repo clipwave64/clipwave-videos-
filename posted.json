@@ -1250,6 +1250,39 @@
       ],
       "metricool_id": 439852565,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-26T10:00",
+      "slug": "01-magellan-names-pacific",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 441300032,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-26T12:00",
+      "slug": "02-man-hiccuped-68-years",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 441300061,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-26T18:00",
+      "slug": "03-ostrich-eyes-bigger-than-brain",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 441300080,
+      "status": "scheduled"
     }
   ]
 }
