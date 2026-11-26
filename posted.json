@@ -1293,6 +1293,39 @@
       "type": "long-form video",
       "metricool_id": 441361504,
       "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-27T10:00",
+      "slug": "01-enos-chimp-orbit",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 442699431,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-27T12:00",
+      "slug": "02-arctic-tern-migration",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 442699470,
+      "status": "scheduled"
+    },
+    {
+      "post_date": "2026-11-27T18:00",
+      "slug": "03-chicago-pile-squash-court",
+      "networks": [
+        "tiktok",
+        "instagram",
+        "youtube"
+      ],
+      "metricool_id": 442699489,
+      "status": "scheduled"
     }
   ]
 }
