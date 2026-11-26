@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-26: vendor caption/format guides unchanged; no change
+**Found**
+- Today's search for faceless Shorts caption/format trends and Reels/TikTok algorithm updates returned the same vendor guides already logged (FluxNote, revid.ai, virvid.ai, Miraflow, Anijam) plus SocialPilot/Later Reels-algorithm explainers; nothing new or dated on captions, layout or length. ([FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026), [virvid.ai](https://virvid.ai/blog/viral-shorts-structures-faceless-2026), [SocialPilot](https://www.socialpilot.co/?p=563048))
+- Fact pages read today: [Wikipedia: Enos](https://en.wikipedia.org/wiki/Enos_(chimpanzee)), [Smithsonian NASM: Enos](https://airandspace.si.edu/stories/editorial/enos-forgotten-chimp), [Wikipedia: Mercury-Atlas 5](https://en.wikipedia.org/wiki/Mercury-Atlas_5), [Phys.org: Arctic terns](https://phys.org/news/2010-01-arctic-terns-longest-animal-migration.html), [Live Science: Arctic terns](https://livescience.com/6022-record-migration-small-birds-travel-50-000-miles.html), [OSTI: CP-1 goes critical](https://www.osti.gov/opennet/manhattan-project-history/Events/1942-1944_pu/cp-1_critical.htm), [LANL: Chicago Pile](https://discover.lanl.gov/publications/the-vault/the-vault-2022/chicago-pile), [HISTORY: Fermi](https://www.history.com/this-day-in-history/december-2/fermi-produces-the-first-nuclear-chain-reaction)
+
+**Applied**
+- No engine change. Timely angles: Enos orbit Nov 29 1961; Chicago Pile-1 Dec 2 1942.
+- Bottoms: runner / marbles / parkour; voices bm_george / af_heart / am_adam; video 2 uses poppins.
+
 ## 2026-11-25: same vendor caption guides again; no change
 **Found**
 - Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (OpusClip, FluxNote, revid.ai, Pippit, BlitzCut, virvid.ai, Anijam, Miraflow, Epidemic Sound); nothing new or dated on captions, layout or length. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote](https://fluxnote.io/guides/faceless-shorts-text-overlay-tips-2026), [BlitzCut](https://blitzcutai.com/blog/best-caption-style-youtube-shorts-2026))
