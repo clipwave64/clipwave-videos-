@@ -1,0 +1,86 @@
+{
+  "slug": "03-pong-quarters-jam",
+  "category": "TECH FACT",
+  "theme": "#f39c12",
+  "voice": "af_heart",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "The first big video game hit broke down because it was too full of money.",
+      "emoji": "🕹️"
+    },
+    {
+      "text": "In nineteen seventy-two, a brand new company called Atari was started by Nolan Bushnell and Ted Dabney.",
+      "emoji": "🏢"
+    },
+    {
+      "text": "They hired a young engineer named Allan Alcorn.",
+      "emoji": "👨‍💻"
+    },
+    {
+      "text": "As a training exercise, Bushnell asked him to build a simple ping-pong game.",
+      "emoji": "🏓"
+    },
+    {
+      "text": "Alcorn even made its famous beep sounds from tones already inside the circuit.",
+      "emoji": "🔊"
+    },
+    {
+      "text": "The result was Pong, and it was so fun they built a coin-operated cabinet.",
+      "emoji": "🪙"
+    },
+    {
+      "text": "In late summer, they put the prototype in Andy Capp's Tavern, a bar in Sunnyvale, California.",
+      "emoji": "🍺"
+    },
+    {
+      "text": "It was just a small black-and-white TV inside a hand-painted cabinet.",
+      "emoji": "📺"
+    },
+    {
+      "text": "Each game cost a quarter.",
+      "emoji": "💰"
+    },
+    {
+      "text": "A few weeks later, the bar called to say the machine was broken.",
+      "emoji": "📞"
+    },
+    {
+      "text": "When Alcorn opened it up, the coin box was jammed full of quarters.",
+      "emoji": "😮"
+    },
+    {
+      "text": "He later said he was scooping out fistfuls of them.",
+      "emoji": "🤲"
+    },
+    {
+      "text": "On November twenty-ninth, nineteen seventy-two, Atari announced Pong cabinets for the rest of the country.",
+      "emoji": "📣"
+    },
+    {
+      "text": "Atari eventually sold about thirty-five thousand of them.",
+      "emoji": "📦"
+    },
+    {
+      "text": "Pong helped kick off the whole video game industry.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Would you have paid a quarter to play Pong? Tell me below.",
+      "emoji": "💬"
+    }
+  ],
+  "title": "This video game broke because it was too full of money 🕹️",
+  "caption": "Atari's first Pong cabinet, tested in a Sunnyvale bar in 1972, stopped working because its coin box was jammed with quarters. Atari went on to sell about 35,000 of them.",
+  "hashtags": [
+    "#tech",
+    "#techfacts",
+    "#videogames",
+    "#gaming",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
