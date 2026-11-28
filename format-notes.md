@@ -2,6 +2,15 @@
 
 Newest first. Each daily run adds what short-form formats/styles are performing and what it applied.
 
+## 2026-11-28: same vendor caption/format guides; no change
+**Found**
+- Today's search for faceless Shorts caption/format trends returned the same vendor guides already logged (OpusClip, revid.ai, Pippit, FluxNote, BlitzCut, virvid.ai, Anijam, Miraflow, Epidemic Sound); nothing new or dated on captions, layout or length. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026), [BlitzCut](https://blitzcutai.com/blog/best-caption-style-youtube-shorts-2026))
+- Fact pages read today: [NASA: Hubble's mirror flaw](https://science.nasa.gov/mission/hubble/overview/hubbles-mirror-flaw), [NASA GSFC: Servicing Mission 1](https://asd.gsfc.nasa.gov/archive/hubble/missions/sm1.html), [ESA/Hubble: SM1](https://esahubble.org/about/history/servicing_mission_1/), [National Geographic 2013: reindeer eyes](https://www.nationalgeographic.com/science/article/why-are-reindeer-eyes-golden-in-summer-but-blue-in-winter), [Science News: reindeer eyes](https://www.sciencenews.org/blog/wild-things/reindeer-eyes-change-color-winter-darkness), [National Geographic 2022: reindeer UV](https://www.nationalgeographic.com/animals/article/reindeer-eyes-color-change-season-uv), [HISTORY: Dec 1 1913](https://www.history.com/this-day-in-history/december-1/fords-assembly-line-starts-rolling), [HISTORY: Oct 7 1913](https://www.history.com/this-day-in-history/october-7/moving-assembly-line-at-ford), [Assembly Magazine: line turns 100](https://www.assemblymag.com/articles/91581-the-moving-assembly-line-turns-100), [Automotive Hall of Fame](https://www.automotivehalloffame.org/?p=1202). Disputed bits avoided: Hubble cost, "Naked Gun" jokes and spacewalk count (not on the pages read); reindeer 1000x sensitivity said as the research team's finding, with the skeptics' view ("other retina changes must help"); Ford line date (Oct 7 vs Dec 1 1913) said as "October 1913" per 3 of 4 sources, "12.5 hours"/"2.5 hours" avoided (used "over twelve hours", "less than three hours"), rope vs hand-pushed dollies not mentioned.
+
+**Applied**
+- No engine change. Timely angles: Hubble SM1 launched Dec 2 1993; Ford assembly line anniversary (HISTORY lists Dec 1 1913); reindeer for the start of December.
+- Bottoms: runner / marbles / parkour; voices am_adam / af_bella / bm_george; video 3 uses poppins.
+
 ## 2026-11-27: Shorts UI changes (2x playback, clear-screen mode) noted; no change
 **Found**
 - Today's caption/format search returned the same vendor guides already logged (OpusClip, FluxNote, revid.ai, Pippit, BlitzCut, virvid.ai, Anijam, Miraflow, Epidemic Sound); nothing new or dated on captions, layout or length. ([OpusClip](https://www.opus.pro/blog/youtube-shorts-caption-subtitle-best-practices), [FluxNote](https://fluxnote.io/guides/youtube-shorts-text-on-screen-format-2026), [BlitzCut](https://blitzcutai.com/blog/best-caption-style-youtube-shorts-2026))

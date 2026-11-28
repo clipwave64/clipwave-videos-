@@ -1,0 +1,82 @@
+{
+  "slug": "01-hubble-blurry-mirror",
+  "category": "SPACE FACT",
+  "theme": "#6a4cff",
+  "voice": "am_adam",
+  "layout": "split",
+  "bottom": "runner",
+  "caption_font": "montserrat",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "The Hubble Space Telescope launched with a mistake thinner than a human hair.",
+      "emoji": "🔭"
+    },
+    {
+      "text": "Hubble went up on April twenty fourth, nineteen ninety.",
+      "emoji": "🚀"
+    },
+    {
+      "text": "Just two months later, NASA announced the telescope was flawed.",
+      "emoji": "😬"
+    },
+    {
+      "text": "Its main mirror, about eight feet wide, had been ground slightly wrong.",
+      "emoji": "🪞"
+    },
+    {
+      "text": "The outer edge was too flat by about two microns, roughly one fiftieth the thickness of a hair.",
+      "emoji": "🔬"
+    },
+    {
+      "text": "That tiny error gave the mirror more than one focal point.",
+      "emoji": "🎯"
+    },
+    {
+      "text": "So light got scattered, and stars came out with fuzzy halos.",
+      "emoji": "🌟"
+    },
+    {
+      "text": "The cause? A testing tool with a lens spacing error of just one point three millimeters.",
+      "emoji": "📏"
+    },
+    {
+      "text": "And that mistake had gone unnoticed since the mirror was ground in nineteen seventy nine.",
+      "emoji": "🕰️"
+    },
+    {
+      "text": "So instead of replacing the mirror, engineers gave Hubble glasses.",
+      "emoji": "👓"
+    },
+    {
+      "text": "In December nineteen ninety three, a seven person crew flew space shuttle Endeavour up to it.",
+      "emoji": "👩‍🚀"
+    },
+    {
+      "text": "They installed a device called COSTAR, with five pairs of corrective mirrors, some as small as a nickel.",
+      "emoji": "🪙"
+    },
+    {
+      "text": "They also swapped in a new main camera with its own built-in correction.",
+      "emoji": "📷"
+    },
+    {
+      "text": "It worked, and Hubble has now made more than one and a half million observations.",
+      "emoji": "✨"
+    },
+    {
+      "text": "Would you have trusted NASA again after that? Tell me below.",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Hubble launched blurry. Astronauts gave it glasses 👓",
+  "caption": "Hubble's 2.4 m mirror was ground about 2 microns too flat at the edge, so its first images were fuzzy. In December 1993 astronauts installed corrective optics, and it has made over 1.5 million observations since.",
+  "hashtags": [
+    "#space",
+    "#spacefacts",
+    "#hubble",
+    "#nasa",
+    "#didyouknow",
+    "#shorts"
+  ]
+}

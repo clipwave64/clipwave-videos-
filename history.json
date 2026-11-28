@@ -599,6 +599,21 @@
       "date": "2026-11-27",
       "niche": "tech",
       "topic": "Pong: Atari founded June 1972 (Bushnell, Dabney); Allan Alcorn built it as training exercise; sounds from sync generator tones; prototype late summer 1972 at Andy Capp's Tavern, Sunnyvale, 25 cents; weeks later 'broken', 13-inch b&w TV in hand-painted cabinet; coin box jammed with quarters, 'fistfuls'; Nov 29 1972 nationwide rollout announced; ~35,000 cabinets (CHM, IEEE Spectrum, Yahoo, Lithub)"
+    },
+    {
+      "date": "2026-11-28",
+      "niche": "space",
+      "topic": "Hubble's flawed mirror: launched Apr 24 1990; flaw announced June 27 1990; 2.4 m (7.9 ft) mirror edge ~2.2 microns too flat (~1/50 hair); spherical aberration, >1 focal point, fuzzy halos; null corrector lens spacing off 1.3 mm, mirror ground 1979; SM1 STS-61 Endeavour Dec 2-13 1993, 7 crew; COSTAR 5 pairs corrective mirrors some nickel-size ('eyeglasses'); WFPC2 built-in correction; >1.5 million observations (NASA, GSFC, ESA)"
+    },
+    {
+      "date": "2026-11-28",
+      "niche": "animals",
+      "topic": "Reindeer eyes gold in summer, blue in winter: tapetum lucidum; Stokkan, Jeffery et al. 2013 Proc R Soc B (Tromso, UCL); pupils dilated for months, drainage blocked, pressure up, collagen fibers packed tighter reflect blue vs yellow; >=1000x more sensitive (team), Nilsson skeptical; less sharp; months of darkness; UV vision, lichen absorbs UV dark against snow (NG 2013/2022, Science News)"
+    },
+    {
+      "date": "2026-11-28",
+      "niche": "history",
+      "topic": "Ford moving assembly line: magneto line early 1913; chassis line Oct 7 1913 Highland Park (HISTORY Dec page says Dec 1 1913); 140 assemblers along 150 ft; chassis >12 h -> <3 h -> 93 min within ~a year; idea from Chicago meatpacking overhead trolleys; peak one Model T every 24 s; price $850 at launch -> below $300; >15 million built by 1927, nearly half of world's cars (HISTORY, Assembly Magazine, Automotive Hall of Fame)"
     }
   ]
 }

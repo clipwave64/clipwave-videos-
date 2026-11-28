@@ -1,0 +1,70 @@
+{
+  "slug": "03-ford-assembly-line",
+  "category": "HISTORY FACT",
+  "theme": "#c0392b",
+  "voice": "bm_george",
+  "layout": "split",
+  "bottom": "parkour",
+  "caption_font": "poppins",
+  "character": "swordfish",
+  "scenes": [
+    {
+      "text": "Henry Ford cut the time to build a car chassis from over twelve hours to ninety three minutes.",
+      "emoji": "🚗"
+    },
+    {
+      "text": "His secret was the moving assembly line.",
+      "emoji": "🏭"
+    },
+    {
+      "text": "Before, each Model T was built in one spot, with workers bringing parts to it.",
+      "emoji": "🔧"
+    },
+    {
+      "text": "The idea came from Chicago meatpackers, who moved carcasses past workers on overhead trolleys.",
+      "emoji": "🥩"
+    },
+    {
+      "text": "Ford's team tested it in early nineteen thirteen on a small part called the magneto.",
+      "emoji": "🧲"
+    },
+    {
+      "text": "In October nineteen thirteen, they tried it on the whole chassis at the Highland Park plant.",
+      "emoji": "📅"
+    },
+    {
+      "text": "About one hundred forty workers lined a one hundred fifty foot track.",
+      "emoji": "👷"
+    },
+    {
+      "text": "Soon a chassis took under three hours, and within about a year, just ninety three minutes.",
+      "emoji": "⏱️"
+    },
+    {
+      "text": "At its peak, the line turned out one Model T every twenty four seconds.",
+      "emoji": "⚡"
+    },
+    {
+      "text": "Cars got cheaper too, from eight hundred fifty dollars at launch to under three hundred.",
+      "emoji": "💵"
+    },
+    {
+      "text": "Over fifteen million Model Ts were built by nineteen twenty seven, nearly half the cars sold worldwide till then.",
+      "emoji": "🌍"
+    },
+    {
+      "text": "Would you rather build a whole car, or do one job all day? Tell me below.",
+      "emoji": "💬"
+    }
+  ],
+  "title": "Ford cut car building from 12 hours to 93 minutes 🚗",
+  "caption": "In 1913 Ford's Highland Park plant put the Model T chassis on a moving assembly line, inspired by Chicago meatpackers. Build time fell from over 12 hours to 93 minutes, and more than 15 million Model Ts were made.",
+  "hashtags": [
+    "#history",
+    "#historyfacts",
+    "#henryford",
+    "#cars",
+    "#didyouknow",
+    "#shorts"
+  ]
+}
